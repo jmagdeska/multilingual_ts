@@ -1,4 +1,5 @@
 import sys
+from dateutil.parser import parse
 
 months = {'enero': '01', 'febrero': '02', 'marzo': '03', 'abril': '04', 
 'mayo': '05', 'junio': '06', 'julio': '07', 'agosto': '08', 'septiembre': '09', 
@@ -84,11 +85,29 @@ def clean_lebanon(fp, f_out):
         f_out.write(new_date + '\n' + l[1])
         ind += 1
 
+def clean_venezuela(fp, f_out):
+    last_date = ''
+    for line in fp:        
+        divs = line.split('class="tl-headline-date">')
+        for i in range(2, len(divs)):
+            content = divs[i].split('</h3>')
+            d = parse(content[0], fuzzy_with_tokens=True)
+            curr_date = str(d[0].date())
+            text = content[1].split('<div class="tl-text-content"><p>')
+            if len(text) != 1:
+                t = text[1].split('</p>')[0]
+                if curr_date != last_date:
+                    last_date = curr_date
+                    if i != 2: f_out.write('--------------------------------' + '\n')
+                    f_out.write(str(curr_date) + '\n')
+
+                f_out.write(t + '\n')
+
 f_in = open('es_timelines/' + sys.argv[1], 'r')
 f_out = open('es_clean/' + sys.argv[1], 'w')
 
 fp = f_in.readlines()
-clean_syria2(fp, f_out)
+clean_venezuela(fp, f_out)
 f_out.write('\n' + '--------------------------------')
 
 f_in.close()
