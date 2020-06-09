@@ -118,11 +118,21 @@ def clean_greece(fp, f_out):
             f_out.write(curr_date + '\n' + text)
             ind += 1
 
+def clean_lybia(fp, f_out):
+    ind = 0
+    for line in fp:
+        if line[0].isdigit():
+                content = line.split(" : ")
+                curr_date = str(dateparser.parse(content[0]).date())
+                if ind != 0 : f_out.write('--------------------------------' + '\n')
+                f_out.write(curr_date + '\n' + content[1])
+        ind += 1
+
 f_in = open('es_timelines/' + sys.argv[1], 'r')
 f_out = open('es_clean/' + sys.argv[1], 'w')
 
 fp = f_in.readlines()
-clean_greece(fp, f_out)
+clean_lybia(fp, f_out)
 f_out.write('\n' + '--------------------------------')
 
 f_in.close()

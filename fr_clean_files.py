@@ -76,4 +76,4 @@ def clean_ukraine2(fname):
     f_out.write('--------------------------------')
     f_out.close()
 
-clean_ukraine2(sys.argv[1])
+clean_ukraine(sys.argv[1])
