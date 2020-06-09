@@ -7,7 +7,7 @@ from spacy.lang.es.stop_words import STOP_WORDS
 
 def get_text_rank(doc):
     res = []
-    text_rank = sgrank(doc, ngrams=(1, 2), normalize='lemma', topn=5, include_pos=('PROPN', 'ADJ', 'NOUN'))
+    text_rank = sgrank(doc, ngrams=(1, 2), normalize='lower', topn=5, include_pos=('PROPN', 'ADJ', 'NOUN'))
 
     for text in text_rank:
         res.append(text[0])

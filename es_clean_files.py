@@ -1,4 +1,5 @@
 import sys
+import dateparser
 from dateutil.parser import parse
 
 months = {'enero': '01', 'febrero': '02', 'marzo': '03', 'abril': '04', 
@@ -103,11 +104,25 @@ def clean_venezuela(fp, f_out):
 
                 f_out.write(t + '\n')
 
+def clean_greece(fp, f_out):
+    curr_year = ''
+    ind = 0
+    for line in fp:
+        if 'AÑO' in line:
+            curr_year = line.split(' ')[1].strip('\n')
+        elif line[0].isdigit():
+            d = line.split('.')[0] + ' ' + curr_year
+            curr_date = str(dateparser.parse(d).date())
+            text = '. '.join((line.split('. ')[1:]))
+            if ind != 0: f_out.write('--------------------------------' + '\n')
+            f_out.write(curr_date + '\n' + text)
+            ind += 1
+
 f_in = open('es_timelines/' + sys.argv[1], 'r')
 f_out = open('es_clean/' + sys.argv[1], 'w')
 
 fp = f_in.readlines()
-clean_venezuela(fp, f_out)
+clean_greece(fp, f_out)
 f_out.write('\n' + '--------------------------------')
 
 f_in.close()
