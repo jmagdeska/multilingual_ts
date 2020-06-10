@@ -29,7 +29,9 @@ f_in = open(sys.argv[1] + '_clean/' + sys.argv[2], 'r')
 f_out = open(sys.argv[1] + '_keywords/top_kw_' + sys.argv[2], 'w')
 punc = set(punctuation + '“' + '”')
 
-nlp = spacy.load('es_core_news_sm') if sys.argv[1] == 'es' else spacy.load('fr_core_news_sm')
+lang = {'es':'es_core_news_sm', 'fr':'fr_core_news_sm', 'it':'it_core_news_sm'}
+
+nlp = spacy.load(lang[sys.argv[1]]) 
 doc = nlp(f_in.read())
 keywords = get_text_rank(doc)
 f_out.write(','.join(keywords))
