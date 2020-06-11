@@ -2,6 +2,9 @@ import re
 import sys
 import dateparser
 
+months = ['gennaio', 'febbraio', 'marzo', 'aprile', 'maggio', 'giugno', 
+'luglio', 'agosto', 'settembre', 'ottobre', 'novembre', 'dicembre']
+
 def clean(fname):
     ind = 0
     f_out = open('it_clean/' + fname, 'w')
@@ -19,4 +22,33 @@ def clean(fname):
     f_out.write('\n' + '--------------------------------')
     f_out.close()
 
-clean(sys.argv[1])
+def clean2(fname):
+    ind = 0
+    curr_date = ''
+    curr_year = ''
+    f_out = open('it_clean/' + fname, 'w')
+    with open('it_timelines/' + fname, 'r') as fp:
+        for line in fp:
+            if line.strip('\n') == '2003' or line.strip('\n') == '2004':
+                curr_year = line.strip('\n')
+            elif line[0].isdigit():
+                content = line.split(' ')
+                if len(content) > 2 and content[1] in months:
+                    d = line.split(' - ')[0]
+                    d += ' ' + curr_year
+                    d = str(dateparser.parse(d).date())
+                    if d != curr_date:
+                        curr_date = d
+                        if ind != 0: f_out.write('--------------------------------' + '\n')
+                        f_out.write(curr_date + '\n')
+                    text = ' '.join((line.split(' - ')[1:]))
+                    f_out.write(text)
+                ind += 1
+            else:
+                f_out.write(line)
+                ind+=1
+
+    f_out.write('\n' + '--------------------------------')
+    f_out.close()
+
+clean2(sys.argv[1])
