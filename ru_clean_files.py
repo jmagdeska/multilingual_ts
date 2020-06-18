@@ -24,7 +24,7 @@ def clean_syria(fname):
     with open('ru_timelines/' + fname, 'r') as fp: 
         for line in fp:
             content = line.split(' ')
-            if content[0] == '2011' or content[0] == '2012':
+            if content[0].startswith('200'):
                 curr_year = content[0]
             elif line != '\n':
                 d = content[0] + ' ' + content[1] + ' ' + curr_year
