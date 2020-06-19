@@ -1,6 +1,7 @@
 import sys
 import nltk
 nltk.download("stopwords")
+from summa.keywords import keywords
 
 import numpy as np
 import pandas as pd
@@ -35,8 +36,18 @@ def extract_kw(t):
     kw = word_counter_df['word'].tolist()
     return kw
 
+def summa_kw(t):
+    tokens = mystem.lemmatize(t.lower())
+    tokens = [token for token in tokens if token not in russian_sw\
+            and token != " " \
+            and not token.isdigit() \
+            and token.strip() not in punctuation]
+    t = str(tokens)
+    kw = keywords(t, language='russian', words=5, split=True)
+    return kw
+
 t = preprocess_file(sys.argv[1])
-kw = extract_kw(t)
+kw = summa_kw(t)
 f_out = open('ru_keywords/top_kw_' + sys.argv[1], 'w')
-f_out.write(','.join(kw))
+f_out.write(",".join(kw))
 f_out.close()
