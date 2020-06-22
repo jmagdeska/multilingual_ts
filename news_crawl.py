@@ -3,6 +3,7 @@ import requests
 import dateparser
 from bs4 import BeautifulSoup
 from datetime import datetime
+from urllib.parse import quote
 from GoogleNews import GoogleNews
 from dateutil.parser import parse
 
@@ -40,10 +41,11 @@ def extract_links(dir_c, dir_k, lang):
 
         f_out = open(lang + '_news/' + t + '_links.txt', 'w')
 
+        key_enc = quote(kw.encode('utf8'))
         googlenews = GoogleNews()
         googlenews.setlang(lang)
         googlenews.setTimeRange(min_d, max_d)
-        googlenews.search(kw)
+        googlenews.search(key_enc)
         result = googlenews.result()
         page = 1
         n = 0
