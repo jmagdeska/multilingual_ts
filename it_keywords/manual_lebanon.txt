@@ -1,1 +1,1 @@
-Hezbollah,israeliani,guerra,Israele,Onu
+hezbollah,israeliani,guerra,israele,onu

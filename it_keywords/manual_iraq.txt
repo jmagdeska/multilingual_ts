@@ -1,1 +1,1 @@
-Iraq,Baghdad,Saddam Hussein,soldati americani,militare
+iraq,baghdad,saddam hussein,soldati americani,militare

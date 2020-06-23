@@ -1,8 +1,7 @@
 import sys
 import requests
 import dateparser
-from bs4 import BeautifulSoup
-from datetime import datetime
+from datetime import datetime, timedelta
 from urllib.parse import quote
 from GoogleNews import GoogleNews
 from dateutil.parser import parse
@@ -22,21 +21,33 @@ def get_date_range(fp):
         if is_date(line):
             date = str(parse(line).date())
             dates.append(date)
-    min_d = datetime.strptime(min(dates), '%Y-%m-%d').strftime('%m/%d/%Y')
-    max_d = datetime.strptime(max(dates), '%Y-%m-%d').strftime('%m/%d/%Y')
-    
-    return min_d, max_d
+
+    min_d = (datetime.strptime(min(dates), '%Y-%m-%d') - timedelta(days=10)).strftime('%m/%d/%Y')
+    max_d = (datetime.strptime(max(dates), '%Y-%m-%d') + timedelta(days=10)).strftime('%m/%d/%Y')
+    num_dates = len(dates)
+
+    return min_d, max_d, num_dates
+
+def get_keywords(d,topic):
+    f1 = open(d + 'top_kw_' + topic + '.txt', 'r')
+    f2 = open(d + 'manual_' + topic + '.txt', 'r')
+
+    top_kw = f1.readline().strip('\n').split(',')
+    manual_kw = f2.readline().strip('\n').split(',')
+  
+    kw = ','.join(list(set(top_kw).union(set(manual_kw))))
+    return kw
 
 def extract_links(dir_c, dir_k, lang):
     for t in topics:
         print('Current topic: ', t + '\n')
-        f_kw = open(dir_k + 'top_kw_' + t + '.txt', 'r')
-        kw = ','.join(f_kw.readlines()).strip('\n')
+
+        kw = get_keywords(dir_k, t)
         print('Keywords: ', kw + '\n')
 
         f_clean = open(dir_c + t + '.txt', 'r')
         fp = f_clean.readlines()
-        min_d, max_d = get_date_range(fp)
+        min_d, max_d, num_d = get_date_range(fp)
         print('Date range: ', min_d, max_d + '\n')
 
         f_out = open(lang + '_news/' + t + '_links.txt', 'w')
@@ -48,17 +59,20 @@ def extract_links(dir_c, dir_k, lang):
         googlenews.search(key_enc)
         result = googlenews.result()
         page = 1
-        n = 0
+        num_art = 0
+        num_curr = 0
 
-        while len(result) > 0 and page < 3:
-            date = str(dateparser.parse(result[n]['date']).date())
-            link = result[n]['link']
+        while len(result) > 0 and num_art < 10*num_d:
+            date = str(dateparser.parse(result[num_curr]['date']).date())
+            link = result[num_curr]['link']
             f_out.write(date + '\n' + link)
             f_out.write('\n--------------------------------\n')
 
-            n += 1
-            if n == len(result):
-                n = 0
+            num_art += 1
+            num_curr += 1
+
+            if num_curr == len(result):
+                num_curr = 0
                 page += 1
                 googlenews.getpage(page)
                 result = googlenews.result()
@@ -67,7 +81,7 @@ def extract_links(dir_c, dir_k, lang):
         f_out.close()
 
 lang = sys.argv[1]
-topics = ['iraq', 'lebanon', 'libya', 'syria']
+topics = ['iraq', 'lebanon', 'syria']
 dir_clean = lang + '_clean/'
 dir_kw = lang + '_keywords/'
 

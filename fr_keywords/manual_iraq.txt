@@ -1,1 +1,1 @@
-Irak,régime,ONU,Saddam Hussein,Bagdad
+irak,régime,onu,saddam hussein,bagdad

@@ -1,1 +1,1 @@
-Benghazi,Libye,Kadhafi,Tripoli,rebelles
+benghazi,libye,kadhafi,tripoli,rebelles

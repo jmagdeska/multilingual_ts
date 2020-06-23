@@ -1,1 +1,1 @@
-Trípoli,Bengasi,Gadafi,Libia,régimen
+trípoli,bengasi,gadafi,libia,régimen

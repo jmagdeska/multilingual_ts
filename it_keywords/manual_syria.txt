@@ -1,1 +1,1 @@
-Siria,Damasco,proteste,Assad,governo
+siria,damasco,proteste,assad,governo
