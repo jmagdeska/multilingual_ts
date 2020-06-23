@@ -35,7 +35,8 @@ def get_keywords(d,topic):
     top_kw = f1.readline().strip('\n').split(',')
     manual_kw = f2.readline().strip('\n').split(',')
   
-    kw = ','.join(list(set(top_kw).union(set(manual_kw))))
+    # kw = ','.join(list(set(top_kw).union(set(manual_kw))))
+    kw = ','.join(top_kw)
     return kw
 
 def extract_links(dir_c, dir_k, lang):
@@ -58,30 +59,31 @@ def extract_links(dir_c, dir_k, lang):
         googlenews.setTimeRange(min_d, max_d)
         googlenews.search(key_enc)
         result = googlenews.result()
-        page = 1
-        num_art = 0
-        num_curr = 0
 
-        while len(result) > 0 and num_art < 10*num_d:
-            date = str(dateparser.parse(result[num_curr]['date']).date())
-            link = result[num_curr]['link']
+        page = 1
+        num_art = len(result)
+        curr_art = num_art
+
+        while curr_art < 10*num_d:
+            page += 1
+            googlenews.getpage(page)
+            result = googlenews.result()
+            num_art = len(result)
+            if curr_art < num_art:
+                curr_art = num_art
+            else: break
+        
+        for i in range(curr_art):
+            date = str(dateparser.parse(result[i]['date']).date())
+            link = result[i]['link']
             f_out.write(date + '\n' + link)
             f_out.write('\n--------------------------------\n')
-
-            num_art += 1
-            num_curr += 1
-
-            if num_curr == len(result):
-                num_curr = 0
-                page += 1
-                googlenews.getpage(page)
-                result = googlenews.result()
 
         print('--------------------------------\n')
         f_out.close()
 
 lang = sys.argv[1]
-topics = ['iraq', 'lebanon', 'syria']
+topics = ['iraq', 'lebanon', 'libya', 'syria']
 dir_clean = lang + '_clean/'
 dir_kw = lang + '_keywords/'
 
