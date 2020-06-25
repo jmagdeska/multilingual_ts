@@ -3,8 +3,8 @@ import dateparser
 
 def clean(fname):
     ind = 0
-    f_out = open('ru_clean/' + fname, 'w')
-    with open('ru_timelines/' + fname, 'r') as fp: 
+    f_out = open('clean/' + fname, 'w')
+    with open('timelines/' + fname, 'r') as fp: 
         for line in fp:
             if line[0].isdigit():
                 content = line.split(" : ")
@@ -20,8 +20,8 @@ def clean(fname):
 def clean_syria(fname):
     ind = 0
     curr_year = ''
-    f_out = open('ru_clean/' + fname, 'w')
-    with open('ru_timelines/' + fname, 'r') as fp: 
+    f_out = open('clean/' + fname, 'w')
+    with open('timelines/' + fname, 'r') as fp: 
         for line in fp:
             content = line.split(' ')
             if content[0].startswith('200'):

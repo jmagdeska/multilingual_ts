@@ -10,8 +10,8 @@ days = ['lundi', 'mardi', 'mercredi', 'jeudi', 'vendredi', 'samedi', 'dimanche']
 
 def clean_brexit(fname):
     ind = 0
-    f_out = open('fr_clean/' + fname, 'w')
-    with open('fr_timelines/' + fname, 'r') as fp:
+    f_out = open('clean/' + fname, 'w')
+    with open('timelines/' + fname, 'r') as fp:
         for line in fp:
             if line[0].isdigit():
                 content = line.split(" : ")
@@ -26,8 +26,8 @@ def clean_brexit(fname):
 
 def clean_ukraine(fname):
     ind = 0
-    f_out = open('fr_clean/' + fname, 'w')
-    with open('fr_timelines/' + fname, 'r') as fp: 
+    f_out = open('clean/' + fname, 'w')
+    with open('timelines/' + fname, 'r') as fp: 
         for line in fp:
             if line[0].isdigit():
                 content = line.split(" : ")
@@ -40,8 +40,8 @@ def clean_ukraine(fname):
 
 def clean_greece(fname):
     ind = 0
-    f_out = open('fr_clean/' + fname.split('.')[0] + '.txt', 'w')
-    with open('fr_timelines/' + fname) as f:
+    f_out = open('clean/' + fname.split('.')[0] + '.txt', 'w')
+    with open('timelines/' + fname) as f:
         content = json.load(f)
         data = content['data']
         for d in data:
@@ -59,8 +59,8 @@ def clean_greece(fname):
 
 def clean_ukraine2(fname):
     ind = 0
-    f_out = open('fr_clean/' + fname, 'w')
-    with open('fr_timelines/' + fname, 'r') as fp: 
+    f_out = open('clean/' + fname, 'w')
+    with open('timelines/' + fname, 'r') as fp: 
         soup = BeautifulSoup(fp, 'lxml')
         divs = soup.findAll("div", {"class": "tl-slide"})
         for div in divs:
@@ -83,8 +83,8 @@ def clean_ukraine2(fname):
 def clean_libya(fname):
     ind = 0
     month_year = ''
-    f_out = open('fr_clean/' + fname, 'w')
-    with open('fr_timelines/' + fname, 'r') as fp: 
+    f_out = open('clean/' + fname, 'w')
+    with open('timelines/' + fname, 'r') as fp: 
         for line in fp:
             content = line.split(' ')
             if content[0].lower() in months:
@@ -103,8 +103,8 @@ def clean_iraq(fname):
     ind = 0
     curr_year = ''
     curr_month = ''
-    f_out = open('fr_clean/' + fname, 'w')
-    with open('fr_timelines/' + fname, 'r') as fp: 
+    f_out = open('clean/' + fname, 'w')
+    with open('timelines/' + fname, 'r') as fp: 
         for line in fp:
             if line.startswith('20') and len(line.strip(' \n')) == 4:
                 curr_year = line.strip(' \n')
@@ -130,8 +130,8 @@ def clean_iraq(fname):
 
 def clean_syria(fname):
     ind = 0
-    f_out = open('fr_clean/' + fname, 'w')
-    with open('fr_timelines/' + fname, 'r') as fp: 
+    f_out = open('clean/' + fname, 'w')
+    with open('timelines/' + fname, 'r') as fp: 
         curr_year = ''
         for line in fp:
             if line[0].isdigit():

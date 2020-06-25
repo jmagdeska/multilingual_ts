@@ -7,8 +7,8 @@ months = ['gennaio', 'febbraio', 'marzo', 'aprile', 'maggio', 'giugno',
 
 def clean(fname):
     ind = 0
-    f_out = open('it_clean/' + fname, 'w')
-    with open('it_timelines/' + fname, 'r') as fp:
+    f_out = open('clean/' + fname, 'w')
+    with open('timelines/' + fname, 'r') as fp:
         for line in fp:
             if line[0].isdigit():
                 content = line.split(' : ')
@@ -26,8 +26,8 @@ def clean2(fname):
     ind = 0
     curr_date = ''
     curr_year = ''
-    f_out = open('it_clean/' + fname, 'w')
-    with open('it_timelines/' + fname, 'r') as fp:
+    f_out = open('clean/' + fname, 'w')
+    with open('timelines/' + fname, 'r') as fp:
         for line in fp:
             if line.strip('\n') == '2003' or line.strip('\n') == '2004':
                 curr_year = line.strip('\n')

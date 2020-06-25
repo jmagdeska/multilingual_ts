@@ -16,7 +16,7 @@ russian_sw = stopwords.words("russian")
 
 def preprocess_file(fname):
     text = ''
-    with open('ru_clean/' + fname, 'r') as fp: 
+    with open('ru/clean/' + fname, 'r') as fp: 
         for line in fp:
             if not line.startswith('-') and not line[0].isdigit():
                 text += ' ' + line
@@ -48,6 +48,6 @@ def summa_kw(t):
 
 t = preprocess_file(sys.argv[1])
 kw = summa_kw(t)
-f_out = open('ru_keywords/top_kw_' + sys.argv[1], 'w')
+f_out = open('ru/keywords/top_kw_' + sys.argv[1], 'w')
 f_out.write(",".join(kw))
 f_out.close()

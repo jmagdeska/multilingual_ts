@@ -139,8 +139,8 @@ def clean_guantanamo(fp, f_out):
             f_out.write(curr_date + '\n' + content[1])
             ind += 1
 
-f_in = open('es_timelines/' + sys.argv[1], 'r')
-f_out = open('es_clean/' + sys.argv[1], 'w')
+f_in = open('timelines/' + sys.argv[1], 'r')
+f_out = open('clean/' + sys.argv[1], 'w')
 
 fp = f_in.readlines()
 clean_guantanamo(fp, f_out)

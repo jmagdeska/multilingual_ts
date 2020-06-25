@@ -5,8 +5,8 @@ from bs4 import BeautifulSoup
 
 def get_articles(l):
     topics = ['iraq', 'lebanon', 'libya', 'syria']
-    dir_links = l + '_links/'
-    dir_art = l + '_articles/'
+    dir_links = l + '/links/'
+    dir_art = l + '/articles/'
     if not os.path.exists(os.path.dirname(dir_art)):
         os.mkdir(dir_art)
 

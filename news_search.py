@@ -83,7 +83,7 @@ def extract_links(dir_c, dir_k, lang):
 
 lang = sys.argv[1]
 topics = ['iraq', 'lebanon', 'libya', 'syria']
-dir_clean = lang + '_clean/'
-dir_kw = lang + '_keywords/'
+dir_clean = lang + '/clean/'
+dir_kw = lang + '/keywords/'
 
 extract_links(dir_clean, dir_kw, lang)

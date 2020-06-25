@@ -25,8 +25,8 @@ def get_top_words(doc):
     top5 = [x[0] for x in Counter(res).most_common(5)]
     return top5
 
-f_in = open(sys.argv[1] + '_clean/' + sys.argv[2], 'r')
-f_out = open(sys.argv[1] + '_keywords/top_kw_' + sys.argv[2], 'w')
+f_in = open(sys.argv[1] + '/clean/' + sys.argv[2], 'r')
+f_out = open(sys.argv[1] + '/keywords/top_kw_' + sys.argv[2], 'w')
 punc = set(punctuation + '“' + '”')
 
 lang = {'es':'es_core_news_sm', 'fr':'fr_core_news_sm', 'it':'it_core_news_sm'}
