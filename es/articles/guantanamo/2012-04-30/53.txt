@@ -1,0 +1,2227 @@
+¿Por qué no estamos de acuerdo con que dos empresas del estado gasten 12,5 millones de dólares para comprar licencias Windows?El Colectivo «Conocimiento Libre para el Socialismo» (COLIBRIS), miembro del Gran Polo Patriótico (GPP), escribe este documento luego de conocer el contenido de la Gaceta Oficial 39.904 del 17 de abril de 2012[1], que en su página 27 incluye el Acta de la Asamblea de Accionistas de Venezolana de Industria Tecnológica, C.A. (VIT, la empresa […] La medida nos sorprendió enormemente, porque el Estado ha invertido mucho en crear y mejorar Canaima GNU/Linux, el sistema operativo basado en software libre creado y mantenido por el CNTI (Centro Nacional de Tecnologías de Información), que está instalado en miles de computadoras de los entes públicos y en 1.500.000 Canaimitas. El Estado podría vender las computadoras VIT con Canaima solamente, evitando ese gasto. Algunas personas en el Estado tienen algunos alegatos en contra de esto, y queremos presentar nuestros argumentos. Por ejemplo, se dice que la gente exige tener Windows y no Canaima, porque es un sistema casi desconocido.  A pesar de esto, «Mi Casa Bien Equipada» tuvo un éxito rotundo. A la mayoría no le importó que la marca ofertada fuera prácticamente desconocida, sino los precios bajos y las facilidades de pago. El Plan Internet Equipado de CANTV es similar a «Mi Casa Bien Equipada» en tres puntos:  Los dos primeros elementos ya garantizan un éxito indiscutible del programa.  Y ya está demostrado que el tercer punto no afecta dicho éxito. ¿Por qué incluir en esta oferta un producto como Microsoft Windows invirtiendo Bs. 53.771.500 en ello, sabiendo que hay una alternativa hecha por el Estado, de mejor  calidad y costo muchísimo menor?  El siguiente documento busca desmontar algunos mitos y, en el marco de la Misión 7 de Octubre, mostrar la conveniencia de que el pueblo venezolano reciba un producto de excelente calidad, ahorrando una cantidad importante de divisas para la Nación. MITOS MITO 1: «La gente prefiere Windows» Hecho: Las personas en realidad usan aquel sistema que les sea funcional, que les permita hacer todo lo que ellos desean. Hace 10 años la mayoría de la gente usaba Windows en sus computadores personales, pero hoy, con la aparición de una gama de nuevos dispositivos (teléfonos inteligentes, tabletas, etc.) esa realidad ha cambiado drásticamente.  MITO 2: «Windows es mejor»  Hecho: Un computador con Windows 7 requiere comprar una serie de aplicaciones para poder comenzar a trabajar: suite de oficina, antivirus, quemador de Cds, software para diseño, música, etc. Un computador con Canaima ya trae todo eso.    MITO 3: «Hay que darle oportunidad a la gente de elegir lo que quieren» HECHO: La gran mayoría preferirá comprar el computador sin Microsoft Windows, si esto les permitiera ahorrar el costo de la licencia, que es de Bs. 263. Pero lamentablemente a los compradores del Plan «Internet Equipado» no se les permite elegir. MITO 4: «Canaima es difícil de usar» MITO 5: «Windows es para todos» HECHO: Bajo Windows, las personas con discapacidades visuales o motoras (incluyendo adultas y adultos mayores) requieren comprar software adicional, que a menudo puede costar varios miles de bolívares y que exigen costosas renovaciones de licencias anual o bianualmente. Canaima GNU/Linux incluye aplicaciones libres que les brindan ayudas y accesibilidad a personas con este tipo de impedimentos.  MITO 6: «En Canaima, el soporte técnico es más complicado» HECHO: Canaima nunca ha sido afectado por virus de computadora, y la posibilidad de que sea afectado por aplicaciones maliciosas es muchísimo menor que con Windows. En algunos ministerios, la cantidad de solicitudes a soporte técnico disminuyó en 80% tras migrar a software libre.  MITO 7: «Hay que hacer una transición para que la gente se adapte» HECHO: No hubo necesidad de hacer transiciones Windows/Linux en los Infocentros, CBIT u otros entes públicos. Las personas pudieron adaptarse, en la mayoría de los casos sin mucha ayuda, gracias a la facilidad de uso de Canaima GNU/Linux y a que es muy parecido a otros sistemas que la gente ya conoce.  Imagine usted que los libros de Historia de las escuelas bolivarianas se hubieran declarado «en transición», teniendo en una página el modelo histórico conservador del pasado, que describe lo ocurrido en América en 1492 como «el descubrimiento de América, que dio cultura, religión y educación a los indios» y que,  luego, en la siguiente página, se refieran a ese mismo hecho como «la Resistencia Indígena y la lucha de nuestros pueblos contra el invasor europeo». HECHOS HECHO 1: La adquisición de 205 mil licencias perjudica el desarrollo nacional  HECHO 2: Se desmotiva a quienes trabajan en desarrollar nuestras propias tecnologías Este hecho puede desmotivar y frustrar a muchos  trabajadores y trabajadoras del Proyecto Canaima GNU/Linux, que  podrían percibir que no se confía en la calidad del producto de su  trabajo, y que se prefiere hacer una cuantiosa inversión en un  producto estadounidense de código cerrado.    Por ejemplo,  diferentes colectivos y grupos han solicitado con caracter de  urgencia versiones mejoradas de Canaima, adaptadas a sus propósitos.  Por ejemplo, ediciones para:     HECHO 3: Se fortalece la condición de monopolio de Microsoft en detrimento de nuestras propias tecnologías  Microsoft ha sido demandada en numerosos países por prácticas de monopolio. El que el plan Internet Equipado de Cantv obligue a todos sus compradores a pagar por un producto de Microsoft es una práctica de monopolio, en particular cuando el computador no necesita dicho producto por venir con otro elaborado por el Estado y de mejor calidad: Canaima GNU/Linux.  Artículo 113. No se permitirán monopolios. Se declaran contrarios a los principios fundamentales de esta Constitución cualquier acto, actividad, conducta o acuerdo de los y las particulares que tengan por objeto el establecimiento de un monopolio o que conduzcan, por sus efectos reales e independientemente de la voluntad de aquellos o aquellas, a su existencia, cualquiera que fuere la forma que adoptare en la realidad (…) El Estado adoptará las medidas que fueren necesarias para evitar los efectos nocivos y restrictivos del monopolio, del abuso de la posición de dominio y de las demandas concentradas, teniendo como finalidad la protección del público consumidor, los productores y productoras y el aseguramiento de condiciones efectivas de competencia en la economía. HECHO 4: Se gasta una cantidad importantísima de divisas que podrían usarse en proyectos de más prioridad HECHO 5: Se viola el Decreto Presidencial 3.390 sobre Software Libre Artículo 1. La Administración Pública Nacional empleará prioritariamente Software Libre desarrollado con Estándares Abiertos, en sus sistemas, proyectos y servicios informáticos  Artículo 8. El Ejecutivo Nacional promoverá el uso generalizado del Software Libre desarrollado con Estándares Abiertos en la sociedad, para lo cual desarrollará mecanismos orientados a capacitar e instruir a los usuarios en la utilización del Software Libre desarrollado con Estándares Abiertos   Artículo 13. El Ministerio de Ciencia y Tecnología establecerá dentro de los planes y programas contemplados en el presente Decreto, mecanismos que preserven la identidad y necesidades culturales del país, incluyendo a sus grupos indígenas, para lo cual procurará que los sistemas operativos y aplicaciones que se desarrollen se adecuen a su cultura.  HECHO 6: Se viola el Decreto Presidencial 6.649 contra el gasto suntuario HECHO 7: Microsoft ha intentado intervenir en numerosas ocasiones en asuntos internos de nuestro país HECHO 8: Microsoft apoya legislaciones lesivas para los derechos humanos y el desarrollo de nuestros pueblos  PROPUESTAS  PROPUESTA 1: Detener la compra de licencias de Microsoft PROPUESTA 2: Usar a Canaima GNU/Linux como plataforma para presentar contenidos creados por la Revolución  Con la mira puesta en la Misión 7 de Octubre, Canaima GNU/Linux debe convertirse en una plataforma que presente contenidos y material impactante producido por entes del Gobierno Bolivariano, de forma atractiva y estéticamente agradable, sin caer en panfletarismos o propaganda.  Esta idea no podría ejecutarse con Windows 7, pues Microsoft no permite modificaciones a su producto de software, a menos que sea aprobado por ellos y se paguen montos adicionales.   PROPUESTA 3: Hacer que la gente «se enamore» de Canaima incluyendo aplicaciones y juegos adicionales en las computadoras VIT    Son muchas las aplicaciones y juegos que vienen con Canaima pero no se incluyen en la instalación estándar debido a que la misma debe caber en los 640 MB de un CD-ROM estándar. Pero en un computador VIT con varios gigabytes de espacio libre en su disco duro, recomendamos que se instalen una serie de aplicaciones y juegos que asombren a sus usuarias y usuarios y les permitan convencerse del gran trabajo que existe en la misma.   PROPUESTA 4: Promocionar y «mercadear» a Canaima con orgullo Es obvio que las personas tengan temor a lo desconocido: aquel que no conoce Canaima tiene miedo a probar algo distinto a Windows. El Estado debe demostrar con orgullo lo excelente que es Canaima GNU/Linux, para lo cual se propone una campaña informativa a través de los medios de comunicación, demostrando sus capacidades, sus aplicaciones y lo que se ha logrado con Canaima dentro del Estado.  PROPUESTA 5: Construir un Centro de Soporte Integral para Canaima GNU/Linux y Canaima Educativo PROPUESTA 6: Fijar un impuesto al Software Propietario, con el fin de obtener fondos para el desarrollo de tecnologías libres en el país  PROPUESTA 7: Convertir al Proyecto Canaima en una fundación Conclusión Como miembros del colectivo «Conocimiento Libre para el Socialismo», que forma parte del Gran Polo Patriótico, nuestro apoyo al proceso revolucionario, al Presidente Hugo Chávez y a la Misión 7 de Octubre es total y no está en discusión. Pero creemos que la adquisición de licencias del software propietario Microsoft Windows es un paso atrás en una marcha en la que el gobierno bolivariano ha tenido avances importantísimos en materia del uso y desarrollo de software libre para crear una sociedad más justa. Son logros que que no merecen ser manchados por una decisión tan inexplicable e innecesaria.  Es por ello que pedimos que se aborte esta decisión, y estamos a la orden para ayudar en las propuestas esgrimidas en este documento. El Proyecto Canaima del CNTI, al cual se asignaron aproximadamente Bs. 10,2 millones en 2011, es un proyecto que necesita más apoyo económico para mejorar y mantenerse al día, según las necesidades de un Estado y una sociedad que marchan sin detenerse rumbo al Socialismo. Ojalá y parte de los 53,7 millones de bolívares pautados para la compra de licencias de Windows, pudieran más bien orientarse a mejorar Canaima o a los otros proyectos de desarrollo de tecnologías libres que desarrolla el Estado. Desde antes del año 2004 -fecha de firma del Decreto Presidencial 3.390- hemos estado trabajado junto al proceso bolivariano en la migración a tecnologías libres y en la creación de soluciones libres para mejorar la calidad de vida de nuestro pueblo. Estamos ansiosos de seguir trabajando y colaborando con los entes del Estado, en el uso de las tecnologías libres para la construcción de una sociedad más justa, enmarcada en el proyecto socialista que impulsa el Presidente Hugo Chávez Frías.   Referencias 17 Ver http://www.cptech.org/ip/draftipwg98.html (en inglés) Rebelión ha publicado este artículo con el permiso de los autores mediante una licencia de Creative Commons, respetando su libertad para publicarlo en otras fuentes.Pandemia global
+
+                  “Me preocupa el aumento de posturas anticientíficas o de desconfianza hacia las autoridades sanitarias”                
+
+
+                  “Toda medida sanitaria tiene consecuencias negativas y positivas y el balance debe ser positivo para implementarla”                
+
+
+                  SIDA y COVID-19: El costo de la inacción o la crónica de una muerte anunciada                
+
+
+                  “Es razonable pensar que en diciembre el virus ya estaría por Europa”                
+
+
+                  “Quien piense que para navidades estaremos vacunados y podremos pasar página… puede olvidarse, va a ser más lento”                
+Batalla por la información y espionaje global
+
+                  El caso de Julian Assange expone la hipocresía británica sobre la libertad de prensa                
+
+
+                  “Si Assange es extraditado, es el fin del estado de derecho en Occidente”                
+
+
+                  «Cuatro países se han coordinado para quemarle en la hoguera sin que nadie proteste»                
+
+
+                  Assange: imperio de la vigilancia e imperialismo                
+
+
+                  EE.UU. y Alemania espiaron durante medio siglo la correspondencia secreta militar y diplomática de más de 120 países                
+
+
+                  La CryptoCIA, escándalo explosivo                
+
+
+                  Apple canceló planes para cifrado por presión del FBI                
+
+
+                  5G: La nueva conspiración favorita de Internet y de algunos políticos                
+
+
+                  Libertad para Julian Assange                
+
+
+                  El probable espionaje contra Assange podría evitar su entrega a EE.UU.                
+
+
+                  En defensa de Julian Assange                
+
+
+                  Continua la farsa judicial contra Assange                
+
+
+                  Callan por temor, no por ignorancia                
+
+
+                  Advierten de que Assange podría morir en prisión                
+
+
+                  Encuentran en la Dark Web datos de 1.200 millones de personas                
+
+
+                  Espionaje, fragmentación y vigilancia                
+
+
+                  Declaración de moratoria sobre la tecnología de reconocimiento facial para la vigilancia masiva                
+
+
+                  «Estamos en peligro»                
+
+
+                  Fiscalía ecuatoriana reformulará cargos contra el sueco Ola Bini                
+
+
+                  La oportunidad perdida del «gran hackeo«                
+
+
+                  YouTube desactiva 210 canales que buscaban influir en las protestas de Hong Kong                
+
+
+                  Opinión Cambridge Analytica                
+
+
+                  Aunque no sepan tu nombre, las máquinas saben quién eres: las bases de datos anónimas no lo son tanto                
+
+
+                  Julian Assange, ¡te queremos ver libre!                
+
+
+                  Vergonzoso silencio en torno al calvario de Julian Assange                
+
+
+                  Sin límites, sin escrúpulos, el «todo vale» vuelve a imponerse                
+
+
+                  La temible cruzada del Gobierno de EEUU contra Julian Assange y Chelsea Manning                
+
+
+                  La historia de cómo EEUU sedujo a China para el libre comercio y ahora le cierra las puertas con el veto a Huawei                
+
+
+                  Así ha sido el calvario de Huawei frente al Gobierno de Estados Unidos                
+
+
+                  El gulag son ellos                
+
+
+                  Impunidad, información y democracia                
+
+
+                  Assange entre la gratitud y la traición                
+
+
+                  Julian Assange en prisión o el fin de la promesa libertaria de internet                
+
+
+                  De nombre traidor                
+
+
+                  Siete años de mentiras sobre Assange no van a parar ahora                
+
+
+                  Entrega de Julian Assange                
+
+
+                  El prisionero dice NO al Gran Hermano                
+
+
+                  Cómo EE.UU. usa al FMI y al Banco Mundial como «armas no convencionales»                
+
+
+                  Nuevos aires para los WikiLeaks                
+
+
+                  EE.UU. interrogará a ecuatorianos sobre Assange y Manafort                
+
+
+                  Cesar la persecución a Julian Assange y proteger su derecho de asilo                
+
+
+                  Prevén dos alternativas sobre la situación de Julian Assange                
+
+
+                  Un socio fundador de Wikileaks lleva desaparecido desde agosto                
+
+
+                  Las corporaciones digitales que dominan el mundo                
+
+
+                  Julian Assange en la cuerda floja                
+
+
+                  Assange podría dejar de estar encerrado tras declaración clave de la Corte IDH                
+
+
+                  Julian Assange debe ser repatriado a Australia                
+
+
+                  Se cierra el círculo alrededor de Julian Assange                
+
+
+                  Ecuador prohíbe a Julian Assange recibir visitas y realizar llamadas telefónicas                
+
+
+                  ¿Gafas que lo ven todo?                
+
+
+                  EEUU y UE controlan y espían a los usuarios en la redes                
+
+
+                  Correa cree que Moreno retirará a Assange su estatus de asilo                
+
+
+                  En defensa de un hacker activista                
+
+
+                  Sobre fuga de datos, ciberguerra y manipulación                
+
+
+                  La herramienta de control de malware de la CIA                
+
+
+                  Es una persona «tenebrosa» que «miente constantemente»                
+
+
+                  Snowden creó hardware para proteger a periodistas                
+
+
+                  ¿Trump negocia inmunidad de Assange a cambio de información?                
+
+
+                  WikiLeaks filtra el proyecto de un sistema de control de misiles de la CIA para aviones de guerra                
+
+
+                  De espía global encubierto a censor vergonzante en favor del imperio                
+
+
+                  La CIA habría espiado a otras agencias estadounidenses de inteligencia, según Wikileaks                
+
+
+                  WikiLeaks revela la herramienta de la CIA para hacerse con videos en directo a distancia                
+
+
+                  La CIA tenía como objetivo espiar terminales Linux y Mac                
+
+
+                  Wikileaks y el programa que recolectaba información de smartphones                
+
+
+                  WikiLeaks sigue «dando guerra»                
+
+
+                  Assange cumple 5 años asilado en la Embajada de Ecuador en Londres                
+
+
+                  Documentales para conocer mejor la historia de Julian Assange                
+
+
+                  Edward Snowden y Noam Chomsky envían una carta abierta a Trump                
+
+
+                  Expertos culpan a una ‘ciberarma’ secreta de la NSA del masivo ataque cibernético global                
+
+
+                  WikiLeaks publica un nuevo lote de documentos confidenciales de la CIA                
+
+
+                  WikiLeaks revela cómo la CIA se hace con el control de los navegadores en la oficinas                
+
+
+                  Así espiaba la CIA documentos de Microsoft Office                
+
+
+                  EE.UU. prepara una serie de acusaciones para detener a Julian Assange                
+
+
+                  Las herramientas de hackeo de la CIA que filtró Wikileaks fueron usadas en al menos 16 países                
+
+
+                  Detenido en Barcelona un informático ruso acusado de participar en el pirateo informático de las presidenciales de EEUU                
+
+
+                  Assange y Falciani piden protección para quien filtre documentación como los papeles de Panamá o Castellana                
+
+
+                  WikiLeaks: «EE.UU. gasta el 90% del presupuesto cibernético atacando a personas y un 10% en defensa»                
+
+
+                  Wikileaks y las Guerras de Cuarta Generación                
+
+
+                  Los derechos civiles secuestrados por el ciberespionaje de la CIA                
+
+
+                  Estreno del documental sobre la defensa de Julian Assange                
+
+
+                  La CIA espió en las elecciones de Francia de 2012                
+
+
+                  Una tarde con Julián Assange, el pirata informático que quitó el sueño al gobierno estadounidense                
+
+
+                  Aaron Swartz y la vigencia de la discusión sobre el acceso libre del conocimiento científico                
+
+
+                  WikiLeaks promete «hacernos estallar la cabeza» en 2017                
+
+
+                  Assange pide libertad luego de fallo de ONU a su favor                
+
+
+                  WikiLeaks publica más de 500.000 documentos diplomáticos de EE.UU.                
+
+
+                  WikiLeaks: EE.UU. armó al Ejército de Yemen antes de la guerra                
+
+
+                  ¿Snowden testigo en Berlín?                
+
+
+                  Snowden: «Reino Unido ha legalizado la vigilancia más extrema de la democracia occidental»                
+
+
+                  Ecuador pide garantías de que Assange no será extraditado                
+
+
+                  Ecuador pide garantías de que Assange no será extraditado                
+
+
+Wikileaks revela papel de George Soros en protestas anti-Trump                
+
+
+                  WikiLeaks anuncia la publicación de «documentos de guerra»                
+
+
+                  Snowden: «El problema no es Trump, sino cómo defender nuestros derechos y nuestra privacidad»                
+
+
+                  WikiLeaks, blanco de ataques tras revelar correos del Partido Demócrata                
+
+
+                  Manning habría intentado suicidarse por segunda vez                
+
+
+                  WikiLeaks: Clinton siempre supo quién financiaba al Daesh                
+
+
+                  Wikileaks apunta a que los Clinton intentaron enriquecerse con su fundación benéfica                
+
+
+                  El exdirector ejecutivo de Google preparó el plan de la campaña de Clinton                
+
+
+                  Wikileaks atribuye a sus seguidores la autoría del ciberataque contra Estados Unidos                
+
+
+                  WikiLeaks publica correos electrónicos de Barack Obama                
+
+
+                  WikiLeaks: Kerry pidió a Ecuador que Assange no publicara información clasificada sobre Clinton                
+
+
+                  «Las revelaciones de WikiLeaks demuestran la postura belicista de Hillary Clinton»                
+
+
+                  «Una entidad estatal» corta la conexión de Internet de Julian Assange                
+
+
+                  WikiLeaks publica nuevos correos del jefe de campaña de Clinton                
+
+
+                  WikiLeaks publica la sexta tanda de los correos de Podesta                
+
+
+                  Hacker estadounidense condenado por filtrar datos a Wikileaks                
+
+
+                  WikiLeaks publica 2.000 correos del jefe de campaña de Hillary Clinton                
+
+
+                  Wikileaks revela que cúpula del partido Demócrata de EEUU hizo campaña para evitar triunfo de Bernie Sanders                
+
+
+                  ¡Libertad para Julian Assange!                
+
+
+                  Google, «parte integral del Estado» estadunidense, asegura Julian Assange                
+
+
+                  ¿Será José Bono, como se ha especulado, el siguiente? La respuesta el 9 de mayo                
+
+
+                  Carteles y  papeles                
+
+
+Panama Papers y los secretos de la ganancia                
+
+
+                  «El mapa de paraísos fiscales tiene como epicentro a la City, Nueva York y Ginebra»                
+
+
+                  La hipocresía ante los papeles de Panamá                
+
+
+                  «La presentación de los papeles de Panamá está marcada por intereses políticos»                
+
+
+                  Lo que no se dice ni se dirá de los papeles de Panamá                
+
+
+                  Los papeles no son de Panamá                
+
+
+Panama papers, la punta del iceberg                
+
+
+Papers prostíbulo 
+
+
+                  El papel de la banca en la evasión fiscal de las grandes fortunas                
+
+
+                  El mundo administrado y «The Panama Papers»                
+
+
+                  Los «Papeles Mossack-Fonseca» y más allá                
+
+
+                  El zorro en el corral                
+
+
+                  La sociedad de la transparencia en la geopolítica del dinero                
+
+
+                  Papeles de Panamá: más dudas que respuestas                
+
+
+Panama Papers: Macri, único presidente latinoamericano involucrado directamente                
+
+
+                  «La presentación de los papeles de Panamá está marcada por intereses políticos»                
+
+
+                  Los papeles de Panamá, ¿descubriendo el agua tibia?                
+
+
+                  Lo que muestran y lo que ocultan los Panamá Papers                
+
+
+                  Los prostíbulos del capitalismo                
+
+
+«#PanamaPapers» y las evidencias del capitalismo offshore 
+
+
+#Panamapapers, encubrir las riquezas                
+
+
+                  Filtran los «papeles de Panamá», una trama en paraísos fiscales con personalidades de todo el mundo                
+
+
+                  Más allá del «Gran Hermano»                
+
+
+                  Documentos de Snowden revelan que la NSA espió a PDVSA                
+
+
+                  32 países usan FinFisher para espiar a sus ciudadanos                
+
+
+WikiLeaks libera el capítulo completo de propiedad intelectual del TPP                
+
+
+                  Wikileaks señala que EEUU planea golpes de Estado y magnicidios en Latinoamérica                
+
+
+                  Chelsea Manning castigada por tener revistas femeninas                
+
+
+                  La NSA espía al Gobierno japonés y a grandes compañías compartiendo datos con sus aliados                
+
+
+                  EEUU espió teléfonos de Dilma Rousseff y decenas de sus asesores                
+
+
+                  Wikileaks revela plan secreto para derrocar al Gobierno sirio                
+
+
+                  Consejo de Seguridad de Francia se reúne, convocado por Hollande, para tratar caso de espionaje por parte de EEUU                
+
+
+                  Berlín pide que solo una persona revise objetivos de espionaje de NSA                
+
+
+                  La NSA seguirá espiando aún con acceso restringido                
+
+
+                  El Internet post-Snowden y la tecnopolítica                
+
+
+                  Senado de EE.UU. aprueba la Ley de Libertad que limita los poderes de vigilancia de la NSA                
+
+
+                  La NSA tiene un programa para transcribir llamadas telefónicas                
+
+
+Wikileaks devela cooperación entre Hollywood y la Casa Blanca                
+
+
+                  EE.UU. rastreó miles de millones de llamadas durante décadas a través de la DEA                
+
+
+                  Snowden contra la «mayor máquina de opresión de la historia»                
+
+
+                  EE.UU. amenazó a Alemania con sanciones agresivas si acoge a Snowden                
+
+
+                  La filtración como vocación: MéxicoLeaks 
+
+
+                  Nueva Zelanda espía a Asía-Pacífico para la NSA                
+
+
+                  NSA y GCHQ escuchan a todo el mundo a través de las tarjetas SIM                
+
+
+Equation Group, el atacante masivo de equipos oculto durante 14 años y su relación con la NSA                
+
+
+Wikileaks, Google y el espionaje internacional                
+
+
+                  EEUU investiga si otro Snowden está filtrando nuevos documentos clasificados de Inteligencia                
+
+
+                  Ecuador llevará el caso de Julian Assange al Consejo de DDHH de la ONU                
+
+
+Wikileaks denuncia el ingente gasto de la vigilancia a Assange                
+
+
+                  Ahora Facebook rastrea las actividades del usuario en Internet y recopila sus datos                
+
+
+                  La vigilancia masiva puede mermar la capacidad de prevenir ataques terroristas, afirma Snowden                
+
+
+                  Garzón, contra Google y a favor de WikiLeaks                
+
+
+                  Archivos de Snowden muestran que Canadá vigila Internet a nivel global                
+
+
+                  Kaspersky Lab revela cómo espía la NSA                
+
+
+                  Garzón y Wikileaks estudian demandar a Google por entregar información digital a EEUU                
+
+
+                  Google entrega a EEUU datos de correos de miembros de Wikileaks                
+
+
+                  La NSA vigila los cambios en servidores de internet                
+
+
+                  Documentos de Snowden muestran que inteligencia británica almacenó correos de periodistas                
+
+
+                  La Policía escanea en tiempo real la Red y Medios Sociales para asignarte un «Nivel de Amenaza»                
+
+
+                  «Desde el 1 de enero Facebook ya no es un lugar para los amigos, sino para la NSA»                
+
+
+                  Snowden revela brechas de la NSA en el marco de su batalla contra la encriptación                
+
+
+                  Asociaciones y activistas piden apoyo ciudadano para proteger a Antoine Deltour, acusado en Luxemburgo por ‘Lux Leaks’                
+
+
+                  La lucha entre Microsoft y Estados Unidos por los datos de un usuario                
+
+
+                  El 39% de los internautas del mundo reforzó su seguridad tras revelaciones de Snowden                
+
+
+                  La vigilancia masiva en EEUU continúa pese a las filtraciones de Snowden                
+
+
+                  Snowden y yo                
+
+
+                  El periodismo como contrapoder de la sociedad civil                
+
+
+                  «La criptografía es una cuestión de justicia social»                
+
+
+                  Consideran legales programas de vigilancia de inteligencia británica                
+
+
+                  Assange: «Google es más poderoso de lo que la Iglesia ha sido nunca»                
+
+
+                  Assange denuncia  que Google vende información a Estados Unidos                
+
+
+                  Snowden defiende sociedad «abierta» y «liberal» al recibir Nobel Alternativo                
+
+
+                  Así «hackea» la NSA cualquier teléfono celular del mundo                
+
+
+                  Alemania sospechaba del espionaje de EE.UU. antes de Snowden                
+
+
+                  «Sé que estaré bajo el radar de las agencias de inteligencia de todo el mundo»                
+
+
+                  Un héroe y un patriota                
+
+
+                  «Google nos espía e informa al Gobierno de Estados Unidos»                
+
+
+                  Noam Chomsky visita a Julian Assange en la embajada de Ecuador en Londres                
+
+
+                  La persecución de Julian Assange                
+
+
+                  EEUU recoge datos de miles de teléfonos celulares a través de aviones espías                
+
+
+                  El FBI identificó al ‘segundo Snowden’ dentro de la NSA                
+
+
+                  Assange revela la estrecha relación entre Google y el Gobierno de EE.UU.                
+
+
+                  Snowden insta a deshacerse de Dropbox, Facebook y Google                
+
+
+                  El fantasma de Ronald Reagan autoriza el espionaje de la NSA                
+
+
+                  Edward Snowden es galardonado con el ‘Premio Nobel Alternativo’                
+
+
+                  Julian Assange aboga por el software libre como única vía para proteger la privacidad                
+
+
+                  Ex-analista militar afirma que EEUU necesita a otro Snowden                
+
+
+                  Assange, Snowden y Dotcom se unen contra el espionaje                
+
+
+                  Cómo es el ‘Google’ secreto de la NSA y cuáles son sus peligros                
+
+
+                  Suiza no extraditará a Snowden si testimonia sobre la NSA                
+
+
+                  «Utilizan las revelaciones de Snowden para evadir la inteligencia de EEUU»                
+
+
+                  La NSA tiene un programa secreto que funciona sin intervención humana                
+
+
+                  WikiLeaks revela colaboración de Ban Ki-moon con Israel                
+
+
+                  Julian Assange sugiere cautela y reserva a Edward Snowden                
+
+
+                  Rusia prolonga el refugio temporal de Edward Snowden por tres años                
+
+
+                  Un posible «nuevo Snowden» filtra datos secretos que comprometen a EEUU                
+
+
+                  Snowden espera la renovación de asilo político en Rusia                
+
+
+                  Snowden afirma que EE.UU. apoya los ataques israelíes con dinero, armas y vigilancia                
+
+
+                  Demandan a la NSA por el temor de que su exdirector venda información secreta                
+
+
+                  Australia prohíbe compartir la filtración de WikiLeaks                
+
+
+                  NSA se valió del régimen represivo de Arabia Saudita para vigilar Oriente Medio                
+
+
+                  Me están espiando                
+
+
+                  «No poder negar la verdad es lo que más les aterra»                
+
+
+                  Snowden revela herramientas que usa Reino Unido para manipular información ‘on line’                
+
+
+                  Tribunal sueco ratificó orden de detención contra Julian Assange y Ecuador ratifica que lo seguirá protegiendo                
+
+
+                  Alemania investiga supuesto segundo espía al servicio de EEUU                
+
+
+                  NSA y FBI espiaron a estadounidenses inocentes debido a su raza y religión                
+
+
+                  Merkel cuestiona la futura cooperación con EE.UU. tras la detención del agente doble                
+
+
+                  En la NSA podría haber otro ‘Snowden’                
+
+
+                  «La NSA es una máquina totalitaria comparable con una dictadura»                
+
+
+                  Snowden revelará más documentos para impedir «una guerra no específica» de EEUU                
+
+
+                  EEUU realizó casi 90.000 misiones de espionaje en 2013                
+
+
+                  Un exempleado de la NSA decide seguir los pasos de Snowden                
+
+
+                  «No solo han escuchado a Rajoy o a Merkel, nos han escuchado a todos»                
+
+
+                  La NSA utiliza 33 países para interceptar el tráfico de Internet                
+
+
+                  Assange, dos años después                
+
+
+                  La NSA utilizaba los datos privados para asesinar a sospechosos de terrorismo                
+
+
+                  Wikileaks revela que Poroshenko espió para Estados Unidos en Ucrania                
+
+
+                  Cómo (y cuánto) puede espiar el gobierno tus llamadas                
+
+
+                  Chomsky dice que el pueblo es un «enemigo temible» para el Gobierno de EEUU                
+
+
+                  ¿Assange podría quedarse para siempre en la embajada de Ecuador en Londres?                
+
+
+                  Vodafone revela que los 29 países donde opera pinchan los teléfonos                
+
+
+                  Medios chinos piden castigar severamente a firmas tecnológicas de EEUU                
+
+
+                  Un año de las revelaciones de Snowden, ONG en Argentina crea blog sobre vigilancia                
+
+
+                  Acusan a los federales de EEUU de encubrir el espionaje de la Policía a los teléfonos móviles                
+
+
+#ResetTheNet, promoviendo la autodefensa en la verdadera guerra del siglo XXI                
+
+
+                  «La NSA planea usar información privada para destruir la reputación de ciertas personas»                
+
+
+                  Las declaraciones de Snowden sobre el 11-S que la NBC descartó para «prime time» 
+
+
+                  La NSA recolecta millones de fotos de los usuarios de Internet para su base de datos                
+
+
+                  «EEUU espía a otros sin vergüenza»                
+
+
+                  WikiLeaks revela el país más vigilado del mundo                
+
+
+                  La Cámara Baja de EEUU aprueba el proyecto de ley que reforma el espionaje telefónico de la NSA                
+
+
+                  ¿Comunicación o estafa colectiva?                
+
+
+                  La NSA instaló dispositivos de espionaje en equipos informáticos fabricados en Estados Unidos                
+
+
+                  EEUU acusa a cinco oficiales chinos por un caso de ciberespionaje                
+
+
+                  Otro documento filtrado por Snowden desvela el espionaje israelí a EEUU                
+
+
+                  «Matamos a gente basándonos en metadatos»                
+
+
+                  Hace 8 años la NSA probó mecanismos de vigilancia con espionaje a Chávez en Italia                
+
+
+                  Perspectiva histórica de la vigilancia masiva en EEUU y el rol de Facebook en la telaraña de la NSA                
+
+
+                  Pasividad política frente al espionaje masivo de Estados Unidos                
+
+
+                  Un comité del Congreso de EE.UU. ratifica prohibir las escuchas telefónicas masivas                
+
+
+                  Internautas van a «reiniciar la Red» contra el espionaje masivo                
+
+
+                  «Ahora todo el mundo está bajo la vigilancia del gobierno»                
+
+
+                  En los 70 EE.UU. comparaba a los aliados de la OTAN con «una amante celosa»                
+
+
+                  FBI ejecutó cientos de ataques informáticos contra sitios web extranjeros                
+
+
+                  Las puertas traseras que la NSA nunca reconocerá                
+
+
+                  Conozca Tails, el sistema operativo usado por Snowden para eludir a la NSA                
+
+
+                  Flujos de información y poder                
+
+
+                  La NSA controla el Wi-Fi en los aviones estadounidenses saltándose las leyes                
+
+
+                  Snowden ante el Consejo de Europa                
+
+
+                  EEUU y Reino Unido usan plataformas sociales para desacreditar a gobiernos                
+
+
+                  Estados Unidos: el espía global                
+
+
+                  Todos bajo control                
+
+
+                  La NSA se infiltró en la firma de seguridad RSA más de lo que se creía                
+
+
+                  Brasil aprueba el Marco Civil de Internet, modelo para la Carta Magna de la Red                
+
+
+                  La NSA elaboró una base de datos específica sobre jefes de Estado                
+
+
+                  Brasil protegerá a sus internautas del espionaje internacional con una nueva ley                
+
+
+                  Brasil protegerá a sus internautas del espionaje internacional con una nueva ley                
+
+
+                  Las compañías tecnológicas sabían que la NSA espiaba a los ciudadanos                
+
+
+                  Snowden afirma que aún quedan por revelar datos sobre planes de espionaje de EEUU                
+
+
+                  Todos los programas de espionaje de la NSA desvelados por Snowden                
+
+
+                  Revelan que Estados Unidos tiene un programa para intervenir todas las llamadas telefónicas de otro país                
+
+
+                  La NSA puede grabar llamadas realizadas en un país durante un mes                
+
+
+                  Un informe revela la escala y el alcance de los datos personales que solicita el Gobierno de Estados Unidos a «empresas tecnológicas»                
+
+
+                  La CIA registró la Red del Congreso de EEUU                
+
+
+                  Acusan a la NSA de hacerse pasar por «Facebook» e infectar «millones» de computadoras con malware 
+
+
+                  «Los servicios especiales prenden fuego al futuro seguro de internet»                
+
+
+                  Snowden alerta sobre más datos de espionaje masivo de EE.UU.                
+
+
+                  «El miedo más grande que tengo con respecto a esta revelaciones es que nada va a cambiar»                
+
+
+                  El espionaje británico pinchó las webcam de millones de usuarios                
+
+
+                  Wikileaks deja en evidencia que EEUU promueve y financia el fascismo en Venezuela                
+
+
+                  Detienen e interrogan a la abogada de Snowden en un aeropuerto de Londres                
+
+
+                  Polémica ley de Internet turca en manos del presidente                
+
+
+                  Alemania planea retomar el contraespionaje contra EE.UU y otros países occidentales                
+
+
+                  ¿Puede estar España detrás del malware «Careto/The Mask»?                
+
+
+                  Miles de sitios web plantan cara al espionaje de la NSA con una protesta «on line» 
+
+
+                  Miles de sitios webs protestarán contra el espionaje de EEUU                
+
+
+                  Nuevo portal para publicar las filtraciones de Snowden                
+
+
+                  Snowden habría usado herramienta de rastreo web para conseguir los documentos de la NSA                
+
+
+                  El Departamento de Justicia de EE.UU. admite que la NSA puede espiar al Congreso                
+
+
+                  La NSA pudo haber espiado a Schroeder por oponerse a la guerra de Irak                
+
+
+                  Los gigantes de Internet revelan nuevos datos sobre las órdenes de la NSA                
+
+
+                  Revelan un video de los editores de «The Guardian» destruyendo los discos duros de Snowden                
+
+
+                  Legisladores noruegos proponen a Edward Snowden para el Nobel de la Paz                
+
+
+                  El Gobierno EE.UU. y los gigantes de Internet llegan a un acuerdo sobre el espionaje                
+
+
+                  EE.UU. y Reino Unido espían con Angry Birds, Google Maps, YouTube, Twitter y Facebook 
+
+
+                  «El Gobierno de EE.UU. quiere matarme»                
+
+
+                  Snowden: «Si la ley funcionara, no tendría que sacrificar tanto»                
+
+
+                  Sesión de preguntas y respuestas con Edward Snowden                
+
+
+                  Abogado denuncia amenazas contra la vida de Edward Snowden                
+
+
+                  Legisladores de EE.UU. acusan a Snowden de espiar para Rusia                
+
+
+                  Enviémos a Snowden a casa                
+
+
+                  Assange: Es vergonzoso que Obama no plantee reformas concretas en el espionaje                
+
+
+                  Obama anuncia tibias reformas a los programas de espionaje masivo de la NSA                
+
+
+                  Ellsberg anuncia que Snowden se une a la dirección de la Freedom of the Press Foundation                
+
+
+                  La NSA espía a diario 200 millones de mensajes de texto de móviles                
+
+
+                  La NSA accede a miles de ordenadores incluso sin estar conectados a internet                
+
+
+                  Un estudio demuestra que espionaje de la NSA es inútil en la lucha contra el terrorismo                
+
+
+                  11 de febrero: el día en que la red «contraataca» contra la vigilancia masiva de la NSA                
+
+
+                  Snowden revela 9 países europeos que espiaban junto a la NSA                
+
+
+                  Una comisión de expertos recomienda acabar con los registros telefónicos de la NSA                
+
+
+                  La ONU aprueba la resolución contra el espionaje promovida por Brasil y Alemania                
+
+
+                  La NSA usó cookies de Google para elegir a quién hackear                
+
+
+                  FBI envía virus a los usuarios de Internet                
+
+
+                  Wikileaks lanzó nuevos documentos de las negociaciones secretas del TPP                
+
+
+                  Assange afirma que en los servicios de inteligencia no se trabaja como James Bond                
+
+
+                  ¿Quieres ayudar a descubrir qué información privada puede ser descubierta por la NSA?                
+
+
+                  WikiLeaks recuerda que un agente infiltrado de la CIA participó en el arresto de Mandela                
+
+
+                  La NSA recopila 5.000 millones de datos de móviles al día                
+
+
+                  Cómo hacer desaparecer la verdad en Internet                
+
+
+                  Ciberactivismo, nueva forma de protesta social                
+
+
+                  Los periodistas de «The Guardian» que publicaron a Snowden, bajo la lupa de Scotland Yard por violar ley antiterrorista                
+
+
+                  Entre secretos y transparencia                
+
+
+                  Lo que nadie te contó sobre el espionaje electrónico en España                
+
+
+                  La respuesta tecnológica de Brasil al espionaje de Estados Unidos                
+
+
+                  Comité de la ONU aprueba resolución anti espionaje                
+
+
+                  La NSA usó malware para infiltrarse en 50.000 redes alrededor del mundo                
+
+
+                  ¡Cuidado, el Tío Sam nos espía!                
+
+
+                  EE.UU. tiene 17 bases de espionaje financiadas por el presupuesto del país                
+
+
+                  Edward Snowden y las denuncias contra la corrupción corporativa                
+
+
+                  La NSA intentó meter sus zarpas en Linux                
+
+
+                  10 años de cárcel para Jeremy Hammond, hacker de Anonymous                
+
+
+                  La CIA recopila datos sobre las transacciones financieras internacionales de Western Union                
+
+
+                  Cinco ojos que son seis                
+
+
+                  El Estado español y la censura en Internet                
+
+
+WikiLeaks revela el plan estadounidense sobre el bloqueo intelectual mundial                
+
+
+                  Espionaje a gran escala                
+
+
+                  Cinco gigantescos ojos                
+
+
+                  Llaman a los ingenieros de Internet a pelear contra la vigilancia de la NSA                
+
+
+                  Apple publica por primera vez la información que le piden los gobiernos                
+
+
+                  Ingenieros de Google dicen «que se joda» la NSA                
+
+
+                  De la indignación a la acción de los países afectados                
+
+
+                  Europa: Doble moral de espionaje                
+
+
+                  Alemania, Francia, España y Suecia colaboraron para espiar masivamente por internet                
+
+
+                  Venezuela fue uno de los objetivos principales de la NSA en su programa de espionaje                
+
+
+                  Espía a todo el mundo, amigo o enemigo                
+
+
+                  El fantasma del 11-S para justificar la vigilancia a los estadounidenses                
+
+
+                  «Cuál es ahora el sentido de defender un sistema de propiedad intelectual a la medida de las empresas de Estados Unidos»                
+
+
+                  India prohibirá Gmail, Yahoo y Hotmail en la comunicación oficial                
+
+
+                  Cancilleres y Ministros del Mercosur emiten comunicado sobre inseguridad informática                
+
+
+                  EE.UU. espía a diferentes países del mundo en tiempo real                
+
+
+                  NSA se habría infiltrado en las comunicaciones de los data centers de Google y Yahoo!                
+
+
+                  EE.UU. espió al Vaticano y a Jorge Bergoglio, según un semanario italiano                
+
+
+                  Españoles y europeos, espiados pero contentos                
+
+
+                  Prueban que el espionaje de la NSA no está centrado en el terrorismo                
+
+
+                  Obama ordenó el espionaje a Merkel que dijo desconocer                
+
+
+                  La NSA y el TTIP                
+
+
+                  «Cada vez que el gobierno de EE.UU. ofrece alguna justificación, a los pocos días se producen nuevas revelaciones que lo desmienten»                
+
+
+                  «Ningún teléfono en EEUU hace una llamada sin dejar un registro en la NSA»                
+
+
+                  Bits y microchips de guerra                
+
+
+                  Estados Unidos espió las llamadas de 35 líderes mundiales, según The Guardian 
+
+
+                  El espionaje de EE.UU. «ocupa» Francia                
+
+
+                  La NSA espió millones de llamadas en Francia, ¿qué ocurrió con España?                
+
+
+                  La NSA espiaba el correo electrónico del presidente de México                
+
+
+                  Pierre Omidyar, fundador de eBay, es el filántropo de Greenwald                
+
+
+                  «Ni Rusia ni China han tenido acceso a documentos clasificados de la NSA»                
+
+
+SecureDrop, la herramienta para reveladores de secretos de Aaron Swartz                
+
+
+                  La NSA colaboró con la CIA en el uso de drones para ataques antiterroristas                
+
+
+                  NSA escanea y almacena millones de emails y agendas                
+
+
+                  La NSA mintió sobre la eficacia antiterrorista del programa de escuchas de EE.UU.                
+
+
+                  Greenwald, el periodista que publicó el espionaje de la NSA, deja «The Guardian»                
+
+
+                  Cooperación regional en materia de Seguridad Informática y las Telecomunicaciones                
+
+
+                  Lavabit apela contra el Gobierno de EE.UU. por exigirle la entrega de claves                
+
+
+                  Skype podría enfrentarse a cargos criminales por el espionaje de la NSA en Luxemburgo                
+
+
+                  Computadoras portátiles que Snowden se llevó a Hong Kong y a Rusia fueron una «distracción»                
+
+
+                  La Presidenta de Brasil anuncia la creación de un correo electrónico seguro para todo el gobierno federal                
+
+
+                  La fiebre del ‘otro’                
+
+
+                  Ecuador estudia llevar el caso de Assange a la Corte Internacional de la ONU                
+
+
+                  Alzas de voltaje habrían derretido datacenter de la NSA                
+
+
+                  La privacidad de Tor, ¿en entredicho por los ataques de la NSA y el FBI?                
+
+
+                  Cómo espía la NSA a los usuarios de Tor                
+
+
+                  Asesinan a responsable de ciberguerra iraní                
+
+
+                  Un exdirector de la CIA bromea con poner a Snowden en una ‘lista de asesinatos’                
+
+
+                  EE.UU. se opone formalmente a revelar más información sobre el espionaje                
+
+
+                  La NSA guarda datos de millones de personas suficientes para «reconstruir» sus vidas                
+
+
+                  NSA almacena millones de metadatos de usuarios por un año                
+
+
+                  Perseguidos de EEUU: Assange y Snowden; Vigilados: Brasil, México, Europa, China                
+
+
+                  El avance de una videovigilancia y el análisis biométrico sin garantías ciudadanas                
+
+
+                  La NSA utiliza metadatos de Facebook para crear gráficos sofisticados de la actividad social                
+
+
+                  «Los países deben frenar juntos la insolencia de EE.UU.»                
+
+
+                  Senado de EE.UU. presenta proyecto para reformar espionaje de la NSA                
+
+
+                  La UE se plantea suspender el acuerdo antiterrorista con EE.UU.                
+
+
+                  Dilma Rousseff critica ante la ONU el espionaje de la NSA                
+
+
+                  Periodistas contra el poder en la era digital                
+
+
+                  Apple comparte huellas dactilares registradas por sus iPhone                
+
+
+                  El abogado de Edward Snowden asegura que corre peligro en Rusia                
+
+
+                  La influencia de EE.UU. en América Latina cae en picado                
+
+
+                  La NSA pidió a Linus Torvalds instalar una puerta trasera en Linux                
+
+
+                  «Estados Unidos invadió a Brasil»                
+
+
+                  Brasil, en busca de acabar con hegemonía de EE.UU. en Internet y defenderse del espionaje                
+
+
+                  El petróleo es nuestro, sus secretos de la NSA                
+
+
+                  Presidenta Rousseff cancela visita oficial a EEUU                
+
+
+                  ¿Finiquito al acceso universal a Internet?                
+
+
+                  Lo que oculta la NSA y las resistencias locales                
+
+
+                  EEUU capta transacciones bancarias y pagos con tarjeta en todo el mundo                
+
+
+                  Dilma Rousseff quiere regular compañías de internet tras reportes de espionaje                
+
+
+                  Argentina y Brasil se declaran en guerra contra el espionaje de EE.UU.                
+
+
+                  Google conoce casi todas las contraseñas Wi-Fi del mundo                
+
+
+                  La directora de Yahoo! admitió que temió terminar presa si no colaboraba con la CIA                
+
+
+                  Jefe de la NSA reconoce que Edward Snowden creó un ‘debate necesario’                
+
+
+                  La NSA se hizo pasar por Google para espiar a los usuarios de internet                
+
+
+                  La NSA comparte sus datos de inteligencia con Israel                
+
+
+                  La NSA espió a la petrolera brasileña Petrobras                
+
+
+                  NSA y software libre                
+
+
+                  EE.UU. espiaba a Sudamérica desde la isla Ascensión                
+
+
+                  El anonimato de la red Tor podría estar comprometido                
+
+
+                  La NSA tiene capacidad para acceder a todo tipo de dispositivos móviles                
+
+
+                  NSA y el GCHQ inglés pueden romper los protocolos más comunes de encriptación                
+
+
+                  La ONU advierten que no pueden impedir que la prensa esclarezca violaciones de derechos humanos                
+
+
+                  La NSA pirateó protocolos de seguridad en la Red para sus labores de espionaje                
+
+
+                  WikiLeaks presenta en Alemania una demanda contra EE.UU.                
+
+
+                  Brasil desarrollará un servicio propio de correo electrónico para evitar el espionaje                
+
+
+                  Brasil cerrará empresas que colaboren con espionaje norteamericano                
+
+
+                  Espionaje, imperialismo y control                
+
+
+                  La inteligencia de EE.UU. realizó 231 ciberataques contra otros países en 2011                
+
+
+                  Microsoft y Google demandan al gobierno de EE.UU. para pedir más transparencia                
+
+
+                  «El horror en Siria es la prueba dolorosa de esconder información»                
+
+
+                  NSA le paga a las empresas tecnológicas por acceso a sus datos                
+
+
+                  EE.UU. gastará USD $ 52.600 millones en espionaje este año                
+
+
+                  Hackers consideran utilizar palomas mensajeras para burlar espionaje electrónico de NSA                
+
+
+                  La NSA espió también a las sedes de la ONU y la UE en Nueva York                
+
+
+                  NSA habría pagado a Yahoo!, Google, Facebook y Microsoft por el acceso a sus sistemas                
+
+
+                  Estados Unidos no conoce toda la información que posee Edward Snowden                
+
+
+                  El diario británico denunció que el gobierno  le  exigió que entregue material filtrado por Snowden                
+
+
+                  ¿Qué sabe realmente la NSA ? ¿Y por qué os tiene miedo a vosotros?                
+
+
+                  Retienen en aeropuerto de Londres al compañero del periodista que destapó el caso Snowden                
+
+
+                  Periodista de revista «Time» quiere que un avión no tripulado mate a Julian Assange                
+
+
+                  Barrett Brown, el periodista especializado en espionaje que está en la cárcel                
+
+
+                  Snowden y el capitalismo por dentro                
+
+
+                  Brasil llevará a la ONU denuncia sobre espionaje masivo de EEUU                
+
+
+                  Oracle está a favor del espionaje de la NSA                
+
+
+                  El ejército de Estados Unidos manipula las redes sociales para fabricar la realidad                
+
+
+                  Google admite no respetar la privacidad                
+
+
+                  El ejército de Estados Unidos manipula las redes sociales para fabricar la realidad                
+
+
+                  Obama, el rey de los hipócritas                
+
+
+                  A EE.UU. le crecen los espías                
+
+
+                  Inesperado cierre del servicio de correo electrónico usado por Snowden                
+
+
+                  La dictadura de los Socios de los Cinco Ojos                
+
+
+                  «Los datos masivos (o big data) son el nuevo oro»                
+
+
+                  ¡USA nos usa por el destino manifiesto!                
+
+
+                  La democracia es tan del siglo pasado… bienvenidos a la espiocracia                
+
+
+                  Cinco escenarios de ciberguerra en el nuevo orden mundial actual                
+
+
+                  Manning, Assange, Snowden, contra el neonazismo                
+
+
+                  Vigilancia, sousveillance y PRISM                
+
+
+                  ¿Dónde quedó el don’t be evil?                
+
+
+                  Si el Imperio nunca duerme, la CIA jamás descansa                
+
+
+                  Qué reveló al mundo Bradley Manning                
+
+
+                  La otra cara del «Gran Hermano»                
+
+
+                  «Los días de Internet como una red verdaderamente global están contados»                
+
+
+                  ¡SOS, Snowden!                
+
+
+                  10 claves del caso Snowden                
+
+
+                  El consejo de guerra de Bradley Manning se acerca a su fin con los alegatos finales                
+
+
+                  Microsoft jamás será libre de demostrar su inocencia ante el espionaje de la NSA por lo cuál hay que usar únicamente Software Libre                
+
+
+                  Assange, un año en Londres                
+
+
+                  En pos de los petroleros                
+
+
+                  Snowden es «un héroe», dice Julian Assange                
+
+
+                  Julian Assange y la vigilancia masiva                
+
+
+                  Rigurosamente vigilados                
+
+
+                  Propiedad intelectual, democracia y NSA                
+
+
+                  Espionaje y Ciberterrorismo                
+
+
+                  Pido apoyo para viajar a América Latina                
+
+
+                  El artículo Snowden                
+
+
+                  «Snowden tiene información para causar más daño»                
+
+
+                  El fundador del GNU/Linux, Richard Stallman, se reúne con Julian Assange                
+
+
+                  Crean las Brigadas Populares Antihacking en Argentina contra el espionaje electrónico yanqui                
+
+
+                  Lecciones de los padecimientos del presidente boliviano                
+
+
+                  El lado oscuro de su fuerza: las multinacionales informáticas colaboradoras de la NSA                
+
+
+                  El Gran Hermano, sus colaboradores y la vigilancia global-imperial                
+
+
+                  Cómo la criptografía es un arma clave en la lucha contra los estados Imperiales                
+
+
+                  El Ministro de Relaciones Exteriores de Ecuador habla de Snowden, Assange y América Latina                
+
+
+                  Crisis de inteligencia Americana (CIA)                
+
+
+                  Snowden es malo, lo dice el Tío Sam                
+
+
+                  Declaración de apoyo a Bradley Manning, Julian Assange y Edward Snowden                
+
+
+                  Snowden: asilo y crisis diplomática                
+
+
+                  Justicia a la norteamericana                
+
+
+                  Venezuela decide dar asilo a Snowden                
+
+
+                  Oferta de asilo de Venezuela, con Bolivia y Nicaragua, «cambia las reglas del juego»                
+
+
+                  EE.UU. intercepta cientos de millones de mensajes latinoamericanos                
+
+
+                  Snowden acepta la oferta de Maduro de asilarse en Venezuela                
+
+
+                  Venezuela recibió solicitud de asilo de Edward Snowden                
+
+
+                  Filtros y colonialismo                
+
+
+                  Snowden y la cloaca cibernética orwelliana                
+
+
+                  ¡Todos fichados!                
+
+
+                  Espionaje en embajada ecuatoriana no frena a Wikileaks                
+
+
+                  El gran hermano internacional                
+
+
+                  Estados Unidos ordena capturar a Snowden, donde sea y como sea                
+
+
+                  «Chávez fue la figura política más importante de los últimos 10 años»                
+
+
+                  Manning, Assange y Snowden muestran cómo EEUU trata de eliminar la figura del héroe informante                
+
+
+                  René de Calle 13 y Assange se reunieron para denunciar la manipulación de los medios                
+
+
+                  «Internet es la mayor amenaza para la humanidad»                
+
+
+                  Julian Assange asegura que Wikileaks no ha provocado daño por difundir información                
+
+
+                  WikiLeaks publica la transcripción de la entrevista secreta entre Assange y el CEO de Google                
+
+
+                  Bradley Manning se declara culpable de ser fuente de WikiLeaks, pero rechaza haber «ayudado al enemigo»                
+
+
+                  WikiLeaks revela complots imperialistas de EE.UU. contra Hugo Chávez                
+
+
+                  Wikileaks dice que Aaron Swartz podría haber sido una de sus fuentes                
+
+
+                  Assange anuncia que WikiLeaks tiene más de un millón de documentos preparados para publicar                
+
+
+                  Assange, seis meses de asilo sin salida                
+
+
+                  Julian Assange crea el partido WikiLeaks y aspira a ser senador en Australia                
+
+
+                  «Si no conseguimos proteger a las personas, el mundo se desmoronará»                
+
+
+                  El Pentágono amenaza a WikiLeaks por divulgar documentos clasificados                
+
+
+                  «Es hora de que EE.UU. cese la persecución de WikiLeaks»                
+
+
+                  «Hemos revelado la corrupción en los medios y la hipocresía de Occidente»                
+
+
+                  Ecuador dispuesto a trasladar a Assange a su embajada en Suecia                
+
+
+                  Julian Assange en la trampa de la CIA y el Ecuador bajo amenaza del Reino Unido                
+
+
+                  La vergüenza de Suecia                
+
+
+                  La vergüenza de Suecia                
+
+
+                  Correa promueve la libertad de expresión y desafía la «dictadura de los medios de comunicación»                
+
+
+                  WikiLeaks y los emperadores de la libertad de expresión sin ropa                
+
+
+                  Julian Assange: «Estados Unidos quiere frenar las actividades de Wikileaks»                
+
+
+                  Rafael Correa, Julian Assange y los medios de comunicación                
+
+
+                  Rafael Correa, Julian Assange y los medios de comunicación                
+
+
+                  Caso Assange y temas peruanos                
+
+
+                  Un acto de soberanía                
+
+
+                  «Ecuador no teme represalias por el asilo concedido a Assange»                
+
+
+                  Garzón acusa a Australia de incumplir sus obligaciones con Assange                
+
+
+                  Entretelones del caso Assange                
+
+
+                  Información desclasificada muestra que EE.UU. sí busca la extradición de Assange                
+
+
+                  Rafael Correa y Julian Assange: unidos por el mismo adversario                
+
+
+                  Julian Assange, 45 pasos a la libertad de información                
+
+
+                  El caso Assange y América Latina: Esperando a Superman                
+
+
+                  «Si entran en la Embajada ecuatoriana quebrantarían la normativa internacional»                
+
+
+                  Ecuador otorga asilo diplomático a Julian Assange                
+
+
+                  «Los políticos y los medios de EE.UU. instaban a asesinar a Julian»                
+
+
+                  Ecuador solicita a Suecia que Assange sea interrogado en su embajada                
+
+
+                  Prohíben al experto en tortura de la ONU testificar en el juicio de Bradley Manning                
+
+
+                  Embajada de Estados unidos monitoreaba oficina de patentes argentina                
+
+
+                  Anonymous lanza portal similar a WikiLeaks; el sitio almacena miles de documentos confidenciales                
+
+
+                  Julian Assange: sus aportes al debate sobre propiedad intelectual                
+
+
+                  Assange: «Suecia declaró que me encarcelarían sin presentar acusaciones»                
+
+
+                  Assange pide asilo político a Ecuador                
+
+
+                  Assange y el riesgo de extradición a Estados Unidos                
+
+
+                  El caso Assange                
+
+
+                  La justicia británica autoriza la extradición de Assange a Suecia                
+
+
+                  Tony Blair: «WikiLeaks es malo y vergonzoso»                
+
+
+                  Estados Unidos ordena a Twitter entregar la información de la cuenta de los informantes de Wikileaks                
+
+
+                  Bradley Manning, el enemigo son ellos. #FreeBrad                
+
+
+                  Organizan manifestaciones de apoyo a Bradley Manning, supuesto informante de Wikileaks                
+
+
+                  ‘The Spyfiles’, los archivos revelados por Wikileaks sobre la industria del espionaje                
+
+
+                  Cables revelados por WikiLeaks: El nuevo director del OIEA y EE.UU.                
+
+
+                  Hablando con Wikileaks                
+
+
+                  Wikileaks se enfrenta a un incierto futuro sin su fundador                
+
+
+                  El Tribunal Superior de Londres autoriza la extradición de Julian Assange a Suecia                
+
+
+                  WikiLeaks cesa actividades temporalmente por asfixia financiera                
+
+
+                  Wikileaks y su fugaz viaje de la gloria al cadalso                
+
+
+                  Lo que ocultan los cinco medios que rompieron con Wikileaks                
+
+
+                  El Jefe de la Oficina de Intereses de EEUU hizo la labor de Inteligencia sobre Internet en Cuba                
+
+
+                  «El impacto de Wikileaks se percibirá en algunos años»                
+
+
+                  WikiLeaks, Wimbledon y la guerra                
+
+
+                  WikiLeaks: «Cuando Visa o Mastercard prestan su servicio al Ku Klux Klan y no a WikiLeaks, es hora de actuar»                
+
+
+                  Wikileaks y los dinosaurios…del periodismo                
+
+
+                  Julian Assange sobre WikiLeaks: «Somos una agencia de inteligencia de la gente»                
+
+
+                  Se revelan los esfuerzos de EE UU por invisibilizar a Telesur en Latinoamérica                
+
+
+                  Un cable de WikiLeaks muestra críticas al programa nuclear japonés                
+
+
+                  Wikileaks: La memoria del vocero                
+
+
+                  Lecciones de Anonymous sobre la guerra cibernética                
+
+
+                  Assange: Manning es un «héroe sin igual»                
+
+
+                  Julian Assange presenta recurso contra extradición                
+
+
+                  Manning acusado del mismo delito que él quiso denunciar: traición                
+
+
+                  «Si la ley falla, la CIA asesinará a Assange»                
+
+
+                  Un tribunal aprueba la extradición de Assange a Suecia                
+
+
+                  El terror provoca ridiculez                
+
+
+                  Para entender a Wikileaks                
+
+
+                  Lo que importa de WikiLeaks 
+
+
+                  Estados Unidos investiga la filtración de cables a WikiLeaks desde LimeWire y Kazaa                
+
+
+                  Buenos modales en la era de WikiLeaks                
+
+
+Wikileaks como desafío epistemológico                
+
+
+                  Banquero que contribuyó con WikiLeaks enfrenta juicio en Suiza                
+
+
+                  La red en mano de los intereses financieros                
+
+
+                  Fijan para febrero el juicio de extradición del fundador de WikiLeaks 
+
+
+                  El gobierno de Islandia arremete contra EEUU y sale en defensa de WikiLeaks                
+
+
+                  El diario noruego Aftenposten da acceso a cables de Wikileaks que no han sido hechos públicos                
+
+
+                  LeakSpain                
+
+
+                  El FBI allana servidor en Texas que facilitó los ataques DDoS a Paypal                
+
+
+                  Wikileaks: ¿otro 11 de septiembre?                
+
+
+                  Wikileaks, mucho más que Julian Assange                
+
+
+                  La CIA examinará impacto de archivos publicados por Wikileaks, dice Washington Post                
+
+
+                  Julian Assange, el Caso Rosenberg y la Ley de Espionaje de 1917                
+
+
+                  La defensa de WikiLeaks y el bautismo de fuego de las primeras Ciber-guerrillas                
+
+
+                  Lo que significa para los socialistas el «caso Assange»                
+
+
+                  Joven detenido por filtraciones a WikiLeaks vive en condiciones inhumanas (+ Video)                
+
+
+                  Habitación 618. La madriguera. Así espían los topos del embajador de los EE.UU                
+
+
+                  Wikileaks y los derechos fundamentales en Internet                
+
+
+                  ¿Quién sostiene a Assange/Wikileaks?                
+
+
+                  Anonymous: protestas contra el Gran Hermano                
+
+
+                  Wikileaks: Sitio web publica traducción de cables sobre Cuba                
+
+
+                  Se vuelven a filtrar documentos de WikiLeaks 
+
+
+Wikileaks y las Relaciones Internacionales                
+
+
+                  ¿Julian Assange es periodista?                
+
+
+                  Emperador al acecho con «ahogamiento simulado»                
+
+
+                  ¿Quién está detrás de Wikileaks?                
+
+
+                  ¿Quién está detras de WikiLeaks? (Primera parte)                
+
+
+                  Assange pactó «no avergonzar» a Israel                
+
+
+                  El reto de Wikileaks                
+
+
+                  Tras su puesta en libertad Assange promete difundir información peligrosa contra el sistema financiero                
+
+
+                  ¿Wikiliquidación del Imperio?                
+
+
+                  Documentos no muy secretos                
+
+
+                  En respaldo a Julian Assange                
+
+
+                  Los puntos débiles de WikiLeaks                
+
+
+                  Algo está podrido: el extraño caso de la alerta roja de la Interpol contra Assange y el ataque de Estados Unidos contra WikiLeaks                
+
+
+                  Ni el infierno tiene la furia de un imperio desdeñado                
+
+
+                  Difunde la televisión australiana denuncia de Jullian Assange  (+ vídeo)                
+
+
+                  El imperio en el banquillo de los acusados                
+
+
+                  Traducciones de los cables de wikeleaks relacionados con la llamada ley Sinde                
+
+
+                  «Se han traicionado  los principios originarios de Wikileaks»                
+
+
+                  Michael Moore ofrece a Wikileaks su web, servidores y dominio                
+
+
+                  Suecia impide que Assange salga de prisión al apelar su libertad bajo fianza de 235.000 euros                
+
+
+                  Darknets: más allá de la frontera del control                
+
+
+                  Wikileaks: Del abate Barruel a Jeremy Bentham.                
+
+
+                  El laberinto financiero de WikiLeaks                
+
+
+                  Secretos y Wikileaks                
+
+
+                  Agradecimientos a WikiLeaks y al soldado Mannig                
+
+
+                  Consejero Delegado del Grupo PRISA en cable de Wikileaks pero «El País» no se entera                
+
+
+                  «No perdonamos, no olvidamos»                
+
+
+                  «Lo que hay que hacer es abrir webs»                
+
+
+                  Guerra asimétrica entre Wikileaks y Washington                
+
+
+                  Una guardia anónima defiende Wikileaks                
+
+
+                  Ejército de EE.UU. responde a Wikileaks: ¡no más pendrives!                
+
+
+                  Wikileaks.org vuelve a estar operativo                
+
+
+                  Obama califica de «actos deplorables» las filtraciones de Wikileaks                
+
+
+                  EEUU presionó a Alemania para lograr impunidad de agentes de la CIA violadores de derechos humanos                
+
+
+                  Interpretando la filtración de Wikileaks                
+
+
+                  Un artículo que Fidel debería tener en cuenta: Las debilidades de combatir en la era de Internet                
+
+
+                  El Robin Hood de las informaciones                
+
+
+                  Nace OpenLeaks, la primera alternativa a WikiLeaks                
+
+
+                  Wikileaks y la ‘Tesis Ordenador de Raúl Reyes’                
+
+
+                  Copyright, criminalización de la pobreza y muerte                
+
+
+                  Wikileaks y ciberguerra; una barbaridad sensacionalista.                
+
+
+                  Analista de TV norteamericano pide asesinato de Julian Assange (+ Video)                
+
+
+                  Cablegate / Sinde en la embajada                
+
+
+                  Entorpecer relaciones España-Cuba, prioridad de EEUU, revela Wikileaks                
+
+
+                  La Internet Society advierte que los ataques a WikiLeaks ponen en riesgo los principios de Internet                
+
+
+                  Filtraciones y lealtades patrióticas                
+
+
+                  Lula defiende creador Wikileaks y pide protestar por arresto                
+
+
+                  Cablegate: la BSA desprestigia a la industria española del software libre pero es la «favorita» del Ministerio                
+
+
+                  Wikileaks: muy actuales piezas en el rompecabezas que los grandes medios no quieren ver                
+
+
+                  La lucha por la libertad de expresión en Internet se está dando en estos días                
+
+
+                  Origen de la Ley Sinde según los cables KIPR de la embajada en España                
+
+
+                  WikiLeaks revela maniobras de Pfizer para evitar millonario juicio en Nigeria                
+
+
+                  Cancún, Cambio Climático y WikiLeaks                
+
+
+                  La economía de Wikileaks                
+
+
+                  Indymedia Ecuador apoya Wikileaks y Julian Assange                
+
+
+                  Washington, Miami y Wikileaks: la ley no escrita                
+
+
+                  Ex agentes de inteligencia de EE.UU.: Las revelaciones de WikiLeaks son ventajosas                
+
+
+                  El bloqueo a Wikileaks: una brecha en la neutralidad de la Red                
+
+
+                  Australia culpa a EEUU de las filtraciones de WikiLeaks                
+
+
+                  Estados Unidos busca extraditar a Assange por espionaje                
+
+
+                  Yo soy Wikileaks                
+
+
+                  Seamos justos con Sinde: el guión no era suyo                
+
+
+                  Los orígenes como hacker de Julian Assange                
+
+
+                  A los periódicos del «Cablegate»                
+
+
+                  Disparad al periodista y mataréis el periodismo                
+
+
+                  El menú de Wikileaks                
+
+
+                  Ya está disponible el primer buscador para textos de WikiLeaks                
+
+
+                  ¿Y si Assange y WikiLeaks tienen razón?                
+
+
+                  Suecia contra Assange: un caso oscuro                
+
+
+                  La mujer que acusa a Julian Assange de «violación» parece haber trabajado con un grupo que tiene conexiones con la CIA                
+
+
+                  VISA y Mastercard se suman a la cacería contra WikiLeaks pero siguen dando servicio al Ku Klux Klan                
+
+
+                  Julian Assange: «La verdad siempre va a ganar»                
+
+
+                  WikiLeaks seguirá revelando cables pese al arresto de su fundador                
+
+
+                  Defendemos la libertad de expresión                
+
+
+                  WikiLeaks nunca llegó a la Luna                
+
+
+                  Hoy van por WikiLeaks, mañana irán a por ti                
+
+
+                  Wikileaks, el ordenador de Raúl Reyes global                
+
+
+                  Kristinn Hrafnsson, periodista de investigación con fama de duro se hace «cargo» de WikiLeaks                
+
+
+                  ¿Harán algo los grandes medios que se están beneficiando de Wikileaks para salvarla?                
+
+
+                  La verdad siempre vencerá                
+
+
+                  Las verdades reveladas de Assange                
+
+
+                  WikiLeaks contra la Esfinge                
+
+
+                  El sinsentido de la vida                
+
+
+                  Cables sobre Propiedad Intelectual en Wikileaks                
+
+
+                  Apoyo a Wikileaks                
+
+
+                  Preguntas Frecuentes (FAQ) sobre WikiLeaks                
+
+
+                  Wikifreaks                
+
+
+                  Wikileaks: 7 claves para entender una sociedad 3 veces mejor                
+
+
+                  Wikileaks: razón de Estado versus estado de derecho                
+
+
+                  Del estado de alarma a WikiLeaks y por qué Assange no nos hace más libres                
+
+
+                  Ayudemos a WikiLeaks: recursos para hacerlo                
+
+
+                  Wikileaks: más recursos                
+
+
+                  ¿Qué es Wikileaks?                
+
+
+                  Hackers vengadores y espías en diligencia                
+
+
+                  Encuentro digital con Julian Assange                
+
+
+                  Convocan a un boicot a PayPal y Amazon por negar el servicio a WikiLeaks                
+
+
+                  Wikileaks se coló en la Cumbre Iberoamericana que blindó la región contra intentos golpistas                
+
+
+                  Los ataques contra WikiLeaks revelan vulnerabilidades sorprendentes y evitables                
+
+
+                  Cómo acabar con algo como Wikileaks en una sociedad como ésta                
+
+
+                  «Nuestras leyes vienen impuestas desde fuera»                
+
+
+                  EE.UU presenta el Acta SHIELD contra WikiLeaks                
+
+
+                  Mirrors de Wikileaks                
+
+
+                  Wikileaks o el triunfo de la manipulación mediatica                
+
+
+                  Wikileaks desde la izquierda                
+
+
+                  Wikileaks a contrapelo                
+
+
+                  Wikileaks provoca nerviosismo en la capital de los terroristas                
+
+
+                  «La reacción del establishment demuestra que la estrategia de Assange ha funcionado. El sistema está perplejo al ver su propia debilidad mental reflejada en un enorme espejo digital»                
+
+
+                  Proyecto: Wikileaks distribuido                
+
+
+                  Aumenta la presión sobre WikiLeaks: PayPal cancela su cuenta para recibir donativos                
+
+
+                  Bush presionó a la Unión Europea para votar contra resolución de Cuba sobre Guantánamo                
+
+
+                  EE UU ejecutó un plan para conseguir una ‘ley antidescargas’                
+
+
+                  «¿Quién filtra en realidad lo que filtra Wikileaks?»                
+
+
+                  EEUU desconecta «SIPRNet» de su base de datos tras la filtración de Wikileaks 
+
+
+                  Zapatero cedió al minucioso plan de la embajada de EE.UU contra Internet aprobando la Ley Sinde                
+
+
+                  «Tercera Información» ofrece traducidos cables que han sido difundidos a medias por medios de comunicación (III)                
+
+
+                  «He recibido amenazas de muerte»                
+
+
+                  Washington busca arrasar Wikileaks 
+
+
+                  Wikileaks : EU, contra el derecho a la información                
+
+
+Wikileaks y la batalla del ciberespacio                
+
+
+                  ¿A quién ataca y a quién defiende WikiLeaks?                
+
+
+                  «WikiLeaks es un modo de resistencia contra estados que odian nuestras libertades»                
+
+
+                  El dominio de la organización que ha levantado la tapa del poder ya no existe: WikiLeaks.org fuera de servicio                
+
+
+                  Ley de Economía Sostenible española y Wikileaks                
+
+
+                  Antológica reacción del vocero del Pentágono sobre Wikileaks 
+
+
+Wikileaks, Cuba y el autismo mediático                
+
+
+                  ¿Se vendió la exclusiva de Wikileaks a los 5 diarios?                
+
+
+Wikileaks y el caso Couso                
+
+
+                  Escándalo bananero en tierras del Quijote                
+
+
+                  El emperador desnudo                
+
+
+                  Wikileaks humilla al Cibercomando (+ Infografía)                
+
+
+                  El filtro de los cinco                
+
+
+                  Preguntas sobre Wikileaks: ¿un «destape» mediatizado o un «destape» controlado?                
+
+
+                  Wikileaks y el cártel de los medios                
+
+
+                  Poner al alcance de todos lo que sólo unos cuantos saben, la importancia de Wikileaks                
+
+
+                  Los cuatro «imprinting» de Wikileaks 
+
+
+                  Filtraciones de Wikileaks revelan la injerencia norteamericana en Latinoamérica y acciones contra Cuba                
+
+
+                  «Wikileaks» denuncia ciberataque pero mantiene las filtraciones                
+
+
+                  «El País» censura el capítulo español de «WikiLeaks», cuya web ha sido atacada antes de la «gran filtración»                
+Ver todasENLACES

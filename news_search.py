@@ -1,3 +1,4 @@
+from os import listdir
 import sys
 import dateparser
 from datetime import datetime, timedelta
@@ -50,7 +51,7 @@ def extract_links(dir_c, dir_k, lang):
         min_d, max_d, num_d = get_date_range(fp)
         print('Date range: ', min_d, max_d + '\n')
 
-        f_out = open(lang + '_links/' + t + '_links.txt', 'w')
+        f_out = open(lang + '/links/' + t + '_links.txt', 'w')
 
         key_enc = quote(kw.encode('utf8'))
         googlenews = GoogleNews()
@@ -82,8 +83,12 @@ def extract_links(dir_c, dir_k, lang):
         f_out.close()
 
 lang = sys.argv[1]
-topics = ['iraq', 'lebanon', 'libya', 'syria']
+topics = []
 dir_clean = lang + '/clean/'
 dir_kw = lang + '/keywords/'
+
+for f in listdir(dir_clean):
+    t = f.split('.txt')[0]
+    topics.append(t)
 
 extract_links(dir_clean, dir_kw, lang)
