@@ -1,0 +1,208 @@
+In giornata forse pronto il nuovo esecutivoEgitto, Mansour presidente ad interimQuindici morti negli scontri dopo il golpeIl giudice giura, oggi i Fratelli musulmani in piazza. Per il deposto Morsi scatta il divieto d'espatrio  In giornata forse pronto il nuovo esecutivoEgitto, Mansour presidente ad interimQuindici morti negli scontri dopo il golpeIl giudice giura, oggi i Fratelli musulmani in piazza. Per il deposto Morsi scatta il divieto d'espatrio  
+
+L'APPELLO DELL'ESERCITO - L'esercito in serata ha lanciato un appello «al'unità e alla riconciliazione» assicurando che non ci saranno «misure eccezionali o arbitrarie contro qualsiasi fazione e corrente politica» e ricordando che l'abuso del diritto di protesta potrebbe trasformarsi in una minaccia «alla pace sociale, agli interessi nazionali e all'economia».  L'annuncio della manifestazione degli islamici contro il golpe dà però l'idea che la contrapposizione dura non è finita e che solo l'avvicinarsi del Ramadan, il mese sacro per i musulmani, che comincia mercoledì prossimo, può alleviare le tensioni palpabili anche sotto la sbornia di entusiasmo che ha travolto l'Egitto dopo l'annuncio dell'estromissione di Morsi. Le parole di Mohamed el Beltagy, uno dei dirigenti più conosciuti della Fratellanza, sono un campanello d'allarme, quando afferma che la Fratellanza non imbraccerà le armi, ma che altri non meglio precisati gruppi potranno essere portati alla resistenza violenta. 
+IL GOLPE - Lunedì l'esercito egiziano aveva lanciato un ultimatum a Morsi, eletto appena un anno prima, affinché mettesse fine allo stallo politico nel Paese, oppure si dimettesse. Da domenica migliaia di persone erano radunate per protestare contro la presidenza in piazza Tahrir al Cairo e in numerose altre città egiziane per protestare contro la leadership. L'ultimatum era stato respinto con sdegno da Morsi e il presidente si era detto disposto a «difendere la democrazia con la vita».
+Il giuramento di Mansour
+
+
+
+
+			//Global var
+			var vote_IDL_1;
+			var vote_IL_1;
+			var pl_video_link;
+			// callback per flash:
+			function LoadPlayerText1(idVideo, playerId, videoLink)  
+			{
+				var subdirectory = idVideo.substring(0, 2);
+				pl_video_link = videoLink;
+				
+				var use_community_temp;
+				try 
+				{
+					//use_community_temp = '(none)';
+					use_community_temp = 1;
+				} catch (e) {
+					console.log(e.message);
+				}				
+				var use_community;
+				if(use_community_temp == '1')
+				{	
+					use_community = 1;
+				}else 
+				{
+					use_community = 0;
+				}
+				if(use_community ==1)
+				{
+					$('.box_Player').attr('style','margin-bottom: 15px;');
+					loadBoxInfoVar1(idVideo, subdirectory);
+					loadDescription1(idVideo, subdirectory);
+				}
+				else
+				{
+					$('#js_Title400_1').hide();
+					loadOldDescription1(idVideo, subdirectory);
+				}
+			}
+			
+			function loadTitle1(idVideo, subdirectory)
+			{
+				$.ajax({
+					url: '/widget/content/video/html/title/titleBoxPlayer/'+subdirectory+'/titleBoxPlayer_'+idVideo+'.html',
+					type: 'GET',
+					
+					dataType: 'html',
+					
+					success: function (data){
+						$('#js_Title400_1').html(data);
+						titleLoaded(1,idVideo);
+						try 
+						{
+							loadCommunityVideo(idVideo,1,pl_video_link);
+							
+						} catch (e) {
+							console.log(e.message);
+						}
+					},
+					error: function (data){
+						$('#js_Title400_1').empty();
+					}
+				});
+			}
+			
+			function loadBoxInfoVar1(idVideo, subdirectory) 
+			{
+				$.ajax({
+						url: '/widget/content/video/commenti/box_Info_Var/'+subdirectory+'/commenti_'+idVideo+'_box_Info_Var.html',
+						type: 'GET',
+						
+						dataType: 'text',
+						
+						success: function (data){
+							$('#js_boxInfoVar_1').html(data);
+						},
+						error: function (data){
+							$('#js_boxInfoVar_1').empty();
+							loadComments1(video_id, sub_directory);
+						}
+					});
+			}
+			
+			function loadDescription1(idVideo, subdirectory) 
+			{
+				$.ajax({
+						url: '/widget/content/video/html/descriptionAndTools2013/player400/'+subdirectory+'/descriptionAndTools_Player400_'+idVideo+'.html',
+						type: 'GET',
+						
+						dataType: 'html',
+						
+						success: function (data){	
+							loadTitle1(idVideo, subdirectory);
+							var descriptiondiv = $('#js_DescriptionAndTools_1');
+							descriptiondiv.html(data);
+							resetAddThis();
+							descriptionLoaded(1,idVideo,player1);
+						},
+						error: function (data){
+							$('#js_DescriptionAndTools_1').empty();
+							loadOldDescription1(idVideo, subdirectory);
+						}
+					});	
+			}
+			
+			function loadOldDescription1(idVideo, subdirectory) 
+			{
+				$.ajax({
+						url: '/widget/content/video/html/descriptionAndTools/player400/'+subdirectory+'/descriptionAndTools_Player400_'+idVideo+'.html',
+						type: 'GET',
+						
+						dataType: 'html',
+						
+						success: function (data){							
+							var descriptiondiv = $('#js_DescriptionAndTools_1');
+							descriptiondiv.html(data);
+							
+							vote_IDL_1 = null;
+							vote_IL_1 = null
+							
+							var visualVote = $(".box_Voting_Results .box_Vote_Ok .ico_Icon").attr("id",'sp_iLike_'+idVideo+'_400');
+							var visualVote2 = $(".box_Voting_Results .box_Vote_Ko .ico_Icon").attr("id",'sp_iDontLike_'+idVideo+'_400');
+							
+							vote_IDL_1 = new Voting({
+									domain: 'video_corriere',
+									contentKey: idVideo,
+									countType: 'I_DONT_LIKE',
+									votaDivId: 'sp_iDontLike_'+idVideo+'_400',
+									risDivId: 'sp_iDontLike_'+idVideo+'_400'
+							});
+							
+							vote_IL_1 = new Voting({
+								domain: 'video_corriere',
+								contentKey: idVideo,
+								countType: 'I_LIKE',
+								votaDivId: 'sp_iLike_'+idVideo+'_400',
+								risDivId: 'sp_iLike_'+idVideo+'_400'
+							});
+							
+							
+							
+							
+							var voteok = $(descriptiondiv).find('.box_Voting .btn_Vote_Ok');
+							var voteokhref = 'Javascript:vote_IL_1.doVote();';
+							voteok.attr("href",voteokhref);
+							
+							var voteko = $(descriptiondiv).find('.box_Voting .btn_Vote_Ko');
+							var votekohref = 'Javascript:vote_IDL_1.doVote();';
+							voteko.attr("href",votekohref);
+							
+							resetAddThis();
+							descriptionLoaded(1,idVideo,player1);
+						},
+						error: function (data){
+							$('#js_DescriptionAndTools_1').empty();
+						}
+					});	
+			}
+		
+			var player1 = new CTVPlayer( 3,'null', 'dateDesc', '477da1c2-e495-11e2-8ffb-29023a5ee012', 'false', 'true','logo_overlay.png','null', 'null',1,null,null,true );
+			//var player = new Player("3", null, null, "477da1c2-e495-11e2-8ffb-29023a5ee012", "false","false", null,  " PRIMO PIANO", "idcanale", "StringaDiProvaPopout",null, null, "false");
+		
+
+
+
+			var enableComment = true;
+     		var startDate = "2013/07/04.12:34:17";
+			var titleForUrl = "http://video.corriere.it/egitto-adly-mansour-giura-diventa-nuovo-presidente/477da1c2-e495-11e2-8ffb-29023a5ee012";
+			var countPreTitle = titleForUrl.indexOf("477da1c2-e495-11e2-8ffb-29023a5ee012");
+			
+			var urlToComment = titleForUrl.substr(0, countPreTitle) + "commenti/" +titleForUrl.substr(countPreTitle, titleForUrl.length);
+			var urlToAllComment = titleForUrl.substr(0, countPreTitle) + "commenti-full/" +titleForUrl.substr(countPreTitle, titleForUrl.length);
+		
+
+
+
+
+
+
+ARRESTATA LA GUIDA SPIRITUALE DEI FRATELLI  - Mercoledì è così arrivata la deposizione del presidente, che è ai domiciliari ed è stato portato dalla caserma della Guardia repubblicana al ministero della Difesa, oltre agli arresti di numerosi esponenti dei Fratelli musulmani e di altri consiglieri (tra questi Saad el-Katatni, capo del partito Libertà e giustizia, la guida spirituale della Fratellanza Mohamed Badie e il suo vice Khairat el Shater). La svolta è arrivata alle 21, quando il capo delle forze armate Abdel-Fattah el-Sissi ha annunciato la sospensione della Costituzione e l'imminente nomina di Mansour, diventato presidente della Corte il 1 luglio, che terrà l'incarico fino alle prossime elezioni.
+
+I jet dell'aviazione egiziana sorvolano Il Cairo mentre Adly Mansour giura  (Reuters/Salem)
+IL GIURAMENTO - Il giuramento del  67enne è arrivato giovedì mattina, preceduto da quello - necessario - a Capo della Consulta. Dopo le promesse di proteggere gli interessi dell'Egitto, Mansour ha aggiunto: «I manifestanti hanno unito il popolo egiziano correggendo la strada della sua gloriosa rivoluzione». Le forze armate hanno promesso a breve la formazione di un governo di tecnici che non escluderà «nessuno o nessun movimento». 
+LE REAZIONI  - Sulla scena internazionale le reazioni sono molto diverse. Cauti gli Stati Uniti, con il presidente Barack Obama che sottolinea «non sosterremo particolari individui o gruppi politici» e che riconosce «le legittime lamentele del popolo egiziano» pur notando la «legittimità  dell'elezione di Morsi». Anche Emma Bonino, ministro degli Esteri italiano, commenta: «In Egitto la situazione è in assoluto movimento. La prudenza è la linea migliore che possiamo seguire senza precipitarci in giudizi o affermazioni su situazioni complesse». Entusiasta, invece, la Gran Bretagna che «è pronta a riconoscere la nuova amministrazione in Egitto e a collaborare», ha sottolineato  il ministro degli Esteri britannico, William Hague. Di parere opposto il suo omologo tedesco Guido Westerwelle, però, ritiene che la destituzione di Morsi costituisca «Un grave fallimento per la democrazia in Egitto. È urgente che il Paese torni quanto prima a un ordine costituzionale». Sulla stessa lunghezza d'onda il portavoce Ue per gli Affari esteri Michael Mann: «La cosa più importante è che tutte le parti stiano calme e che si ritorni al processo democratico il più presto possibile». L'Unione africana dovrebbe, invece, sspendere il Paese. Lo rivela l'agenzia Reuters. 
+LA POSIZIONE SIRIANA - Il presidente siriano Bashar Assad, che da due anni fronteggia una feroce ribellione che ha portato alla guerra civile nel paese, ha lodato le proteste di massa del Cairo, sottolineando in un'intervista al quotidiano Al-Thawra, che il colpo di Stato segna «la fine dell'islam politico». Riguardo alla sua situazione, invece, ha assicurato che l'opposizione «ha ormai esaurito i mezzi». Martedì il ministro degli Esteri di Damasco Omran al-Zoubi, prima ancora che iniziasse il golpe, aveva esortato gli egiziani alla rivolta «contro il terrorismo dei Fratelli musulmani». 
+VITTIME - Nuovo scontri nelle piazze, con 15 vittime: sale così ad almeno  48  il bilancio di vittime da domenica, visto che già prima del golpe non erano mancati scontri tra sostenitori e oppositori di Morsi e del partito islamista dei Fratelli musulmani, con una quarantina di vittime - in particolare a Giza, il sobborgo del Cairo famoso per le Piramidi e la Sfinge. Nella notte di mercoledì la polizia ha ucciso a colpi di arma da fuoco sei islamisti che avevano sparato contro la sede della polizia a Marsa Matrouh, nell'ovest del Paese. Altre tre vittime si registrano a Minya  e incidenti senza vittime nelle vicine Deir Mawas e Assiut (sud della Valle del Nilo), roccaforti degli islamisti.
+I MEDIA - Mercoledì l'esercito aveva preso il controllo della tv di Stato, poi, nelle ore successive alla scadenza dell'ultimatum, ha oscurato tutte le televisioni legate ai Fratelli musulmani e ha fatto irruzione nello studio di al-Jazeera Mubasher (il canale live senza commenti che trasmette sia dal Qatar che dal Cairo), arrestando lo staff. 
+
+                       Leggi i contributi
+                       
+
+
+SCRIVI
+partecipa alla discussione
+voto
+data
+
+          RCS MediaGroup S.p.A. - Divisione Quotidiani  Sede legale: via Angelo Rizzoli, 8 - 20132 Milano | Capitale sociale: € 270.000.000,00  
+          Codice Fiscale, Partita I.V.A. e Iscrizione al Registro delle Imprese di Milano n.12086540155 | R.E.A. di Milano: 1524326 | ISSN 2499-0485
+  

@@ -14,6 +14,8 @@ def clean(fname):
                 content = line.split(' : ')
                 curr_date = str(dateparser.parse(content[0]).date())
                 text = '. '.join((line.split(' : ')[1:]))
+                if text == '\n':
+                    text = ''
                 if ind != 0 : f_out.write('--------------------------------' + '\n')
                 f_out.write(curr_date + '\n' + text)
             elif line != '\n':
@@ -51,4 +53,4 @@ def clean2(fname):
     f_out.write('\n' + '--------------------------------')
     f_out.close()
 
-clean2(sys.argv[1])
+clean(sys.argv[1])
