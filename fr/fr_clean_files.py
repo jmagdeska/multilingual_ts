@@ -33,7 +33,8 @@ def clean_ukraine(fname):
                 content = line.split(" : ")
                 curr_date = str(dateparser.parse(content[0]).date())
                 if ind != 0 : f_out.write('--------------------------------' + '\n')
-                f_out.write(curr_date + '\n' + content[1])
+                text = '. '.join((line.split(' : ')[1:]))
+                f_out.write(curr_date + '\n' + text)
             ind += 1
     f_out.write('\n' + '--------------------------------')
     f_out.close()
@@ -146,4 +147,4 @@ def clean_syria(fname):
     f_out.write('\n' + '--------------------------------')
     f_out.close()
 
-clean_syria(sys.argv[1])
+clean_ukraine(sys.argv[1])

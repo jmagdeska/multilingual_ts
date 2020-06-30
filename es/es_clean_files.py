@@ -143,7 +143,7 @@ f_in = open('timelines/' + sys.argv[1], 'r')
 f_out = open('clean/' + sys.argv[1], 'w')
 
 fp = f_in.readlines()
-clean_guantanamo(fp, f_out)
+clean_libya(fp, f_out)
 f_out.write('\n' + '--------------------------------')
 
 f_in.close()
