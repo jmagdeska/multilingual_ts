@@ -36,4 +36,4 @@ def clean_syria(fname):
     f_out.write('\n' + '--------------------------------')
     f_out.close()
 
-clean_syria(sys.argv[1])
+clean(sys.argv[1])
