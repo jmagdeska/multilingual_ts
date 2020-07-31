@@ -1,8 +1,11 @@
-Il software nasce dalla fantasia di due studenti di Pittsburghper creare condizioni di convivenza pacifica tra israeliani e palestinesiPeacemaker, un video giocoinsegna la pace in Medio OrienteTestato nelle scuole arabe e americane sta per essere lanciato sul mercatoA sinistra Eric Brown e, al centro, Asi Burak, i due inventori di Peacemaker
-if (navigator.appName.indexOf("Explorer")>=0) 
-  document.write('<a href="#" onclick="this.style.behavior=\'url(#default#homepage)\';this.setHomePage(\'http://www.repubblica.it\');">Fai di Repubblica la tua homepage</a> ');	
-if (navigator.appName.indexOf("Netscape")>=0) 
-  document.write('<a href="/misc/sthome/sthome.html\">Fai di Repubblica la tua homepage</a>');
- | Mappa del sito | Parole più cercate | Redazione | Scriveteci | Servizio Clienti | Podcast |
-			 Aiuto | Pubblicità. | Privacy
-Divisione La RepubblicaGruppo Editoriale LEspresso Spa - P.Iva 00906801006Società soggetta all'attività di direzione e coordinamento di CIR SpA 
+Il software nasce dalla fantasia di due studenti di Pittsburghper creare condizioni di convivenza pacifica tra israeliani e palestinesi
+Peacemaker, un video giocoinsegna la pace in Medio Oriente
+Testato nelle scuole arabe e americane sta per essere lanciato sul mercato
+A sinistra Eric Brown e, al centro, Asi Burak, i due inventori di Peacemaker
+if (navigator.appName.indexOf("Explorer")>=0)
+document.write('<a href="#" onclick="this.style.behavior=\'url(#default#homepage)\';this.setHomePage(\'http://www.repubblica.it\');">Fai di Repubblica la tua homepage</a> ');
+if (navigator.appName.indexOf("Netscape")>=0)
+document.write('<a href="/misc/sthome/sthome.html\">Fai di Repubblica la tua homepage</a>');
+| Mappa del sito | Parole più cercate | Redazione | Scriveteci | Servizio Clienti | Podcast |
+Aiuto | Pubblicità. | Privacy
+Divisione La RepubblicaGruppo Editoriale LEspresso Spa - P.Iva 00906801006Società soggetta all'attività di direzione e coordinamento di CIR SpA

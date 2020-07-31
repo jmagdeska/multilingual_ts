@@ -34,7 +34,7 @@ def get_articles(l):
                         soup = BeautifulSoup(code.text,'lxml')
                         with open(curr_dir + str(i) + '.txt', 'w', encoding='utf-8') as f_out:
                             for title in soup.find_all((['p', 'h1', 'h2', 'h3'])):
-                                f_out.write(title.text)
+                                f_out.write(title.text + '\n')
                             f_out.close()
                             i += 1
                     except requests.RequestException as e: 
@@ -42,4 +42,3 @@ def get_articles(l):
 
 lang = sys.argv[1]
 get_articles(lang)
-

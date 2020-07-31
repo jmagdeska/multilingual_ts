@@ -1,8 +1,10 @@
-Raid israeliano nella notte contro un edificio ritenuto "un covo hezbollah"Immagini terribili. Nel 1996 un episodio analogo nello stesso paeseCana, bombe sul rifugio degli innocentiSessanta morti, 37 sono bambiniUn soccorritore con un bimbo in bracico tra le macerie di Cana
-if (navigator.appName.indexOf("Explorer")>=0) 
-  document.write('<a href="#" onclick="this.style.behavior=\'url(#default#homepage)\';this.setHomePage(\'http://www.repubblica.it\');">Fai di Repubblica la tua homepage</a> ');	
-if (navigator.appName.indexOf("Netscape")>=0) 
-  document.write('<a href="/misc/sthome/sthome.html\">Fai di Repubblica la tua homepage</a>');
- | Mappa del sito | Parole più cercate | Redazione | Scriveteci | Servizio Clienti | Podcast |
-			 Aiuto | Pubblicità. | Privacy
-Divisione La RepubblicaGruppo Editoriale LEspresso Spa - P.Iva 00906801006Società soggetta all'attività di direzione e coordinamento di CIR SpA 
+Raid israeliano nella notte contro un edificio ritenuto "un covo hezbollah"Immagini terribili. Nel 1996 un episodio analogo nello stesso paese
+Cana, bombe sul rifugio degli innocentiSessanta morti, 37 sono bambini
+Un soccorritore con un bimbo in bracico tra le macerie di Cana
+if (navigator.appName.indexOf("Explorer")>=0)
+document.write('<a href="#" onclick="this.style.behavior=\'url(#default#homepage)\';this.setHomePage(\'http://www.repubblica.it\');">Fai di Repubblica la tua homepage</a> ');
+if (navigator.appName.indexOf("Netscape")>=0)
+document.write('<a href="/misc/sthome/sthome.html\">Fai di Repubblica la tua homepage</a>');
+| Mappa del sito | Parole più cercate | Redazione | Scriveteci | Servizio Clienti | Podcast |
+Aiuto | Pubblicità. | Privacy
+Divisione La RepubblicaGruppo Editoriale LEspresso Spa - P.Iva 00906801006Società soggetta all'attività di direzione e coordinamento di CIR SpA
