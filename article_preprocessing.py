@@ -16,9 +16,7 @@ def clean_art(l):
                 with open(dir_date + f, 'r') as fp:                    
                     for line in fp:
                         content = line.split(' ')
-                        if 'Notas más leídas' in line:
-                            break
-                        if line is not '\n' and len(content) > 2 and 'Webs de PRISA' not in line:
+                        if line is not '\n' and len(content) > 2:
                             f_out += line.strip() + '\n'
 
                 with open(dir_date + f, 'w+') as fp2:
