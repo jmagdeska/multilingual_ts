@@ -1,7 +1,7 @@
 import os
 import sys
 import spacy
-from python-heideltime import HeidelTime
+# from python-heideltime import HeidelTime
 
 lang = {'es':'es_core_news_sm', 'fr':'fr_core_news_sm', 'it':'it_core_news_sm'}
 heidel_lang = {'es': 'spanish', 'fr': 'french', 'it': 'italian'}
@@ -51,14 +51,14 @@ def build_corpus(l):
                 with open(tokenized_filename, "w") as file:
                     file.write(splitted_and_tokenized)
 
-def tag_heideltime():
-    ht = HeidelTime.HeidelTimeWrapper(heidel_lang[l])
-    ht_sents = ''
-    with open(dir_art + 'egypt' + '2011-01-31/14.txt.tokenized', 'r') as fp:
-        for line in fp:
-            heidel = ht.parse(line)
-            print(heidel)
+# def tag_heideltime():
+#     ht = HeidelTime.HeidelTimeWrapper(heidel_lang[l])
+#     ht_sents = ''
+#     with open(dir_art + 'egypt' + '2011-01-31/14.txt.tokenized', 'r') as fp:
+#         for line in fp:
+#             heidel = ht.parse(line)
+#             print(heidel)
 
 l = sys.argv[1]
 dir_art = l + '/articles/'
-tag_heideltime()
+build_corpus(l)
