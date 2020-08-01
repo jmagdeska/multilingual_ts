@@ -26,28 +26,31 @@ def build_corpus(l):
     nlp = spacy.load(lang[l]) 
 
     for topic in os.listdir(dir_art):
-        for date in os.listdir("/".join([dir_art, topic])):
-            for filename in os.listdir("/".join([dir_art, topic, date])):
-                f = "/".join([dir_art, topic, date, filename])
-                sentences = ""
-                with open(f, 'r') as fp:
-                    for line in fp.readlines():
-                        sentences += line
-                
-                doc = nlp(sentences)
-                splitted_and_tokenized = ""
+        if topic == 'yemen':
+            for date in os.listdir("/".join([dir_art, topic])):
+                for filename in os.listdir("/".join([dir_art, topic, date])):
+                    if '.tokenized' not in filename:
+                        print(filename)
+                        f = "/".join([dir_art, topic, date, filename])
+                        sentences = ""
+                        with open(f, 'r') as fp:
+                            for line in fp.readlines():
+                                sentences += line
+                        
+                        doc = nlp(sentences)
+                        splitted_and_tokenized = ""
 
-                for sent in doc.sents:
-                    splitted_and_tokenized += " ".join(
-                        [tok.text for tok in sent if not tok.text.isspace()]).strip() + "\n"
+                        for sent in doc.sents:
+                            splitted_and_tokenized += " ".join(
+                                [tok.text for tok in sent if not tok.text.isspace()]).strip() + "\n"
 
-                splitted_and_tokenized = splitted_and_tokenized.strip()
+                        splitted_and_tokenized = splitted_and_tokenized.strip()
 
-                tokenized_filename = "/".join([dir_art, topic, date,
-                                                filename]) + ".tokenized"
+                        tokenized_filename = "/".join([dir_art, topic, date,
+                                                        filename]) + ".tokenized"
 
-                with open(tokenized_filename, "w") as file:
-                    file.write(splitted_and_tokenized)
+                        with open(tokenized_filename, "w") as file:
+                            file.write(splitted_and_tokenized)
 
 # def tag_heideltime():
 #     ht = HeidelTime.HeidelTimeWrapper(heidel_lang[l])
