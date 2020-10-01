@@ -1,1 +1,0 @@
-Error 405 Not allowed . Details : cache - fra19123-FRA 1596200985 2456468679 Varnish cache server
