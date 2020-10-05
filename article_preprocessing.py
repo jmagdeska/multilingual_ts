@@ -169,7 +169,7 @@ def dated_sents():
         topic_dt_sents.setdefault(topic, dt_sents)
     cPickle.dump(topic_dt_sents, open(target_path + 'tilse.filtered_sents', 'wb'))
 
-tokenize(path)
+# tokenize(path)
 
 # handle special tokens for xml
 pairs = [("&", "&amp;"), ("<", "\&lt;"), (">", "\&gt;")]
