@@ -19,7 +19,7 @@ path = lang + '/articles'
 target_path = lang + '/corpus/'
 path_raw = path + '/raw/'
 path_dumped = lang + '/dumped_corpus/'
-heideltime_directory = "/home/jana/heideltime/"
+heideltime_directory = "/home/jana_magdeska/heideltime/"
 
 lang_model = {'es':'es_core_news_sm', 'fr':'fr_core_news_sm', 'it':'it_core_news_sm', 'en':'en_core_web_sm'}
 heidel_lang = {'es': 'Spanish', 'fr': 'French', 'it': 'Italian', 'ru' : 'Russian', 'en':'English'}
@@ -169,7 +169,7 @@ def dated_sents():
         topic_dt_sents.setdefault(topic, dt_sents)
     cPickle.dump(topic_dt_sents, open(target_path + 'tilse.filtered_sents', 'wb'))
 
-tokenize(path)
+# tokenize(path)
 
 # handle special tokens for xml
 pairs = [("&", "&amp;"), ("<", "\&lt;"), (">", "\&gt;")]
