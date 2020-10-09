@@ -6,7 +6,6 @@ import pickle
 import codecs
 import subprocess
 import _pickle as cPickle
-from nltk import sent_tokenize
 from tilse.data import corpora
 
 if len(sys.argv) != 2:
@@ -19,15 +18,18 @@ path = lang + '/articles'
 target_path = lang + '/corpus/'
 path_raw = path + '/raw/'
 path_dumped = lang + '/dumped_corpus/'
-heideltime_directory = "/home/jana_magdeska/heideltime/"
+heideltime_directory = "/home/jana/heideltime/"
 
-lang_model = {'es':'es_core_news_sm', 'fr':'fr_core_news_sm', 'it':'it_core_news_sm', 'en':'en_core_web_sm'}
-heidel_lang = {'es': 'Spanish', 'fr': 'French', 'it': 'Italian', 'ru' : 'Russian', 'en':'English'}
+lang_model = {'es':'es_core_news_sm', 'fr':'fr_core_news_sm', 'it':'it_core_news_sm', 'ru':'xx_ent_wiki_sm'}
+heidel_lang = {'es': 'Spanish', 'fr': 'French', 'it': 'Italian', 'ru' : 'Russian'}
 
 nlp = spacy.load(lang_model[lang]) 
 LANGUAGE = heidel_lang[lang]
 
-if not os.path.exists(os.path.dirname(path_raw)):
+if lang == 'ru':
+    nlp.add_pipe(nlp.create_pipe('sentencizer'))
+
+if not os.path.exists(os.path.dirname(path_raw)):s
     os.mkdir(path_raw)
 if not os.path.exists(os.path.dirname(path_dumped)):
     os.mkdir(path_dumped)
@@ -62,15 +64,10 @@ def tokenize(art_dir):
                     
                     splitted_and_tokenized = ""
 
-                    if lang != 'ru':
-                        doc = nlp(sentences) 
-                        for sent in doc.sents:
-                            splitted_and_tokenized += " ".join(
-                                [tok.text for tok in sent if not tok.text.isspace()]).strip() + '\n'
-
-                    else:
-                        for sent in sent_tokenize(sentences):
-                            splitted_and_tokenized += sent.strip() + '\n'
+                    doc = nlp(sentences) 
+                    for sent in doc.sents:
+                        splitted_and_tokenized += " ".join(
+                            [tok.text for tok in sent if not tok.text.isspace()]).strip() + '\n'
 
                     splitted_and_tokenized = splitted_and_tokenized.strip()
                     filename = filename.split(".txt")[0]
@@ -154,7 +151,7 @@ def dated_sents():
         dt_sents = {}
         cnt = 0
         for doc in corpus.docs:
-            for sent in doc.sentences:      
+            for sent in doc.sentences:    
                 dt = sent.date.strftime('%Y-%m-%d')
                 time_span = sent.time_span
 
