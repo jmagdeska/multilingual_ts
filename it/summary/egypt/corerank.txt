@@ -1,57 +1,167 @@
+2011-11-21
+Ultimi articoli dell’ autore Articoli più letti AgoraVox utilizza software libero :
+
+Khoja ( CNS ) “ Siamo contro la guerra civile … ” Chi sono i nemici di Bashar Asad ?
+Khja si augura “ un processo di transizione pacifico senza l’ uso delle armi ( sic ) , siamo contro la guerra civile ed etnica , una volta caduto un regime basato sul controllo delle Forze Armate e delle Intelligence il CNS si scioglierà ” .
+--------------------------------
+2011-11-25
+Un gruppo di persone si è opposto all' ingresso dl Consiglio dei ministri dell' ex premier Kamal Ganzouri ( 25 novembre 2011 ) © Riproduzione riservata Il mio libro Metti le tue passioni in un libro :
+
+L' imam di Al - Azhar appoggia i manifestanti .
+In piazza Tahrir anche il premio Nobel per la Pace , Mohamed El Baradei .
+Rivolta in Egitto , 41 morti accertatiFolla blocca ingresso a Palazzo del governo Alta tensione in tutto il Paese per il venerdì di preghiera .
+--------------------------------
 2011-12-19
-Stamane altra folla s’ è riversata nelle vie centrali della capitale sebbene tutta la zona attorno al Parlamento sia sigillata da blocchi e sbarramenti di filo spinato disposti dall’ esercito .
 Una posizione netta a difesa della libertà d’ espressione dei pacifisti del presidio permanente di Tahrir che hanno subìto l’ esecrabile attacco dei militari .
+sull’ uso dei gas tossici da parte di polizia ed esercito :
+
 Forti d’ una conferma al secondo turno elettorale egiziano i Fratelli Musulmani chiedono a gran voce un’ inchiesta per i nuovi crimini di cui s’ è macchiato il Supremo Consiglio delle Forze Armate .
 --------------------------------
-2012-01-28
-Sul piano della giustizia , l’ attuazione della Strategia nazionale sui processi dei crimini di guerra è in ritardo .
-| di L’ hanno riacchiappato lì dove probabilmente era sempre stato , dalle parti di Foča , una delle città martiri della guerra della Bosnia ed Erzegovina .
-L’ accesso alle cure mediche è limitato , specialmente per le donne che vivono nelle aree più isolate del paese .
-Sono trascorsi oltre 16 anni dalla fine della guerra dei Balcani e molti responsabili di crimini di diritto internazionale sono ancora al riparo dalla giustizia :
+2012-01-18
+Sono poco informato , ma mi sembra strano sostenere che USA e Quatar siano ufficialmente allineati nella destabilizzazione della Siria e che una guerra civile porterebbe allo sfaldamento della società siriana .
+Chi siamo / Contatti / Avvertenze legali / Protezione dei tuoi dati personali / Regole della moderazione
 
-Trovami un anno in cui hanno fatto riposare i fucili !
+I due Paesi sono ufficialmente allineati nella destabilizzazione della Siria .
+Lasciare un commento Per commentare registrati al sito in alto a destra di questa pagina Se non sei registrato puoi farlo qui Avvocato e Foreign Affairs columnist presso The Fielder Il mio aggregatore su Paper.li Ultimi articoli dell’ autore Articoli più letti 18/01 16:49 - Geri Steve Sono poco informato , ma mi sembra strano sostenere che USA e Quatar siano ufficialmente ( ... ) AgoraVox utilizza software libero :
+
+SPIP , Apache , Ubuntu , PHP , MySQL , CKEditor .
 --------------------------------
-2012-02-02
-Secondo chi sostiene l’ intenzionalità totale o parziale dell’ incidente , questo sarebbe stato permesso o organizzato per dimostrare che l’ esercito è l’ unica forza in grado di mantenere l’ ordine nel paese , oppure per “ punire ” le organizzazioni degli ultras dell’ Al - Ahly , che sono state in prima fila nelle proteste di piazza della rivoluzione egiziana .
-La dinamica dell’ incidente non è del tutto chiara , ma dopo il terzo gol della squadra di casa c’ è stata una prima invasione di campo dei tifosi dell’ El - Masry , che si è ripetuta dopo la fine della partita , in cui l’ El - Masry ha ottenuto un’ imprevista vittoria sull’ Al - Ahly per 3 - 1 .
+2012-03-13
+“ Troncare i rapporti con Israele ” IL CAIRO , 13 MAR – Una decisa quanto contraddittoria richiesta di troncare i rapporti con Israele – espellere l' ambasciatore al Cairo , Yaakov Amital , peraltro non in sede da tempo , ritirare quello egiziano da Tel Aviv , sospendere le forniture di gas , riavviare il boicottaggio da parte dei paesi arabi – e ' stata approvata all' unanimita ' dal Parlamento egiziano nelle stesse ore in cui sembra avere successo la mediazione egiziana per fermare le violenze tra l' esercito israeliano e i palestinesi della Striscia di Gaza .
+--------------------------------
+2012-03-31
+E ’ bene comprendere come l’ anima più robusta che già condiziona , e può continuare a farlo , la politica dell’ attuale maggior partito d’ Egitto è quella delle famiglie d’ investitori e commercianti ( controllano diverse banche , linee d’ abbigliamento , alimentari e ristorazione ) che vogliono riscattarsi dall’ emarginazione subìta ai tempi di Mubarak per i contrasti d’ interesse col figlio Gamal .
+La trasversalità dell’ attuale politica egiziana sta mostrando un altro volto :
+
+Se le dispute fra laici e religiosi verranno placate dall’ affarismo globalizzato , l’ Occidente accetterà un Islam liberista e l’ Islam in salsa egiziana un affarismo pacificatore , e riprenderanno i flussi di denaro dagli States e dalle banche saudite e qatarine .
+--------------------------------
+2012-06-19
+“ Perseguitato ” Egitto , mistero sull’ agonia di Mubarak .
+L’ erede designato , suo figlio Gamal stava scalando rapidamente la gerarchia dell’ Npd , alimentando – innanzi tutto tra gli egiziani – la sensazione che Mubarak volesse trasformare l’ Egitto in una “ repubblica ereditaria ” .
+Una storia popolata dall’ odio del suo popolo e sfociata nel sangue di piazza Tahrir .
+la diagnosi dei medici dell’ ospedale di Maadi per l’ ex rais egiziano Hosni Mubarak , le cui condizioni di salute oggi si sono irrimediabilmente aggravate a causa di due ictus .
+--------------------------------
+2012-06-24
+function ( data ) { function loadOldDescription3(idVideo , subdirectory ) success :
+
+function LoadPlayerText3(idVideo , playerId , videoLink ) var subdirectory = idVideo.substring(0 , 2 )
+
+function ( data ) { var descriptiondiv = $ ( ' # js_DescriptionAndTools_3 ' ) ;
+
+function ( data ) { function loadDescription3(idVideo , subdirectory ) success :
+
+In campagna elettorale il leader della Fratellanza ha promesso sostegno ai palestinesi « nella loro lotta legittima » .
+--------------------------------
+2012-07-10
+Ma sul piano politico la più imprevedibile , la meno credibile tra le nazioni della “ primavera araba ” .
+Ma si può parlare sul serio di una Libia laica ?
+Bernardo Valli su Repubblica di oggi spiega com’ è successo e che cosa vuol dire .
+E , fatto straordinario , la Libia musulmana ha fermato l’ ondata islamista che ha inondato i Paesi arabi liberatisi dall’ oppressione dei rais .
+--------------------------------
+2012-07-22
+gli stessi diritti umani per cui i copti e i musulmani liberali egiziani temono e per i quali accusano Obama di aver “ ucciso la Primavera Araba ” ;
+
+Alcuni , però , ritengono “ prematura ” una stretta partnership con l’ Egitto in assenza di “ chiarezza ” da parte della Fratellanza sui problemi regionali e sui diritti umani :
+
+Il quotidiano egiziano Al - Aharam sottolinea che la visita della Clinton al Cairo offre la “ possibilità ” di un cambiamento della politica americana e di costruire una “ nuova partnership ” con l’ Egitto per la prima volta in più di 30 anni .
+--------------------------------
+2012-08-03
+Nonostante le promesse di rappresentanza del nuovo presidente , del nuovo governo fanno parte solo due donne :
+
+Il maresciallo Hussein Tantawi , che è stato per vent’ anni ministro della Difesa con Hosni Mubarak e a capo del Consiglio supremo delle Forze armate dopo la caduta del regime , è stato confermato nel suo precedente ruolo .
+tra loro Mumtaz al Said , ministro delle Finanze , e Mohammed Kamal Amr che è stato confermato ministro degli Esteri .
 --------------------------------
 2012-09-13
 Insomma , l’ impegno condiviso e declamato , urbi et orbi , mostra il ruolo che l’ Iran sciita e l’ Egitto sunnita intendono svolgere in Medio Oriente .
-Non a caso all’ apertura del vertice del NAM , Morsi aveva seguito con molta attenzione l’ intervento dell’ ayatollah Ali Khamenei durante il quale la guida religiosa aveva rivolto pubblicamente consigliato agli Stati Uniti di affrancarsi “ dall’ influenza israeliana ;
+E ’ la nuova risposta religiosa all’ ambiguo laicismo sventolato dagli americani e dai loro alleati , al rigido islamismo dei sauditi , a Israele che incoraggia il massacro in Siria e pretende una resa dei conti con l’ Iran .
+--------------------------------
+2012-09-14
+vittime al Cairo , in Sudan , in Libano e a Tunisi Venerdì di manifestazioni e scontri in tutto il mondo islamico :
 
-Tuttavia la maggior parte dei media occidentali , come detto , ha glissato sulle cronache del NAM e naturalmente anche sulle dichiarazioni del generale , sebbene esse presagissero un mutamento di tendenza , una rivalutazione da parte di Washington del ruolo dei Non Allineati e dell’ Iran che ne fa parte .
+ALESSANDRO DI P ... Info e Login di Francesco Alberoni
+
+" Si tratta di una strategia del presidente Usa Barack Obama e di altri presidenti europei per ridicolizzare l’ Islam " , ha concluso l’ imam .
+Film su Maometto , s' infiamma il mondo islamico Venerdì di manifestazioni e scontri in tutto il mondo islamico :
+
+un ristorante della linea di fast food americana Kfc è stato incendiato .
+
+"
 --------------------------------
 2012-09-20
 Prendere una misura decisa e urgente contro Charlie Hebdo , cosi come fatto già per le fotografie di Kate Middleton " I Fratelli Musulmani al governo francese :
 Agisca subito sulle vignette " I Fratelli Musulmani al governo francese :
 
-I Fratelli musulmani hanno infine chiesto alle Nazioni Unite « un accordo internazionale » per tutelare i simboli religiosi .
-
-"
+Puntuali sono , infatti , arrivate le proteste e le intimidazioni da parte dei musulmani .
 In Egitto il partito di Libertà e Giustizia ha chiesto al governo francese di " prendere misure ferme e rapide contro questo giornale , a maggior ragione dopo che la giustizia francese ha preso misure dissuasive contro il magazine che ha pubblicato foto offensive di Kate Middleton duchessa di Cambridge " .
+--------------------------------
+2012-09-29
+Inizialmente l’ Amministrazione Truman incoraggio ’ il governo iraniano ad accettare l’ accordo .
+Gli Stati Uniti fornirono informazioni altamente tecniche all’ Iraq contro l’ Iran , sostenendolo nel massacro che ne segui ’ e , quando utilizzo ’ il gas chimico fornito dalle societa ’ americane contro i Kurdi iracheni durante la Guerra con l’ Iran , Washington evito ’ le sanzioni contro il suo regime .
+Cosi ’ non appena la ‘ Primavera Araba ’ insorse in Tunisia e si diffuse nell’ intera zona , molti Libici seguirono l’ esempio e comincio ’ la guerra civile in Libia .
+--------------------------------
+2012-10-10
+In risposta alla sempre più insistente richiesta di riforme , il re ha rimosso ben tre primi ministri dall’ inizio dell’ anno ( con l’ unica eccezione di ‘ Awn Al - Khasawneh che ha rassegnato autonomamente le proprie dimissioni ) , colpevoli di aver ritardato l’ attuazione delle riforme che erano state promesse al popolo .
+All’ Assemblea Nazionale ( Majlis al - Umma ) spetta , invece , il potere legislativo .
+--------------------------------
+2012-11-29
+L’ Assemblea costituente egiziana ha approvato l’ articolo della bozza di costituzione in cui si prevede che la legge islamica sia la fonte principale del diritto nell’ Egitto del dopo Mubarak .
+della costituzione che fa riferimento alla legge islamica come base per le norme del Paese Approvato l’ articolo 2 della costituzione che fa riferimento alla legge islamica come base per le norme del Paese
+
+L' Egitto dice " sì " ai principi della sharia Approvato l’ articolo 2
+
+" L’ Islam è la religione di Stato - si legge nel secondo articolo della bozza di Costituzione - l’ arabo è la lingua ufficiale .
+--------------------------------
+2012-12-23
+“ Omologare questi risultati ” , ha aggiunto , “ perpetuerà l’ instabilità nel Paese ” .
+11 stabilisce inoltre che lo Stato protegge “ l’ etica , la morale e l’ ordine pubblico ” .
+Istituzioni – Per la prima volta la costituzione , all’ art .
+L’ articolo 4 stabilisce che in questa materia vanno consultati gli esperti religiosi di al Azhar , mentre l’ art .
+--------------------------------
+2013-01-21
+Presente anche Grilli L' europarlamentare europeo Klinz accusa Berlusconi davanti all' ambasciatore Nelli Feroci .
+Grilli ha replicato inizialmente invocando la sua natura di « tecnico » che non interviene nelle polemiche elettorali interne in Italia .
+Non è stato l' unico siparietto durante l' audizione del ministro dell' Economia , Vittorio Grilli , davanti alla commissione economica del Parlamento europeo .
+« In Italia - ha sottolineato - tutti i partiti che hanno sostenuto il governo Monti hanno approvato il fiscal compact e preso molto seriamente l' impegno che comporta .
 --------------------------------
 2013-03-05
 Nel secondo gruppo d’ imputati c’ è pure una consistente presenza di poliziotti .
+Ultimi articoli dell’ autore Articoli più letti AgoraVox utilizza software libero :
+
+A Port Said c’ è chi vorrebbe un esercito pro cittadini difensore della protesta .
 Perciò l’ odio si riversa sugli agenti considerati corresponsabili della strage dello Stadio .
-Il portavoce delle Forze Armate ha smentito la notizia che s’ era diffusa nelle strade , pare a mò di desiderio più che di realtà .
 Contro la polizia , i suoi palazzi , le sue divise s’ è scatenata la furia di una cittadinanza provata da privazioni e , a loro dire , soprusi .
 --------------------------------
-2013-05-01
-È il triste paesaggio di Luxor una delle mete turistiche più famose al mondo .
+2013-03-13
+L’ argentino Jose Mario Bergoglio è il nuovo Papa .
+“ Ora ristabilire dialogo ” – Con l’ elezione di Francesco I si apre una “ fase nuova importante e grandi missioni attendono il nuovo pontefice ” .
+– E ’ già fitta l’ agenda di appuntamenti di Papa Bergoglio .
+E ’ quindi entrata la banda musicale dell’ Arma dei carabinieri , seguita da rappresentanze di tutte le forze armate italiane :
 
-"
-Luxor , meta del turismo mondiale diventata una città fantasma Il Cairo ( AsiaNews ) - Strade semideserte , gruppi di tassisti in sosta in attesa di improbabili clienti , alberghi di lusso da 270 stanze con il portinaio come unico ospite .
-
-"
-Gli sforzi del governo sono stati trascurabili " , sostiene Mohamed Osman , vice - presidente della Camera del turismo di Luxor .
-
-"
+“ Nome Francesco esprime semplicità ” – Il Papa , avendo scelto il nome Francesco , ha espresso “ semplicità e testimonianza evangelica ” .
 --------------------------------
-2013-07-11
-Perché qui non scoppia una rivolta Ma che rivolta d' Egitto .
-Ma la guerra non scoppia per tre ragioni Ma che rivolta d' Egitto .
-un saluto romano Omar El Mukhtar Info e Login di Francesco Alberoni
+2013-07-04
+Sotto Mubarak il ruolo di presidente della Corte Costituzionale era particolarmente delicato , anche perché chi lo rivestiva era automaticamente a capo anche della Commissione Suprema per l’ Elezione Presidenziale , l’ organismo che sovrintendeva alle elezioni presidenziali :
 
-Una , non ha precisato il suo target , nel senso etimologico e militare di bersaglio .
-Ma la polveriera d' Italia è pronta per esplodere , le micce sono depositate ogni giorno , come sentenze .
+Cauti gli Stati Uniti , con il presidente Barack Obama che sottolinea « non sosterremo particolari individui o gruppi politici » e che riconosce « le legittime lamentele del popolo egiziano » pur notando la « legittimità dell' elezione di Morsi » .
+--------------------------------
+2013-07-14
+Per gli Stati Uniti e per Israele il regime siriano ha rappresentato un “ male minore ” , almeno fino all’ appoggio fornito a Hezbollah nella guerra dell’ estate 2006 .
+un’ occasione imperdibile per uomini d’ affari e commercianti siriani .
+L’ ex capo del Mossad Efraim Halevy è arrivato addirittura a definire il presidente siriano l ’ “ uomo di Israele a Damasco ” .
+La recrudescenza e la regionalizzazione del conflitto ha favorito l’ emergere di una tendenza islamica radicale nelle fila dell’ opposizione .
+--------------------------------
+2013-07-17
+giura il nuovo governo di Beblawi Alle Finanze c' è un economista con lunga esperienza di Banca mondiale , Ahmed Galal , un ex ambasciatore negli Usa Nabil Fahmy è agli Esteri , tre donne , di cui una copta , sono rispettivamente a Informazione , Ambiente e Sanità .
+Alle Finanze c' è un economista con lunga esperienza di Banca mondiale , Ahmed Galal , un ex ambasciatore negli Usa Nabil Fahmy è agli Esteri , tre donne , di cui una copta , sono rispettivamente a Informazione , Ambiente e Sanità .
+--------------------------------
+2013-08-02
+Il fenomeno della pirateria marittima al largo delle coste somale e Oceano Indiano ha colpito direttamente l’ Italia con i sequestri del rimorchiatore d’ altura ‘ Buccaneer ’ della petroliera ‘ Savina Caylyn ’ , della MV ‘ Rosalia D’ Amato ’ e della nave ‘ Enrico Ievoli ’ .
+scorta armata a bordo navi italiane ‘ anche ’ con contractor La difesa delle navi mercantili italiane dagli attacchi pirati nelle aree a rischio pirateria potrà essere affidata dagli Armatori italiani anche a guardie private armate , Security Contractor .
+--------------------------------
+2013-08-04
+Ma restano insufficienti ... Scontro fra israeliani ed Hezbollah lungo la Linea blu Tunisia .
+Ma restano insufficienti ( se non impossibili ) i rimpatri Scontro fra israeliani ed Hezbollah lungo la Linea blu Trump ritira 12mila militari dalla Germania Lamorgese in Tunisia per sbarchi e emergenza sanitaria .
+12 ong invocano inchiesta su esecuzione sommaria migranti L’ ambasciatore Usa a Roma Eisenberg , ‘ la Cina è pericolosa ’ ,
+
+Trump ritira 12mila militari dalla Germania Lamorgese in Tunisia per sbarchi e emergenza sanitaria .
 --------------------------------
