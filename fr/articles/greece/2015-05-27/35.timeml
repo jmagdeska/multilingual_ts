@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+La Grèce dit que la rédaction d' un accord a commencé , mais blâme les divergences entre créanciers Publié <TIMEX3 tid="t1" type="DATE" value="2015-05-27">le 27
+- 05</TIMEX3> - 15 à <TIMEX3 tid="t3" type="TIME" value="2015-05-27T18:55">18h55</TIMEX3> à Athènes ( AFP )
+Athènes a annoncé unilatéralement <TIMEX3 tid="t4" type="DATE" value="2015-05-27">mercredi</TIMEX3> que les équipes techniques de négociation sur la Grèce avaient commencé à rédiger un accord , tout en se plaignant des divergences persistantes entre ses créanciers , qui retarderaient la conclusion de cet accord .
+" De grands pas ont été accomplis , nous sommes près d' un accord " , a assuré le Premier ministre Alexis Tsipras à Athènes .
+Du côté de l' UE , on ne confirmait pas le début de rédaction d' un accord , d' autant que doit encore se tenir <TIMEX3 tid="t5" type="DATE" value="2015-05-21">jeudi</TIMEX3> un " euro working group " , réunion des experts techniques de l' Eurogroupe , au sujet de la Grèce .
+<TIMEX3 tid="t7" type="TIME" value="2015-05-27T12:00">Mercredi midi</TIMEX3> , le vice-président de la Commission européenne en charge de l' euro , Valdis Dombrovskis , avait seulement évoqué " un progrès graduel " dans les discussions techniques , notamment sur la TVA .
+Dans l' après - <TIMEX3 tid="t10" type="TIME" value="2015-05-27T12:00">midi</TIMEX3> , une source gouvernementale grecque a pourtant annoncé que les équipes techniques du groupe de Bruxelles ( qui réunit des représentants de la Grèce et de ses créanciers ) avaient " commencé <TIMEX3 tid="t9" type="DATE" value="2015-05-27">aujourd'hui</TIMEX3> le travail de rédaction d' un accord " .
+Le cadre
+du texte comprendrait une obligation d' excédent budgétaire primaire ( c' est - à - dire hors charge de la dette ) pour la Grèce , mais à des niveaux bas dans <TIMEX3 tid="t11" type="DURATION" value="PXY">les prochaines années</TIMEX3> , une réforme des taux de TVA .
+Il porterait aussi sur " des solutions à long terme pour alléger la dette " de la Grèce , <TIMEX3 tid="t12" type="DATE" value="PRESENT_REF">actuellement</TIMEX3> à près de 180 % du PIB , et pour favoriser la croissance .
+Sur le thème des retraites , cher au FMI , mais qui constitue une des " lignes rouges " du gouvernement de gauche radicale , celui
+- ci accepterait de limiter les départs à la retraite anticipés , et d' engager une étude sur la pérennité du système des retraites grec <TIMEX3 tid="t15" type="DATE" value="PRESENT_REF">actuel</TIMEX3> .
+- Trois institutions , des approches différentes
+- Athènes insiste sur le fait qu' il n' y aura pas dans cet accord de nouvelles coupes sur les salaires et les retraites .
+L' annonce d' un début de rédaction d' accord a satisfait les Bourses européennes qui ont terminé nettement en hausse ( +3,55 % à Athènes ) .
+Mais Athènes a teinté son annonce d' amertume devant " le problème des différentes positions défendues par les créanciers .
+Si le FMI avait donné son aval , l' accord aurait déjà <TIMEX3 tid="t16" type="DATE" value="2015-SU">été</TIMEX3> conclu " , assure cette source .
+" Cette divergence de position , a -t -elle assuré , s' observe alors que les Européens ( Commission européenne et BCE ) demandent un accord rapide d' ici <TIMEX3 tid="t17" type="DATE" value="2015-05" mod="END">fin mai</TIMEX3> , alors que le FMI , par l' intermédiaire de ses représentants ( est favorable à ) un accord global , et non à une solution provisoire obtenue rapidement " .
+Un peu plus tard , M. Tsipras lui - même a repris cet argument .
+" Nous avons à faire à trois institutions différentes , ayant souvent des idées opposées .
+Et à d' autres pays qui ont des approches différentes , et des motivations politiques différentes " .
+Ainsi , a -t -il prévenu , " il pourrait y avoir dans la période finale des pressions , d' autres pourront aussi vouloir créer une image fausse de danger " .
+Athènes a souligné que les salaires et pensions de <TIMEX3 tid="t19" type="DATE" value="2015-05">mai</TIMEX3> seraient payés , alors que <TIMEX3 tid="t21" type="SET" value="P1M" quant="EVERY">chaque mois</TIMEX3> depuis <TIMEX3 tid="t20" type="DATE" value="2015-04">avril</TIMEX3> monte un immense suspense sur la capacité du pays à payer à la fois ces derniers et ce qu' il doit <TIMEX3 tid="t22" type="SET" value="P1M">mensuellement</TIMEX3> au FMI .
+Des responsables grecs , en général de l' aile gauche de Syriza , ont assuré la semaine dernière que le FMI ne serait pas payé en <TIMEX3 tid="t23" type="DATE" value="2014-06">juin</TIMEX3> .
+Les membres
+du gouvernement engagés concrètement dans les négociations se sont toujours gardés d' être aussi affirmatifs .
+La Grèce doit verser près d'1,6 milliard d' euros au FMI le mois prochain , en quatre étapes , les 5 , 12 , 16 , et 19 .
+Valdis Dombrovskis a souligné la nécessité " d' atteindre un accord très rapidement , car nous avons déjà dépassé de <TIMEX3 tid="t24" type="DURATION" value="PXM">plusieurs mois</TIMEX3> le schéma initial .
+La situation des liquidités devient serrée et il y a toutes les raisons d' aller vite " , a -t -il dit .
+<TIMEX3 tid="t25" type="DATE" value="2015-05-27">Mercredi</TIMEX3> cependant , pour la première fois depuis <TIMEX3 tid="t26" type="DATE" value="2015-02">février</TIMEX3> , la BCE n' a pas eu à augmenter le plafond de l' aide d' urgence qu' elle accorde aux banques grecques victimes de forts retraits bancaires depuis <TIMEX3 tid="t28" type="DATE" value="2014-12">décembre</TIMEX3> , le <TIMEX3 tid="t27" type="DATE" value="PRESENT_REF">maintenant</TIMEX3> à 80,2 milliards d' euros , ce qui pourrait traduire une stabilisation dans ces retraits .
+A lire également Les plus consultés depuis <TIMEX3 tid="t29" type="TIME" value="2015-05-27T24:00">24h</TIMEX3>
+Les derniers articles de ParisMatch.be Facebook Cover
+- PM cover
+- ci Immobilier pour vous Recevez nos newsletters Copyright ©
+La Libre.be <TIMEX3 tid="t30" type="DATE" value="1996">1996</TIMEX3>
+- 2020 Ipm
+sa - IPM | Droit d' auteur |
+Charte de la vie privée |
+Police de Cookies
+</TimeML>
+

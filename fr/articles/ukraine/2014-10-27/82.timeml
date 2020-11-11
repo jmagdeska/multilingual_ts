@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+VIDEO .
+Clowns agressifs :
+le phénomène prend de l' ampleur Depuis <TIMEX3 tid="t1" type="DURATION" value="PXD">quelques jours</TIMEX3> , des clowns terrifient les passants .
+Les forces de l' ordre encouragent à les signaler .
+Mis à jour <TIMEX3 tid="t2" type="DATE" value="2014-10-27">le 27/10/2014</TIMEX3> | 10:20publié <TIMEX3 tid="t3" type="DATE" value="2014-10-27">le 27/10/2014</TIMEX3> | 10:20 Quatorze adolescents déguisés en clowns ont été interpellés aux abords d' un lycée , <TIMEX3 tid="t16" type="DATE" value="2014-10-25">samedi 25 octobre</TIMEX3> , dans l' Hérault .
+" Ils se sont ramenés avec des battes , des marteaux et des couteaux " , témoigne un jeune au micro de France 2 .
+Dans la même <TIMEX3 tid="t19" type="TIME" value="2014-10-27TEV">soirée</TIMEX3> , à Montpellier , un clown et ses deux complices ont asséné 30 coups de barre de fer à un passant .
+De plus en plus agressifs Le phénomène est apparu dans le Nord , il y a une dizaine de jours .
+Au départ inoffensifs , ces clowns deviennent de plus en plus menaçants et agressifs .
+Ils inquiètent <TIMEX3 tid="t21" type="DATE" value="PRESENT_REF">désormais</TIMEX3> la police qui demande à les signaler .
+" Ils peuvent aussi servir à de véritables malfaiteurs pour se fondre et pouvoir commettre des infractions " , explique Didier Perroudon , directeur départemental de la sécurité publique du Nord .
+</TimeML>
+

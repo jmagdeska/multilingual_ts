@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+Zapatero se queda sin gurús : Krugman dice que " el colapso económico " de España es el mayor problema del euro , por Expansión.com Paul Krugman , el premio Nobel más afín al Gobierno de José Luis Rodríguez Zapatero y a quien el Ejecutivo pagó 100.000 euros para que diera una conferencia en Sevilla , se va a alejando de las tesis del presidente .
+Si Zapatero acudió <TIMEX3 tid="t1" type="DATE" value="2010-W04">la semana pasada</TIMEX3> a Davos para defender la imagen de España dentro de la zona euro , Krugman se ha desmarcado completamente de esa tesis .
+[ <TIMEX3 tid="t5" type="DATE" value="2010-02-03">Hoy mismo</TIMEX3> , el gurú que predijo la crisis , Nouriel Roubini , ha vuelto a cargar contra la " incapacidad del Gobierno " de tomar medidas necesarias ] Zapatero y Krugman , durante la visita que el Nobel de Economía realizó a España en <TIMEX3 tid="t6" type="DATE" value="2009-03">marzo de 2009</TIMEX3> | Foto Efe El Premio Nobel ha afirmado en su blog del diario estadounidense The New York Times que " el mayor problema de la eurozona no es Grecia , es España " , y ha calificado la situación en el país de " colapso económico " .
+Krugman cita el ejemplo de España para justificar su argumento de que los problemas que subyacen en la economía no se derivan de los déficits públicos .
+El argumento es el siguiente : " El mayor problema [ de la eurozona ] no es Grecia , es España , que tenía superávit <TIMEX3 tid="t7" type="DURATION" value="PXY">hace unos años</TIMEX3> .
+Cierto , España sufre <TIMEX3 tid="t9" type="DATE" value="PRESENT_REF">ahora</TIMEX3> grandes déficits , pero eso es por su colapso económico " .
+El post de Krugman no iba realmente sobre la economía española , sino sobre su defensa de los déficits públicos como solución a la crisis .
+Lo de España ha sido un daño colateral , pero contundente .
+Críticas al Gobierno
+El ministro de Economía griego , Giorgos Papaconstantinou , aseguró <TIMEX3 tid="t10" type="DATE" value="2010-02-02">ayer</TIMEX3> que a los problemas económicos de Grecia se sumarán otros países de la zona euro como España y Portugal .
+Los problemas fiscales de Grecia son un problema para toda la zona euro y otros países podrían verse también afectados , dijo Papaconstantinos .
+" Después de Grecia , llegarán otros países como España y Portugal .
+También <TIMEX3 tid="t11" type="DATE" value="2010-02-02">ayer</TIMEX3> el diario ' Financial Times ' publica que en España se está gestando un drama mayor que en el caso de Grecia .
+La economía española con un déficit presupuestario similar al de Grecia , que se espera que llegue al 12 % del producto interior bruto ( PIB ) <TIMEX3 tid="t13" type="DATE" value="2010">este año</TIMEX3> , Madrid prevé que la deuda soberana toque techo en el 74 % del PIB en <TIMEX3 tid="t12" type="DATE" value="2012">2012</TIMEX3> , el doble de la cifra previa a la crisis " aunque aún lejos del <TIMEX3 tid="t14" type="DATE" value="PRESENT_REF">actual</TIMEX3> 115 % de Grecia " .
+</TimeML>
+

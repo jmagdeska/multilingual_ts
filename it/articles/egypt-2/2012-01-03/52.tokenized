@@ -1,0 +1,21 @@
+Collegamenti ad aree di contenuto della pagina var d_names = new Array("Domenica " , " Lunedì " , " Martedì " , " Mercoledì " , " Giovedì " , " Venerdì " , " Sabato " ) ;
+var m_names = new Array("Gennaio " , " Febbraio " , " Marzo " , " Aprile " , " Maggio " , " Giugno " , " Luglio " , " Agosto " , " Settembre " , " Ottobre " , " Novembre " , var d = new Date ( ) ;
+var minutes = d.getMinutes ( ) ;
+if ( minutes < 10){minutes = "
+0"+minutes ; } document.write('<strong > ' + d_names[d.getDay ( ) ] + ' , ' + d.getDate ( ) + ' ' + m_names[d.getMonth ( ) ] + ' ' + d.getFullYear ( ) + ' < /strong > ' ) ;
+document.write ( ' | < em class="hour " > ' + d.getHours ( ) + ' :
+' + minutes + ' < /em > ' ) ;
+ti trovi qui :
+Libano :
+Unifil :
+Generale Serra nominato comandante missione Soddisfazione da Italia 03 gennaio , 16:23 ( ANSAmed ) - ROMA , 3 GEN - Il Segretario Generale dell' Onu , Ban Ki-Moon , ha deciso di nominare il Generale di Divisione Paolo Serra Comandante della missione UNIFIL in Libano , cui l' Italia contribuisce con un contingente nazionale di oltre mille unità .
+' ' Viva soddisfazione ' ' e ' stata espressa dai ministri degli Esteri e della Difesa italiani , Giulio Terzi e Giampaolo di Paola .
+La nomina del Generale Serra - affermano Terzi e Di Paola in una nota - e ' anche ' ' un prestigioso riconoscimento del contributo assicurato dal nostro Paese alle missioni di mantenimento della pace delle Nazioni Unite .
+E' obiettivo essenziale della politica di sicurezza dell ' Italia , primo fornitore di truppe sotto l' egida ONU tra i membri del G8 , mantenere un efficace livello di presenza militare nei teatri di crisi , rispondente alle priorita ' di politica estera , e commisurato agli impegni assunti nei confronti delle Nazioni Unite e dei nostri alleati e partner di riferimento ' ' .
+L' Italia , sesto Paese contributore al bilancio dell' ONU per le missioni di pace , ' ' ribadisce la sua convinta determinazione nel continuare ad assicurare un contributo di primo piano all' attuazione della Risoluzione 1701 , che ha definito il mandato e i compiti della missione Unifil .
+Dispiegata - ricordano i due ministri - per garantire il mantenimento del ' cessate - il - fuoco ' nel Sud del Libano dopo la guerra del 2006 , con il necessario e pieno consenso delle parti in causa , Unifil ha dimostrato negli anni la sua perdurante validita ' :
+ha infatti continuato ad assolvere efficacemente alla sua importante funzione di stabilizzazione , prevenendo l ' aggravarsi della tensione nella regione , ed assicurando lo sviluppo del dialogo tra le parti nel formato a tre ONU , Forze armate libanesi e Forze armate israeliane ' ' .
+La nomina di Serra - concludono Terzi e Di Paola - ' ' e ' dunque una significativa conferma della centralita ' politica e strategica del ruolo attivo svolto dall ' Italia per promuovere la stabilita ' e la sicurezza dell' area mediterranea e mediorientale , le cui dinamiche sono di fondamentale incidenza sulla sicurezza internazionale ' ' .
+( ANSAmed ) .
+Il sistema informativo sulle opportunità di business all' estero Unione Europea e Mediterraneo Ministero degli affari esteri Cooperazione e imprese italiane nel Mediterraneo e il Golfo News dal Mediterraneo © Copyright 2010 ANSAmed Contatti | Disclaimer | Privacy |
+Modifica consenso Cookie | Copyright

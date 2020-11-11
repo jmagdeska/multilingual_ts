@@ -1,0 +1,198 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+En la prisión de la vergüenza EL PAÍS ha recorrido la implacable maquinaria de Guantánamo .
+Hablan desde el jefe de los interrogadores hasta el contraalmirante .
+Sus métodos quedan al descubierto Después de haber dirigido o analizado unos 30.000 interrogatorios , Paul Rester cree saber algo sobre los presos de Guantánamo .
+Aunque medio mundo lo calificaría simplemente como el jefe de los torturadores , Paul Rester ocupa el cargo de director del Joint Intelligence Group ( JIG , Grupo Conjunto de Inteligencia ) y es , ciertamente , la persona que más sabe sobre los presos de Guantánamo .
+Por eso , su despacho en el segundo piso del cuartel general de la base norteamericana en esta bahía del sureste de Cuba es uno de los más solicitados y menos asequibles de todo el complejo .
+Su nombre sólo salió a la luz después de que accediese a conceder una entrevista exclusiva a la cadena de televisión ABC para negar que sus interrogadores torturen .
+Documentos conocidos <TIMEX3 tid="t1" type="DATE" value="PAST_REF">recientemente</TIMEX3> revelan que es muy posible que la <TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">actual</TIMEX3> Administración norteamericana permita que se someta a los detenidos a daños como la hipotermia , la privación del sueño o la simulación de asfixia sin considerar que eso sea legalmente torturar .
+Pero lo cierto es que Paul Rester , un civil , insiste a EL PAÍS en que ni él ni sus hombres -270 fijos y numerosos invitados- torturan .
+" No somos torturadores .
+Yo estoy aquí rodeado de todos estos manuales que marcan estrictamente las condiciones de nuestro trabajo .
+Y le digo , categóricamente , que no torturamos .
+El hecho de que los detenidos no sean reconocidos como prisioneros de guerra no impide que respetemos el espíritu de la Convención de Ginebra " , asegura el director del JIG .
+Este reportaje profundizará más adelante en las condiciones de vida de los presos ( las que están a la vista ) y en las numerosas denuncias presentadas contrarias a la versión de este funcionario .
+Pero Paul Rester ha decidido correr el riesgo de desvelar su identidad después de <TIMEX3 tid="t4" type="DURATION" value="P40Y">40 años</TIMEX3> dedicado a la inteligencia militar para defender su misión en Guantánamo .
+Y defenderla no sólo en lo que afecta al trato a los presos , sino en cuanto al valor de la información que éstos van día a día revelando .
+Hombre hosco y de pocas palabras , a Rester no le preocupa el rumbo legal que tome Guantánamo , ni siquiera la suerte de los presos .
+" Yo no estoy aquí " , según confiesa , " para obtener información que permita después declararles culpables , yo no estoy aquí para satisfacer los deseos de fiscales ni de nadie .
+Yo sólo estoy aquí para sacar información útil para la seguridad nacional " .
+Esa información , cuidadosamente desmenuzada y contrastada con otras fuentes -Rester viaja con frecuencia a Oriente <TIMEX3 tid="t6" type="DATE" value="FUTURE_REF">Próximo</TIMEX3>- , es remitida " a quienes tienen que conocerla " .
+Alrededor de un millar de personas del sofisticado entramado de la inteligencia y la seguridad norteamericanas leen <TIMEX3 tid="t7" type="SET" value="P1D">diariamente</TIMEX3> la información que él obtiene .
+El uso que posteriormente hagan de ella está fuera de la responsabilidad de este hombre .
+Hay muchos que dudan en Estados Unidos de que , después de <TIMEX3 tid="t12" type="DURATION" value="PXY">varios años</TIMEX3> aquí ( un número considerable de los presos <TIMEX3 tid="t10" type="DATE" value="PRESENT_REF">actuales</TIMEX3> llegaron poco después de abrirse la prisión , en <TIMEX3 tid="t11" type="DATE" value="2002-01">enero de 2002</TIMEX3> ) , los detenidos suministren aún información valiosa sobre potenciales amenazas contra este país , aun aceptando que se trate de los peligrosos terroristas que sus captores dicen que son .
+Rester opina que sí .
+" No seguiríamos con los interrogatorios si no tuviéramos todavía muchas preguntas concretas que hacer en busca de respuestas concretas " , afirma .
+En las celdas de Guantánamo se realizan <TIMEX3 tid="t14" type="SET" value="P1W" quant="EVERY">cada semana</TIMEX3> entre 80 y un centenar de interrogatorios .
+Entre 40 y 50 presos son interrogados en ese periodo ; algunos , varias veces .
+" Cuatro o cinco se niegan a ser interrogados y algunos se ofrecen voluntariamente " , asegura el director del JIG .
+Según sus cálculos , sólo 110 o 120 de los alrededor de 330 presos que quedan <TIMEX3 tid="t16" type="DATE" value="PRESENT_REF">actualmente</TIMEX3> en esta base militar son periódicamente sometidos a interrogatorios .
+El resto ha perdido ya todo valor para la inteligencia norteamericana , pero siguen siendo todavía formalmente demasiado " peligrosos " como para ser puestos en libertad .
+No hay más detalles sobre la categoría de los presos o su grado de importancia dentro del organigrama terrorista que se trata de investigar .
+Lo único que uno de los portavoces -anónimo , como la gran mayoría de las personas con las que se habla en Guantánamo- manifiesta es que " no todos fueron detenidos mientras iban con un turbante y un fusil AK-47 " y que , obviamente , entre los presos más " valiosos " están los 14 que fueron trasladados aquí <TIMEX3 tid="t22" type="DATE" value="2006">hace un año</TIMEX3> desde cárceles secretas de la CIA , especialmente Khalid Sheik Mohamed , que en <TIMEX3 tid="t21" type="DATE" value="2007-03">marzo pasado</TIMEX3> se declaró el organizador de los ataques <TIMEX3 tid="t23" type="DATE" value="2001-09-11">del 11 de septiembre de 2001</TIMEX3> .
+Rester no comparte , por supuesto , la información obtenida de Sheik Mohamed u otros , pero afirma que los interrogatorios han permitido conocer con mayor precisión la red terrorista creada en Afganistán por Al Qaeda y en torno al Gobierno talibán .
+Esos datos , según él , son <TIMEX3 tid="t27" type="DATE" value="2007-10-20">hoy</TIMEX3> muy útiles para hacer frente a la amenaza global del terrorismo .
+Sin aportar detalles , el director del JIG explica que los presos han confesado pertenecer a una estructura bien planificada en la que " cada uno estaba separado tres peldaños de su compañero más cercano " .
+" Aquí hemos tratado de reconstruir esa estructura a través de alguien que conoce a alguien que a su vez conoce a alguien ... " .
+El jefe de los interrogadores dice enfrentarse a un grupo compacto y bien preparado de presos , en el que existen líderes que planifican cuidadosamente sus tácticas en la prisión y que " saben que Guantánamo no es más que otra parte del campo de batalla en el que luchar " .
+En ese marco , aunque oficialmente no se han repetido sucesos tan graves como la huelga de hambre de <TIMEX3 tid="t28" type="DATE" value="2006">2006</TIMEX3> o los tres casos de suicidio <TIMEX3 tid="t30" type="DATE" value="2008">del año siguiente</TIMEX3> , los presos organizan de forma periódica actos de protesta ( " <TIMEX3 tid="t29" type="DATE" value="2007-W42">esta semana</TIMEX3> nos negamos a hacer tal cosa , y la siguiente , tal otra " , explica Rester ) , insultan o amenazan a sus guardianes .
+El mayor peligro para éstos son los llamados cócteles , hechos con un amasijo de excrementos .
+Los guardianes llevan <TIMEX3 tid="t32" type="DATE" value="PRESENT_REF">ahora</TIMEX3> protegida la cara por una pantalla de plástico -similar a la que utilizan los policías antidisturbios- para evitar los impactos de esa peculiar munición .
+Rester se niega a describir las condiciones precisas de los interrogatorios .
+Los guardianes enseñan al periodista una sala pequeña sin nada que llame la atención más que dos cámaras para grabar lo que allí ocurre y un sillón en el que el preso permanece amarrado a unos grilletes .
+Pero , aparte del posible uso de la violencia física por parte de los interrogadores , quedan muchas preguntas sin respuesta : ¿ A qué hora son los interrogatorios ?
+¿ Cómo están alimentados los presos en ese momento ?
+¿ En qué condiciones psicológicas afrontan los detenidos el momento de los interrogatorios ?
+¿ Qué lenguaje o amenazas utilizan los interrogadores ?
+En esos interrogatorios , según su máximo responsable , se inquiere sobre una amplia gama de objetivos : conversaciones , lugares , nombres por los que se pregunta una y otra vez , durante días y días , semanas y semanas , meses y meses , intentando vencer la resistencia ( quién sabe si la ignorancia ) de los presos .
+Según Rester , " con muchos de ellos hemos llegado a encontrar un terreno común , hemos llegado a estar de acuerdo en que estamos en desacuerdo " .
+El Departamento de Defensa norteamericano asegura que los presos de Guantánamo , o la mayoría de ellos , se comportan de acuerdo con lo que se conoce como el Documento de Manchester , un supuesto manual de instrucciones de Al Qaeda encontrado por la policía británica en la ciudad de Manchester en <TIMEX3 tid="t34" type="DATE" value="2000">el año 2000</TIMEX3> en el ordenador de un sospechoso de actividades terroristas .
+En el lenguaje oficial de Guantánamo , en este campo de prisioneros están frente a frente la Convención de Ginebra y el Documento de Manchester .
+Este reportero carece de pruebas para afirmar que los presos obedecen a ese supuesto manual .
+Tampoco ha encontrado -esta visita a la prisión estuvo organizada por el Pentágono y fue realizada bajo meticulosa atención de responsables militares- pruebas que respalden las reiteradas denuncias sobre torturas hechas por muchos de los presos liberados y las quejas presentadas por algunos abogados de detenidos .
+Es una realidad , sin embargo , que Estados Unidos no cumple con los presos de Guantánamo la Convención de Ginebra .
+De hecho , ni siquiera son oficialmente denominados como " presos " o " prisioneros " para no otorgarles un estatus legal de prisioneros de guerra del que carecen .
+Oficialmente son sólo " detenidos " , a los que , por la generosidad de sus captores , " se les trata humanamente conforme al espíritu de la Convención de Ginebra " , tal como afirma el máximo responsable de todo lo que aquí se hace , el jefe de la base naval de Guantánamo , contraalmirante Mark Buzby .
+El espíritu de Ginebra parece entendido , no obstante , de forma bastante laxa aquí .
+La Tercera Convención de Ginebra recoge al menos diez derechos de los que los presos de Guantánamo no disfrutan : 1 .
+Responder sólo su nombre , rango y número de identidad .
+2 .
+Retener efectos personales .
+3 .
+Estar acuartelados en las mismas condiciones que los captores .
+4 .
+Acceso a comedores .
+5 .
+Exhibir símbolos nacionales .
+6 .
+Trabajar en condiciones apropiadas .
+7 .
+Recibir un pago por ese trabajo .
+8 .
+Tener representantes antes distintas entidades .
+9 .
+Ser juzgados sólo ante tribunales militares .
+10 .
+Ser liberados y repatriados una vez que el conflicto ha terminado .
+Algunos de los presos , en función de las circunstancias , son privados también del derecho a realizar actividad física y el de acceder a baños y aseos , ambos establecidos también por la Convención de Ginebra .
+El contraalmirante Buzby se muestra , no obstante , satisfecho de la forma es que está manejando Guantánamo .
+Asegura que no quiere ocultar nada .
+Al contrario .
+" Quiero la verdad y toda la verdad de lo que aquí sucede " , afirma ; " quiero que venga toda la gente que pueda y lo vea por sus propios ojos .
+Me gustaría que comprobaran que muchas de las cosas negativas que se dicen de Guantánamo no son ciertas " .
+El jefe de la base defiende el trabajo de su personal -cerca de 5.000 hombres y mujeres- , del que dice que se desenvuelve en condiciones muchas veces adversas -"es difícil actuar con serenidad en una situación en la que frecuentemente te están diciendo ' te voy a matar ' , ' voy a matar a tu familia ' , ' vamos a matar a todos los americanos"- y advierte , con ligero escepticismo , que " el tiempo se encargará de demostrar si la decisión de abrir esta prisión fue correcta " .
+Y mientras tanto , ¿ qué ?
+Hasta que el tiempo dicte sentencia , ¿ qué va a pasar aquí ?
+Buzby afirma que " la mayoría de los presos saben que no van a estar aquí el resto de su vida " .
+" Quizá no todos , pero la mayoría sabe que no va a estar aquí toda su vida " , opina .
+Al margen de las impresiones del contraalmirante , es innegable que todo el edificio legal construido a propósito de Guantánamo por la Administración de Bush se ha derrumbado y que los presos no saben aún de qué se les acusa , cuándo y por quién van a ser juzgados .
+Mucho menos , qué posibilidades tienen de ser puestos en libertad .
+Trasladamos estas preguntas a un despacho en el interior del campo de prisioneros Delta donde responde el capitán Ted Fessel , responsable de lo que se conoce como Oficina para la Revisión Administrativa de la Detención de los Combatientes Enemigos ( OARDEC , en sus siglas en inglés ) .
+El capitán Fessel se encarga de constituir los tribunales administrativos en los que se dictamina si el detenido responde o no a la categoría de " combatiente enemigo " , entendido esto , en palabras del oficial , como " alguien que representa una amenaza para Estados Unidos o sus aliados " .
+<TIMEX3 tid="t38" type="SET" value="P1Y" freq="1">Una vez al año</TIMEX3> se constituyen , también bajo su control , otros tribunales de supervisión que deciden sobre el grado de peligrosidad del preso ( alto , mediano o bajo ) y , en consecuencia , se recomienda su continuidad en prisión , su transferencia a otro país o su puesta en libertad .
+Ese procedimiento corresponde a una fase administrativa .
+Eventualmente , esos presos deben posteriormente ser juzgados por comisiones militares de acuerdo con los códigos de la justicia militar norteamericana .
+Pero todo este entramado está <TIMEX3 tid="t39" type="DATE" value="PRESENT_REF">ahora</TIMEX3> seriamente amenazado por una sentencia pendiente del Tribunal Supremo de EE UU y por la decisión de dos jueces militares que se negaron a juzgar a los presos por un defecto de forma en su catalogación como " combatientes enemigos " cuando , de acuerdo con la ley , deberían haber sido acusados de ser " combatientes enemigos ilegales " .
+En <TIMEX3 tid="t40" type="DATE" value="PRESENT_REF">estos momentos</TIMEX3> , Fessel y todo su equipo están buscando la manera de subsanar todos esos defectos de forma mediante nuevas acusaciones y sienten sobre su nuca el aliento de una Administración que quiere seguir adelante sea como sea con este montaje .
+" Es cierto que en Washington se detecta un apetito por saber si hay más pruebas , si se puede sacar más " , reconoce el capitán .
+Según él , los tribunales de revisión administrativa tienen potestad para reconsiderar las acusaciones hechas anteriormente .
+El caso es que todo el embrollo puede venirse abajo en cualquier momento y dejar en evidencia la ilegalidad de estas detenciones .
+Pero hasta que ese momento llegue , si llega , el capitán Fessel y otros en Guantánamo continúan haciendo su trabajo y defendiendo el sentido de esta instalación sin precedentes en la historia .
+Fessel niega que los presos no sepan de qué se les acusa .
+Asegura que cada detenido que comparece ante sus tribunales administrativos es posteriormente informado de la decisión que se toma respecto a su estatus y su futuro .
+Explica que si se ha tenido que recurrir a una situación tan excepcional como Guantánamo es porque " nos hemos visto ante un tipo de detenidos que no han existido nunca en la historia , que no visten uniforme , que no pertenecen a ningún país , que no pueden ser catalogados como prisioneros de guerra ni tampoco podemos juzgar como criminales en EE UU " .
+El capitán Fessel confiesa al periodista con un gesto de orgullo que <TIMEX3 tid="t41" type="SET" value="P1D" quant="EVERY">cada día</TIMEX3> , cuando se va a dormir , se encuentra un poco más satisfecho por " hacer las cosas de la forma más justa posible " .
+Otras instancias judiciales y políticas en EE UU están ya revisando sobre si ésa es la forma más justa posible , pero ni el capitán Fessel ni sus colaboradores pueden negar , dentro de su propio y discutible sistema de justicia , agujeros tan enormes como los siguientes : - Muchos presos conocen ya , en efecto , su estatus .
+Pero algunos otros todavía no. - Es imposible saber cuántos están en cada situación porque la propia cifra exacta de detenidos , así como sus nombres , sigue siendo considerada un secreto .
+Por lo que , técnicamente , en Guantánamo sigue habiendo desaparecidos .
+- Los detenidos no pueden ser asesorados por abogados ni pueden presentar testigos en su favor en esos tribunales administrativos en los que se decide su futuro .
+- Aquellos para los que se recomienda el procesamiento están a la espera de un sistema que todavía no es firme .
+- Aquellos para los que aún no se pide el procesamiento , pero tampoco su liberación , simplemente no existe un horizonte legal .
+" Depende de cómo vaya la guerra " , sostiene Fessel ; " la mejor manera de que puedan ser liberados sin miedo a que vuelvan a combatir es que para entonces ya no existan los grupos a los que sumarse a combatir " .
+- Incluso aquellos para los que se recomienda la puesta en libertad o el traslado siguen siendo presos hasta que algún país acepta acogerles , con lo que se han convertido en una especie de secuestrados a la espera de un rescate .
+A pesar de la fragilidad legal del sistema , todos los signos que se detectan en Guantánamo apuntan a que la Administración no tiene por <TIMEX3 tid="t42" type="DATE" value="PRESENT_REF">ahora</TIMEX3> intención de atender las numerosas solicitudes a favor de su cierre .
+En el antiguo aeropuerto de la base , a un cuarto de <TIMEX3 tid="t45" type="DATE" value="PRESENT_REF">ahora</TIMEX3> en coche desde los centros de detención , se está levantando lo que oficialmente se denomina Expeditionary Legal Complex y que en el argot del lugar se conoce ya como Camp Justice ( Campamento Justicia ) , un verdadero mar de tiendas de campaña que deberá alojar a las futuras comisiones militares , los tribunales castrenses puestos en vigor con la ley que aprobó el Congreso en <TIMEX3 tid="t46" type="DATE" value="2006-FA">otoño de 2006</TIMEX3> .
+Se trata de una inversión millonaria para construir 500 tiendas de apariencia provisional , pero dotadas de la más moderna tecnología y preparadas para albergar cinco juicios al mismo tiempo en cinco idiomas distintos , según explica el responsable de la operación , Scott McDonald , abogado con el rango de sargento de la reserva .
+Esta construcción es la mejor prueba de que los responsables de Guantánamo están decididos a seguir adelante , a pesar de todas las objeciones puestas tanto por la justicia como por el Congreso y la opinión pública .
+Los principales candidatos presidenciales del Partido Demócrata han pedido el cierre de Guantánamo .
+Los editoriales de los principales <TIMEX3 tid="t49" type="SET" value="P1D">diarios</TIMEX3> han pedido el cierre de Guantánamo .
+El Tribunal Supremo ha dicho ya en dos ocasiones que los presos de Guantánamo deben ser protegidos por la Convención de Ginebra , y es muy probable que diga <TIMEX3 tid="t50" type="DATE" value="FUTURE_REF">pronto</TIMEX3> también que tienen derecho a recurrir a los tribunales ordinarios norteamericanos .
+Organismos internacionales de derechos humanos , multitud de Gobiernos , la ONU , el Vaticano ... han criticado la existencia de una prisión como la de Guantánamo .
+Todo el mundo parece estar de acuerdo en la necesidad de cerrar Guantánamo menos los responsables de la Administración norteamericana , que , por el contrario , dan pasos hacia su consolidación .
+Uno de los pasos más discutidos es el del nuevo centro de detención , conocido como Camp VI , construido siguiendo el modelo de las más modernas prisiones de alta seguridad de EE UU y en el que están encerrados los presos considerados más peligrosos .
+Después de visitar Camp VI , uno tiene la impresión de que Camp I o Camp IV , donde están los detenidos menos valiosos para la seguridad norteamericana , son modestas cabañas de recreo .
+En éstas , los presos ( al menos lo que se ve de ellos ) pasan <TIMEX3 tid="t52" type="DURATION" value="PTXH">varias horas</TIMEX3> a la luz <TIMEX3 tid="t51" type="DATE" value="2007-10-20">del día</TIMEX3> , practican algún deporte , pueden ver alguna película de vez en cuando , solicitar algún libro o revista a la biblioteca de la prisión y hasta acudir a la escuela , convenientemente amarrados a los grilletes instalados en el suelo de cada pupitre .
+La escena que el periodista contempla en Camp IV no es la del infierno que imaginaba .
+Dos presos de uniforme blanco ( los menos " peligrosos " ) charlan sentados en el patio mientras que uno de ellos se burla de los fotógrafos que lo retratan .
+Otro , sin embargo , oculta su rostro al objetivo cuando pasa con su ropa para hacer la colada .
+Esto es lo que se observa en el límite de nuestra visión .
+Lo demás son alambradas , puertas cerradas , torres de vigilancia , pasillos inaccesibles y guardias en su faena .
+Camp VI es sobrecogedor desde un principio .
+Los corredores de las celdas están separados del hall central por un cristal que sólo permite la visión del lado en el que el periodista se encuentra .
+Al otro , en ese momento , un preso de uniforme canela ( " peligro intermedio " ) es sacado de su celda por dos soldados .
+Es de complexión fuerte , lleva la cabeza afeitada y una larga barba oscura .
+Va esposado de pies y manos y los brazos sujetos por dos guardias , con guantes de goma azules y una pantalla de plástico protegiendo su cara .
+Se paran en medio del pasillo y el preso lanza una estremecedora carcajada que echa su cabeza hacia atrás .
+Desde este lado del cristal explican que probablemente ha visto la luz de los flashes y eso le ha hecho reír .
+Los flashes , por cierto , se dispararon inútilmente porque la foto fue posteriormente censurada por los responsables militares y no puede ser publicada .
+Todo el material fotográfico obtenido en Guantánamo es sometido a revisión y censura .
+No se puede fotografiar las caras de los presos .
+Uno de ellos , también en Camp VI , dejaba ver la suya por el pequeño ventanuco de barrotes que hay en la puerta de cada celda .
+Era un rostro desencajado , unos ojos perdidos .
+Por ese pequeño espacio se observa a otro preso caminar de un lado a otro de su celda .
+En otra se aprecia a su forzoso inquilino subir y bajar la cabeza a ritmo armónico .
+" Está rezando " , dice uno de los vigilantes .
+" Es la oración de la puesta del sol " , añade .
+" ¿ Cómo sabe cuándo es la puesta del sol ? " , pregunta el periodista .
+" Bueno , aquí todos los horarios están fijados con precisión " , contesta el carcelero .
+" Además , desde esa claraboya se puede ver la luz <TIMEX3 tid="t53" type="DATE" value="2007-10-20">del día</TIMEX3> " , asegura .
+Esa claraboya es , aparentemente , la única luz natural que ilumina todo el edificio , <TIMEX3 tid="t54" type="DATE" value="PRESENT_REF">actualmente</TIMEX3> el más habitado de toda la prisión .
+No fue posible visitar el interior de las celdas , así que no se pudo determinar si hasta ellas llega o no la luz <TIMEX3 tid="t55" type="DATE" value="2007-10-20">del día</TIMEX3> .
+Pero la sensación de oscuridad y claustrofobia del lugar -combinado durante la visita con voces y ruidos metálicos imposibles de identificar- es demoledora .
+Los vigilantes afirman que la mayoría de los presos salen a un patio descubierto -pequeñas celdas entre alambradas- casi <TIMEX3 tid="t56" type="SET" value="P1D" quant="EVERY">todos los días</TIMEX3> a un promedio de <TIMEX3 tid="t58" type="DURATION" value="PT2H" mod="APPROX">unas dos horas</TIMEX3> <TIMEX3 tid="t57" type="SET" value="P1D">diarias</TIMEX3> .
+Ésta es una de las atenciones que los responsables de Guantánamo se encargan de repetir a los visitantes .
+Otras , aun siendo ciertas , resultan algo grotescas en el contexto brutal en el que uno las conoce .
+Los guardianes , por ejemplo , tienen órdenes de manejar el Corán con sumo cuidado , no tocarlo nunca con sus manos desnudas , dejarlo permanentemente colgado en una pequeña talega de tela colocada a tal efecto en cada celda .
+La atención a la orientación religiosa de los detenidos es uno de los principales aspectos con los que los responsables de todo esto intentan humanizar su obra .
+" Yo soy un hombre medianamente religioso y respeto su religión ; cuando rezan , me callo ; si necesitan algo , intento conseguírselo " , afirma el sargento Justin Ardrey , uno de los guardias autorizados a revelar su nombre .
+Otro , el mayor Rivera , asegura que los vigilantes han sido entrenados para conocer los aspectos básicos del islam , y saca de un bolsillo un pequeño manual en el que se recuerdan las normas a seguir durante el periodo de Ramadán , recién concluido .
+Los guardias no conocen los nombres de los presos -se refieren a ellos por sus números- ni pueden , por supuesto , desarrollar ningún tipo de vínculo afectivo con ellos .
+No están tampoco autorizados a responder a las preguntas que se les pueda ocurrir hacer a los presos .
+" Lo único que necesitan saber es qué tienen que hacer y quién está al mando " , afirma Ardrey .
+Este trato frío y distanciado es más difícil para los soldados que están sirviendo aquí después de haber combatido en Afganistán o en Irak , como el sargento John Kopinski .
+" <TIMEX3 tid="t59" type="DURATION" value="PXD">Hace unos días</TIMEX3> " , recuerda , " uno de ellos me miró y me dijo que me había visto en el campo de batalla en Afganistán " .
+Ignora si es verdad , pero todavía le dura la impresión .
+Para evitar esas escenas , <TIMEX3 tid="t61" type="SET" value="P3M" quant="EVERY">cada tres meses</TIMEX3> rota la cuarta parte de los carceleros , que no suelen pasar en sus puestos <TIMEX3 tid="t64" type="DURATION" value="P6M" mod="MORE_THAN">más de seis meses</TIMEX3> y trabajan <TIMEX3 tid="t62" type="SET" value="P1W" quant="EACH" freq="4D">cuatro días por semana</TIMEX3> .
+Los anfitriones de esta enorme base ( más de 100 kilómetros cuadrados de tierra y mar ) muestran con orgullo las cocinas en las que se prepara la comida de los presos -un menú de aspecto decente , es cierto- y los instrumentos de aseo que se les facilitan .
+La joya de la corona de esta instalación es , desde el punto de vista de sus gestores , el hospital de los presos , ese centro cuya atención ha sido tan profusamente propagada que el director de cine Michael Moore intentó acudir a él con un barco lleno de enfermos norteamericanos en su documental Sicko .
+El hospital ( vacío en el momento de la visita ) presenta buena apariencia y se antoja dotado para hacer frente a distintas emergencias .
+Así lo asegura también el médico al frente de la instalación , que sólo puede ser identificado como doctor SMO .
+Las críticas más duras contra los métodos empleados en Guantánamo han llegado a incluir al doctor SMO , un militar de uniforme , como uno de los cómplices de las torturas .
+Si las hay , es difícil que el jefe del servicio médico sea ajeno a su existencia .
+Pero el doctor SMO garantiza que no las hay .
+Tampoco se le ha pedido nunca , dice él , sedar innecesariamente a alguien , dormirlo o mantenerlo despierto a la fuerza o cualquier actividad que pudiera ser contraria al código ético de un profesional de la medicina .
+En la cárcel de Guantánamo , explica , se recetan unas 500 píldoras <TIMEX3 tid="t68" type="SET" value="P1D" quant="EVERY">al día</TIMEX3> , todas ellas siguiendo el mismo criterio que en cualquier centro sanitario de EE UU .
+" Ni existe ninguna medicina no autorizada ni hay ninguna de administración forzosa " , afirma .
+Los tratamientos , en general , son por cuestiones menores y pasajeras , como corresponde a una población carcelaria con una media de edad de <TIMEX3 tid="t71" type="DURATION" value="P30Y">30 años</TIMEX3> .
+Pero también se realizan pruebas de próstata o colonoscopias a algunos detenidos que se encuentran entre los 50 y <TIMEX3 tid="t74" type="DURATION" value="P60Y">los 60 años</TIMEX3> .
+Sólo algunos presos , según el médico , rechazan el tratamiento .
+Los casos más difíciles para el doctor SMO son los de huelga de hambre .
+Un preso es considerado legalmente en esa situación después de haber renunciado a nueve comidas consecutivas , es decir , <TIMEX3 tid="t76" type="DURATION" value="P3D">tres días</TIMEX3> sin comer o beber o ambas cosas .
+Cuando eso ocurre , es trasladado al hospital y alimentado por medio de una sonda , previa autorización de un superior .
+El doctor no está autorizado a contar cuántos casos de huelga de hambre ha tratado o si está tratando alguno en <TIMEX3 tid="t77" type="DATE" value="PRESENT_REF">estos momentos</TIMEX3> .
+Uno de los principales colaboradores de SMO en el hospital es el doctor J , jefe del servicio de psiquiatría .
+Su trabajo aquí , afirma , es similar al de cualquier otra clínica en el mundo : depresiones , problemas del sueño ...
+Un 20 % de los presos de Guantánamo ha recibido en algún momento algún tipo de tratamiento psiquiátrico ; sólo unos cuantos han tenido necesidad de ser internados " siguiendo los mismos criterios de internamiento que se siguen en EE UU " .
+En general , según el doctor J , la salud mental de los presos de Guantánamo es " mejor de lo que uno puede sospechar que podría ser " .
+Atribuye eso principalmente a los fuertes lazos afectivos que existen entre casi todos los detenidos .
+" Quizá por sus creencias religiosas , quizá porque se conocían en su lugar de origen " , explica el psiquiatra , " lo cierto es que se apoyan mucho entre ellos , mantienen su espíritu alto " .
+" Cuando a alguno le llegan malas noticias " , añade , " enseguida los demás están a su lado para consolarle y acompañarle " .
+A veces , según el médico , los propios presos acuden a él para decirle que algún " hermano " -así se llaman entre ellos- tiene problemas .
+Unos ochenta presos , aproximadamente , que cuentan con luz verde par ser transferidos a otros países esperan en Guantánamo a que tengan éxito las gestiones que el Departamento de Estado realiza para buscar un lugar de destino .
+Hay que reconocer que suena hipócrita cuando los responsables se lamentan de que esos ochenta tengan que seguir aquí porque no se puede aceptar su traslado hacia un país que no cumpla las normas básicas de respeto a los derechos humanos .
+Quién sabe si se lo creen o lo repiten por oficio , pero los jefes de Guantánamo dicen actuar en nombre de la libertad y de la democracia .
+Si no se lo creen , ¿ por qué lo enseñan ? - * Este artículo apareció en la edición impresa <TIMEX3 tid="t82" type="DATE" value="2007-10-20">del sábado</TIMEX3> , <TIMEX3 tid="t80" type="DATE" value="2007-10-20">20 de octubre de 2007</TIMEX3> .
+</TimeML>
+

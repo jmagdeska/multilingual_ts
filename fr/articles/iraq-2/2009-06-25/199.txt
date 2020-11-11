@@ -1,0 +1,136 @@
+Socialisez
+
+
+
+
+
+
+
+							Le scandale des « biens mal acquis » perdure						
+Les chiffres dans l’affaire des « biens mal acquis » (lire encadré)
+sont impressionnants. Entre 105 et 180 milliards de dollars (75 à 130 milliards d’euros) ont été détournés par une trentaine de dictateurs, selon le rapport du Comité catholique contre la faim et pour le développement (CCFD) publié hier, intitulé « Biens mal acquis, à qui profite le crime ? ». Au « palmarès » des dirigeants ayant détourné le plus d’argent figurent l’Irakien Saddam Hussein (entre 7,2 et 28,8 milliards d’euros), le dernier chah d’Iran, Mohammed Reza Pahlavi (25,2 milliards), le dictateur indonésien Suharto (entre 12,6 et 25,2 milliards), l’ancien président ivoirien Félix Houphouët-Boigny (entre 5 et 7 milliards) et l’ex-chef d’Etat philippin Ferdinand Marcos (entre 3,5 et 5 milliards).
+Le CCFD avait déjà publié un rapport sur la question en 2007. Deux ans plus tard, « en dépit des promesses répétées de guerre à la corruption, seuls 1 à 4 % des avoirs détournés ont été restitués aux populations volées », note le nouveau rapport. La Suisse, soucieuse de changer son image de paradis fiscal pour dictateurs, est le pays qui a rendu le plus de fonds depuis une douzaine d’années. La France, elle, « n’a quasiment pas bougé le petit doigt, alors qu’elle se pose parfois en porte-parole du monde en développement », dénonce le CCFD. En cause, ses nombreux intérêts économiques à l’étranger. A titre d’exemple, le rapport revient sur la réticence de la France à enquêter sur les « biens mal acquis » de l’ancien chef d’Etat gabonais Omar Bongo. « Certains intérêts français auraient beaucoup à perdre si Paris lâchait un allié aussi fidèle que le clan Bongo », affirme le document, qui détaille ensuite les activités d’entreprises telles que Total, Areva, France Télécoms, Veolia, Bolloré, la Société générale ou BNP Paribas au Gabon. Jean Merckaert, l’un des auteurs du rapport, estime de son côté que depuis 2007, « l’indignation s’est généralisée [dans l’opinion publique française] et la complaisance envers les dictateurs n’est plus d’actualité ».
+Le constat global n’est toutefois pas très encourageant. Le gouvernement irakien a ainsi épinglé l’attitude de Paris, « qui refuse toujours de restituer aux autorités de Bagdad 23,48 millions d’euros bloqués à la Banque de France depuis la chute de Saddam Hussein », selon le CCFD. Seul un yacht du dictateur a été rendu aux Irakiens en juillet 2008. W
+Laisser un commentaire Annuler la réponse
+Votre adresse de messagerie ne sera pas publiée. Les champs obligatoires sont indiqués avec *
+Commentaire 
+
+
+Abonnez-moi à cette discussion et envoyez les réactions dans mon email ci-dessus.
+
+Nom * 
+Adresse de messagerie * 
+Site web 
+Enregistrer mon nom, mon e-mail et mon site web dans le navigateur pour mon prochain commentaire.
+
+
+Code Anti-spam *
+
+ 
+
+
+JavaScript est actuellement désactivé. Afin de pouvoir poster un commentaire, s'il vous plaît contrôlez que les Cookies et JavaScript sont activés puis rechargez la page. Cliquez ici pour savoir comment activer JavaScript dans votre navigateur.
+Outils
+Archives du Site
+Partagez
+Griffaronnade
+Les Plus Récents/Populaires
+	Nos Tweets
+
+					Chers amis:
+
+Je voudrais un peu, si vous me le permettez, me livrer à une réflexion à voix haute dans le cadre de... http://t.co/OKS7DR8YGu 
+
+							7 years ago
+						
+
+
+
+					Trois gouvernements, trois Premiers ministres : De la cacophonie politique au Gabon des Bongo Ondimba... http://t.co/SzfnfSedSm 
+
+							7 years ago
+						
+
+
+
+					Voeux 2014: Retour imminent de Daniel Mengara et de “Bongo Doit Partir” au Gabon
+
+Dans son message vidéo de voeux... http://t.co/zsPVrnMAGv 
+
+							7 years ago
+						
+
+
+
+					Message du Dr. Daniel Mengara au Peuple gabonais: Le temps de la  « Troisième Voie » est arrivé 
+
+Chers... http://t.co/RjE6B5DSVC 
+
+							7 years ago
+						
+
+
+
+					Les Gabonais ont un rêve, déclare le Dr. Daniel Mengara à Atlanta
+
+Dans son intervention devant les Gabonais des... http://t.co/6mJ4sCvpKB 
+
+							7 years ago
+						
+
+
+
+View more tweets 
+Publicité
+Mots-clefs
+	
+			Copyright ©BDP-Gabon Nouveau · 1998-2020 · All Rights Reserved · 
+					
+
+Connexion-					Posts - 
+					Add New
+				 - 
+						http://www.bdpgabon.org - 
+				
+			    
+	  var rps_ht = 515	
+
+/* <![CDATA[ */
+r3f5x9JS=escape(document['referrer']);
+hf4N='b613c8c14fb5382fdb9557752fabfe5f';
+hf4V='7201caa4c33adfcaad3198c8184ce412';
+cm4S="form[action='http://www.bdpgabon.org/wp-comments-post.php']";
+jQuery(document).ready(function($){var e="#commentform, .comment-respond form, .comment-form, "+cm4S+", #lostpasswordform, #registerform, #loginform, #login_form, #wpss_contact_form";$(e).submit(function(){$("<input>").attr("type","hidden").attr("name","r3f5x9JS").attr("value",r3f5x9JS).appendTo(e);$("<input>").attr("type","hidden").attr("name",hf4N).attr("value",hf4V).appendTo(e);return true;});$("#comment").attr({minlength:"15",maxlength:"15360"})});
+/* ]]> */
+
+
+
+
+jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Fermer","currentText":"Aujourd\u2019hui","monthNames":["janvier","f\u00e9vrier","mars","avril","mai","juin","juillet","ao\u00fbt","septembre","octobre","novembre","d\u00e9cembre"],"monthNamesShort":["Jan","F\u00e9v","Mar","Avr","Mai","Juin","Juil","Ao\u00fbt","Sep","Oct","Nov","D\u00e9c"],"nextText":"Suivant","prevText":"Pr\u00e9c\u00e9dent","dayNames":["dimanche","lundi","mardi","mercredi","jeudi","vendredi","samedi"],"dayNamesShort":["dim","lun","mar","mer","jeu","ven","sam"],"dayNamesMin":["D","L","M","M","J","V","S"],"dateFormat":"d M yy","firstDay":1,"isRTL":false});});
+
+
+
+
+/* <![CDATA[ */
+var TB_labels = {"no_config":"No configuration settings found","twitter_logo":"Twitter Logo","kino":"Development by Kirill Novitchenko","refresh":"Refresh","no_sources":"Twitter sources to blend are not defined","no_global_config":"Cannot retrieve Tweet Blender configuration options","version_msg":"Powered by Tweet Blender plugin v{0} blending {1}","limit_msg":"You reached Twitter API connection limit","no_tweets_msg":"No tweets found for {0}","loading_msg":"Loading tweets...","time_past":"{0} {1} ago","time_future":"in {0} {1}","second":"second","seconds":"seconds","minute":"minute","minutes":"minutes","hour":"hour","hours":"hours","day":"day","days":"days","week":"week","weeks":"weeks","month":"month","months":"months","year":"year","years":"years","check_fail":"Check failed","limit_num":"Max is {0}\/hour","limit_left":"You have {0} left","from":"from","reply":"reply","follow":"follow","limit_reset":"Next reset","view_more":"view more"};
+/* ]]> */
+
+
+
+
+/* <![CDATA[ */
+var emailL10n = {"ajax_url":"http:\/\/www.bdpgabon.org\/wp-admin\/admin-ajax.php","max_allowed":"1","text_error":"The Following Error Occurs:","text_name_invalid":"- Your Name is empty\/invalid","text_email_invalid":"- Your Email is empty\/invalid","text_remarks_invalid":"- Your Remarks is invalid","text_friend_names_empty":"- Friend Name(s) is empty","text_friend_name_invalid":"- Friend Name is empty\/invalid: ","text_max_friend_names_allowed":"- Maximum 1 Friend Name allowed","text_friend_emails_empty":"- Friend Email(s) is empty","text_friend_email_invalid":"- Friend Email is invalid: ","text_max_friend_emails_allowed":"- Maximum 1 Friend Email allowed","text_friends_tally":"- Friend Name(s) count does not tally with Friend Email(s) count","text_image_verify_empty":"- Image Verification is empty"};
+/* ]]> */
+
+
+
+/* <![CDATA[ */
+var ratingsL10n = {"plugin_url":"http:\/\/www.bdpgabon.org\/wp-content\/plugins\/wp-postratings","ajax_url":"http:\/\/www.bdpgabon.org\/wp-admin\/admin-ajax.php","text_wait":"Please rate only 1 item at a time.","image":"stars","image_ext":"gif","max":"5","show_loading":"1","show_fading":"1","custom":"0"};
+var ratings_mouseover_image=new Image();ratings_mouseover_image.src="http://www.bdpgabon.org/wp-content/plugins/wp-postratings/images/stars/rating_over.gif";;
+/* ]]> */
+
+
+
+
+
+

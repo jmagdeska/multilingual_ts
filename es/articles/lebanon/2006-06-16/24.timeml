@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+Amnistía Internacional acusó a Hezbolá de haber cometido crímenes de guerra durante el <TIMEX3 tid="t1" type="DATE" value="PAST_REF">reciente</TIMEX3> conflicto armado contra Israel .
+La organización defensora de los derechos humanos publicó un informe en el que acusa al grupo radical islámico de haber atacado deliberadamente a civiles en el norte de Israel .
+Según Amnistía Internacional , Hezbolá lanzó misiles contra zonas pobladas y no distinguió entre objetivos militares y blancos civiles .
+Hezbolá niega las acusaciones y sostiene que sus ataques con cohetes fueron en respuesta a los bombardeos israelíes contra la población civil de Líbano .
+<TIMEX3 tid="t2" type="DATE" value="2006-05">El mes pasado</TIMEX3> , Amnistía Internacional publicó otro informe en el que acusaba a Israel de destruir de manera deliberada la infraestructura civil de Líbano .
+El gobierno israelí niega esta acusación .
+La organización ha pedido a Naciones Unidas que investigue si tanto Israel como Hezbolá violaron leyes internacionales durante el enfrentamiento y , si ése fue el caso , que enjuicie a los responsables .
+Alrededor de 1000 civiles libaneses murieron durante <TIMEX3 tid="t8" type="DURATION" value="P34D">los 34 días</TIMEX3> que duró la guerra , mientras que en el lado israelí el número de víctimas fatales fue 43 .
+Decenas de miles de personas debieron de abandonar sus hogares en ambos lados de la frontera .
+</TimeML>
+

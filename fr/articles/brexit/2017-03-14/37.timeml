@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+Royaume Uni
+–
+Feu vert du Parlement au lancement du Brexit Le Parlement britannique a donné <TIMEX3 tid="t2" type="TIME" value="2017-03-13TEV">lundi soir</TIMEX3> son accord final à la loi de déclenchement du Brexit .
+Theresa May doit s' adresser aux députés <TIMEX3 tid="t4" type="DATE" value="2017-03-14">mardi</TIMEX3> .
+Le parlement britannique a approuvé <TIMEX3 tid="t6" type="TIME" value="2017-03-13TEV">lundi soir</TIMEX3> la loi autorisant le gouvernement à déclencher le Brexit , <TIMEX3 tid="t8" type="DURATION" value="PTXH">quelques heures</TIMEX3> après l' annonce par la Première ministre écossaise de son intention de demander un nouveau référendum d' indépendance .
+La Première ministre britannique Theresa May va s' adresser <TIMEX3 tid="t9" type="DATE" value="2017-03-14">mardi</TIMEX3> à la chambre des Communes , un discours très attendu .
+Theresa May doit , comme c' est la règle , débriefer les élus britanniques sur le dernier sommet européen qui s' est déroulé la semaine dernière à Bruxelles .
+Mais c' est surtout la plus petite indication qu' elle pourra donner sur la date à laquelle elle entend lancer la procédure de divorce qui sera guettée alors que la date du 31 mars qu' elle s' est fixée comme limite approche à grand pas .
+Mystère autour de la date du grand saut Pendant <TIMEX3 tid="t13" type="DURATION" value="PXD">quelques jours</TIMEX3> , la rumeur que la dirigeante britannique profiterait de sa déclaration devant les députés pour annoncer le grand saut a bruissé de manière insistante .
+Toutefois , son porte-parole a refroidi les attentes <TIMEX3 tid="t16" type="TIME" value="2017-03-13TAF">lundi après-midi</TIMEX3> en annonçant que Theresa May entendait en fait attendre <TIMEX3 tid="t14" type="DATE" value="2017-03" mod="END">la fin du mois</TIMEX3> .
+Certains tablent <TIMEX3 tid="t20" type="DATE" value="PRESENT_REF">désormais</TIMEX3> que cela n' aura pas lieu avant <TIMEX3 tid="t18" type="DATE" value="2017-03-27">le 27 mars</TIMEX3> .
+<TIMEX3 tid="t24" type="TIME" value="2017-03-13TEV">Lundi soir</TIMEX3> , les députés ont rejeté , par 335 voix contre 287 le premier amendement des Lords visant à protéger les trois millions de citoyens européens vivant au
+Royaume
+- Uni .
+Ils ont fait de même pour l' autre amendement qui conférait le dernier mot au parlement sur l' accord final avec Bruxelles , 331 votant contre tandis que 286 votaient en sa faveur .
+La chambre des Lords a ensuite pris acte du refus par la chambre des Communes de ses deux amendements et a voté contre les deux modifications en deuxième lecture , entérinant ainsi le texte .
+« C' est un résultat décevant pour tous ceux qui reconnaissent l' importance vital d' un contrôle parlementaire du Brexit » , a réagi la député conservatrice Anna Soubry , opposée au Brexit .
+Ecosse au large Cette approbation intervient <TIMEX3 tid="t26" type="DURATION" value="PTXH">quelques heures</TIMEX3> après l' annonce par la Première ministre écossaise Nicola Sturgeon qu' elle allait demander un nouveau référendum d' indépendance , faisant planer une menace d' éclatement du Royaume - Uni .
+Nicola Sturgeon , qui souhaite un référendum <TIMEX3 tid="t29" type="DATE" value="2018" mod="END">fin 2018</TIMEX3> ou <TIMEX3 tid="t30" type="DATE" value="2019" mod="START">début 2019</TIMEX3> , a expliqué qu' elle demanderait la semaine prochaine au parlement écossais l' autorisation de réclamer l' accord du gouvernement britannique pour lancer la procédure .
+« J' estime qu' il est important que l' Écosse soit en mesure de décider de son futur ( ... ) avant qu' il ne soit trop tard » , a ajouté la cheffe du parti indépendantiste SNP , rappelant que les Écossais avaient majoritairement voté contre le Brexit .
+“ The option of no change is no longer available .
+”
+@NicolaSturgeon
+has
+announced the country' s second referendum .
+https://t.co/ZVhO1RJtwzpic.twitter.com/rscvJ30e4T—
+SBS News ( @SBSNews ) <TIMEX3 tid="t32" type="DATE" value="2017-03-13">13 mars 2017</TIMEX3>
+«
+Facteur de division »
+Theresa May a aussitôt rétorqué qu' une nouvelle consultation , après celle de <TIMEX3 tid="t39" type="DATE" value="2014-09">septembre 2014</TIMEX3> , serait un « facteur de division » et créerait « une énorme incertitude économique au pire moment possible » .
+«
+La vision étroite que le SNP a montrée <TIMEX3 tid="t40" type="DATE" value="2017-03-14">aujourd'hui</TIMEX3> est très regrettable » , a ajouté Theresa May , accusant le parti de Mme Sturgeon de penser davantage à ses intérêts qu' à ceux des Écossais , qui avaient voté contre l' indépendance <TIMEX3 tid="t41" type="DATE" value="2017-MINUS-deux">il y a deux ans</TIMEX3> .
+L' annonce de Nicola Sturgeon , si elle n' est pas une surprise , fait ressurgir le spectre d' une division du Royaume .
+A Bruxelles , la Commission européenne a confirmé qu' une Ecosse indépendante devrait poser sa candidature pour intégrer l' Union européenne .
+Une fois activé l' article 50 du Traité de Lisbonne , les dirigeants des 27 autres Etats membres pourraient se réunir <TIMEX3 tid="t43" type="DATE" value="2017-04-06">le 6 avril</TIMEX3> pour un sommet visant à définir des « lignes
+directrices »
+des négociations à venir .
+Les Européens chercheront à faire corps , face à des Britanniques susceptibles d' exploiter les divisions au sein du bloc .
+Parmi les sujets brûlants , outre l' avenir de l' Écosse , figurera notamment la facture de la sortie de l' UE : Bruxelles pourrait exiger des Britanniques jusqu' à 60 milliards d' euros , un montant correspondant aux engagements déjà pris par Londres en termes de contribution au
+budget européen .
+Le sort
+des Européens installés outre
+- Manche devra aussi être tranché : Theresa May refuse pour l' heure de garantir leurs droits avant d' avoir obtenu des assurances similaires pour les 1,2 million de Britanniques vivant dans l' UE .
+Les négociations sont censées durer <TIMEX3 tid="t47" type="DURATION" value="P2Y">deux ans</TIMEX3> .
+Elles démarreront au moment même où l' UE célébrera le 60e anniversaire du Traité de Rome , censé marquer une nouvelle étape dans la construction européenne .
+Cet article a été automatiquement importé de notre ancien système de gestion de contenu vers notre nouveau site web .
+Il est possible qu' il comporte quelques erreurs de mise en page .
+Veuillez - nous signaler toute erreur à community-feedback@tamedia.ch .
+Nous vous remercions de votre compréhension et votre collaboration .
+BrexitLondres se prépare à « toutes les issues »
+Le Royaume
+- Uni a assuré <TIMEX3 tid="t48" type="DATE" value="2017-03-12">dimanche</TIMEX3> se préparer aussi à ce qu' aucun accord commercial ne soit trouvé avec Bruxelles .
+BrexitL’
+Écosse évoque un référendum en <TIMEX3 tid="t49" type="DATE" value="2018">2018</TIMEX3> La dirigeante de l' exécutif écossais souhaite organiser un nouveau scrutin si Londres s' engage sur la voie d' un Brexit dur .
+Royaume
+- UniBrexit : May a rendez - vous avec Bruxelles Après une progression en douceur sur le plan intérieur , Theresa May doit affronter la phase bruxelloise du divorce .
+Grande
+- BretagneLes Lords infligent un nouveau revers à May Un second amendement au projet de loi sur le Brexit a été validé , <TIMEX3 tid="t50" type="DATE" value="2017-03-14">mardi</TIMEX3> .
+Un camouflet pour la Première ministre .
+EconomieBrexit : Londres ne paiera plus les factures salées Theresa May a insisté : après le Brexit , le Royaume - Uni ne paiera plus de « vastes sommes » pour le budget de l' UE .
+</TimeML>
+

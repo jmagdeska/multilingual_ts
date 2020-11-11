@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+El Ejército de Egipto decreta el estado de emergencia en el Sinaí y en Suez Grupos armados han atacado puestos de control en la zona y han matado a un soldado y herido a otros dos El Cairo .
+( EFE).-
+El Ejército de Egipto decretó <TIMEX3 tid="t1" type="DATE" value="2013-07-05">hoy</TIMEX3> el estado de emergencia en el sur de la península del Sinaí y en la provincia de Suez , después de que grupos armados atacasen varios puestos de control en la zona , informó la televisión estatal .
+Las Fuerzas Armadas tomaron esa medida de excepción para evitar que hombres armados crucen el canal de Suez y se infiltren desde el Sinaí .
+Un soldado murió <TIMEX3 tid="t2" type="DATE" value="2013-07-05">hoy</TIMEX3> y otros dos resultaron heridos en uno de los ataques perpetrados por grupos de desconocidos contra el puesto de control de Al Yura , al sur de la zona de Sheij Zaued .
+Hombres enmascarados abrieron fuego desde vehículos todoterreno contra puestos de control junto al aeropuerto internacional de Al Arish , capital del norte del Sinaí y <TIMEX3 tid="t3" type="DATE" value="FUTURE_REF">próxima</TIMEX3> a la frontera con la franja de Gaza .
+Grupos armados también dispararon contra la policía en otros tres puestos de control y en el campamento de la seguridad central de Al Ahrash en la vecina zona de Rafah , a lo que las fuerzas egipcias respondieron con disparos .
+Fuentes oficiales explicaron a Mena que el paso de Rafah , que une Egipto con Gaza , fue cerrado <TIMEX3 tid="t4" type="DATE" value="2013-07-05">hoy</TIMEX3> por <TIMEX3 tid="t5" type="DURATION" value="P1D">un solo día</TIMEX3> para evitar nuevos ataques .
+Tras el derrocamiento del régimen de Hosni Mubarak en <TIMEX3 tid="t6" type="DATE" value="2011">2011</TIMEX3> , la península del Sinaí se ha convertido en un foco de inestabilidad y escenario de ataques contra policías y gasoductos , actos de contrabando y secuestros .
+Los sucesos de <TIMEX3 tid="t9" type="DATE" value="2013-07-05">hoy</TIMEX3> se producen después de que <TIMEX3 tid="t7" type="DATE" value="2013-07-03">el pasado miércoles</TIMEX3> el Ejército egipcio depusiera al presidente Mohamed Morsi , elegido <TIMEX3 tid="t8" type="DATE" value="2012">hace un año</TIMEX3> , y nombrase en su lugar al presidente del Tribunal Constitucional , Adli Mansur , encargado de convocar y supervisar las <TIMEX3 tid="t10" type="DATE" value="FUTURE_REF">próximas</TIMEX3> elecciones presidenciales .
+© La Vanguardia Ediciones Todos los derechos reservados
+</TimeML>
+

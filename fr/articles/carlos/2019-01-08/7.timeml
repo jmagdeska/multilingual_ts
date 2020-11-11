@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+Carlos Ghosn :
+que lui reproche la justice japonaise ?
+Dessin de presse .
+Carlos
+Ghosn <TIMEX3 tid="t1" type="DATE" value="2019-01-08">ce mardi</TIMEX3> lors de sa comparution devant le tribunal de Tokyo .
+- BFM TV Savoir exactement ce que la justice japonaise lui reproche , c’ est qui a poussé Carlos Ghosn et ses avocats à demander une comparution publique à la justice japonaise .
+<TIMEX3 tid="t3" type="DATE" value="2019-01-08">Ce mardi</TIMEX3> , Carlos Ghosn est donc apparu publiquement devant le tribunal de Tokyo .
+" J’ ai <TIMEX3 tid="t5" type="DATE" value="2019-SU">été</TIMEX3> accusé à tort et injustement détenu sur la base d’ allégations sans fondements " , a lancé Carlos Ghosn , dans une allocution d’ une dizaine de minutes .
+Il a répondu point par point , et ses avocats après lui lors d’ une conférence de presse , aux accusations portées contre lui par la justice japonaise .
+Dissimulation de revenus La première accusation , pour laquelle Carlos Ghosn a été mis en examen <TIMEX3 tid="t6" type="DATE" value="2018-12-10">le 10 décembre</TIMEX3> , porte sur une possible dissimulation de revenus .
+Carlos Ghosn aurait minimisé , dans les rapports de Nissan remis aux autorités boursières , une partie de ses revenus : environ 5 milliards de yens ( 40 millions d' euros ) sur <TIMEX3 tid="t12" type="DURATION" value="P5Y">cinq années</TIMEX3> , de <TIMEX3 tid="t9" type="DATE" value="2010">2010</TIMEX3> à <TIMEX3 tid="t13" type="DATE" value="2015">2015</TIMEX3> .
+Il est aussi soupçonné d' avoir fait de même sur la période de <TIMEX3 tid="t14" type="DATE" value="2015">2015</TIMEX3> à <TIMEX3 tid="t15" type="DATE" value="2018">2018</TIMEX3> , pour un montant de 4 milliards de yens ( 32 millions d’ euros environ ) , mais il n' est à ce stade pas poursuivi pour ce motif .
+" Tout d' un coup , Carlos Ghosn s' est retrouvé obligé de publier ses revenus <TIMEX3 tid="t18" type="SET" value="P1Y">annuels</TIMEX3> ( qui s' élevaient à l' époque à 2 milliards de yens , soit un peu plus de 16 millions d’ euros ) , et à partir de ce moment - là il a commencé à les diviser en deux parties : un montant déclaré , un autre non déclaré censé en théorie lui être versé au moment où il se retirerait du groupe " , assure une source proche du dossier à l’ AFP .
+Le but de la manoeuvre aurait <TIMEX3 tid="t22" type="DATE" value="2019-SU">été</TIMEX3> d' éviter les critiques des actionnaires et des employés , dans un pays où les PDG perçoivent des émoluments plus modestes qu' ailleurs .
+Devant le juge <TIMEX3 tid="t24" type="DATE" value="2019-01-08">mardi</TIMEX3> , le dirigeant de <TIMEX3 tid="t26" type="DURATION" value="P64Y">64 ans</TIMEX3> a assuré ne " jamais avoir signé de contrat avec Nissan pour recevoir un montant fixe non divulgué " .
+Il y a bien eu des projets pour déterminer les revenus que Carlos Ghosn percevrait après sa retraite , " mais à ma connaissance , ils ont été examinés par des avocats internes et externes " au groupe , " témoignant du fait que je n' avais aucune intention de violer la loi " , a ajouté le magnat de l' automobile .
+Des liens troubles avec un homme d’ affaires saoudien
+Un second point a particulièrement été discuté <TIMEX3 tid="t27" type="TIME" value="2019-01-08TMO">ce matin</TIMEX3> .
+Carlos Ghosn aurait fait couvrir par Nissan des pertes personnelles , par l’ intermédiaire d’ un homme d’ affaires saoudien .
+La somme incriminée s' élève à 1,85 milliard de yens ( environ 14,9 millions d’ euros ) .
+Selon une source proche du dossier , il a puisé ces fonds dans " la réserve du PDG " , prévue pour parer à des imprévus ( catastrophes naturelles par exemple ) .
+Carlos Ghosn a lui livré une version très différente , dédouanant au passage Khaled Juffali .
+" Sa compagnie a été rémunérée de manière appropriée ( en accord avec les responsables concernés du constructeur ) en échange d' importants services rendus à Nissan " , a insisté Carlos Ghosn .
+Il s' agissait d' aider le groupe à " réorganiser le réseau de distribution dans la région du Golfe " .
+Des contrats pour faire face à la volatilité des changes Carlos Ghosn a par ailleurs expliqué qu’ il avait signé en <TIMEX3 tid="t28" type="DATE" value="2006">2006</TIMEX3> et 2007 deux contrats pour lui assurer une certaine stabilité de ses revenus face à la volatilité des changes .
+Or , quand la crise a éclaté en <TIMEX3 tid="t31" type="DATE" value="2008">2008</TIMEX3> , " la banque m' a demandé de fournir une garantie supplémentaire , ce qui m' était impossible " à moins de démissionner de Nissan afin de recevoir ma pension de retraite .
+Le PDG a donc décidé de demander à Nissan de se porter garant , le temps de trouver une autre solution .
+" Les contrats ont ensuite été de nouveau transférés à mon nom sans que Nissan n' ait à supporter aucune perte " .
+Dédouanant Khaled Juffali , Carlos Ghosn s’ est aussi ici vigoureusement attaqué aux dirigeants de Nissan .
+Les autres faits reprochés
+En revanche , plusieurs points n’ ont pas été abordés ce <TIMEX3 tid="t34" type="TIME" value="2019-01-08TMO">mardi matin</TIMEX3> .
+Le premier porte sur des appartements de luxe à Beyrouth , Rio de Janeiro et Paris , achetés par l' intermédiaire d' une filiale basée aux Pays - Bas , officiellement censée financer des investissements dans des start - up .
+Le deuxième porte sur un emploi de conseils que Carlos Ghosn aurait fourni à sa sœur , entre <TIMEX3 tid="t36" type="DATE" value="2003">2003</TIMEX3> et <TIMEX3 tid="t37" type="DATE" value="2016">2016</TIMEX3> , et dont Nissan n’ aurait pas trouvé de trace concrète .
+Enfin , le responsable franco-libano-brésilien aurait versé près de 40 millions d' euros à des " relations " au Liban et ailleurs ( Brésil , Inde , Etats
+- Unis ) , argent provenant des caisses de Nissan .
+Si le constructeur japonais enquête en interne sur ces différents points , le parquet n’ a , à ce stade , pas retenu d’ éléments contre Carlos Ghosn .
+A la Une Comment
+le gouvernement veut soutenir l’ entrée des jeunes sur le marché du travail Coronavirus : le plan de reconfinement du gouvernement est " quasi terminé " Une amende de 135 euros en cas de non-respect du port obligatoire du masque F1 : Jean Todt espère que " le monde pourra <TIMEX3 tid="t41" type="DATE" value="FUTURE_REF">bientôt</TIMEX3> revoir Schumacher " Coronavirus : la France n' exclut pas une fermeture des frontières avec l' Espagne Cathédrale de Nantes : enquête ouverte pour incendie volontaire , trois départs de feu constatés ©
+Copyright <TIMEX3 tid="t43" type="DATE" value="2006">2006</TIMEX3>
+- <TIMEX3 tid="t44" type="DATE" value="2020">2020</TIMEX3> BFMTV.com .
+Tous droits réservés .
+Site édité par NextInteractive
+</TimeML>
+

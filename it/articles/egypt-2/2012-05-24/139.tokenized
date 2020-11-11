@@ -1,0 +1,12 @@
+Collegamenti ad aree di contenuto della pagina var d_names = new Array("Domenica " , " Lunedì " , " Martedì " , " Mercoledì " , " Giovedì " , " Venerdì " , " Sabato " ) ;
+var m_names = new Array("Gennaio " , " Febbraio " , " Marzo " , " Aprile " , " Maggio " , " Giugno " , " Luglio " , " Agosto " , " Settembre " , " Ottobre " , " Novembre " , var d = new Date ( ) ;
+var minutes = d.getMinutes ( ) ;
+if ( minutes < 10){minutes = "
+0"+minutes ; } document.write('<strong > ' + d_names[d.getDay ( ) ] + ' , ' + d.getDate ( ) + ' ' + m_names[d.getMonth ( ) ] + ' ' + d.getFullYear ( ) + ' < /strong > ' ) ;
+document.write ( ' | < em class="hour " > ' + d.getHours ( ) + ' :
+' + minutes + ' < /em > ' ) ;
+ti trovi qui :
+Spagna :
+cresce tensione per nuovo incidente acque Gibilterra 24 maggio , 18:59
+Il sistema informativo sulle opportunità di business all' estero Unione Europea e Mediterraneo Ministero degli affari esteri Cooperazione e imprese italiane nel Mediterraneo e il Golfo News dal Mediterraneo © Copyright 2010 ANSAmed Contatti | Disclaimer | Privacy |
+Modifica consenso Cookie | Copyright

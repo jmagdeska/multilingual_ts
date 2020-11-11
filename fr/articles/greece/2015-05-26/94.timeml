@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+L' euro baisse , inquiétudes sur la Grèce Publié <TIMEX3 tid="t1" type="DATE" value="2015-05-26">le 26
+- 05</TIMEX3> - 15 à <TIMEX3 tid="t3" type="TIME" value="2015-05-26T12:09">12h09</TIMEX3> à Londres , <TIMEX3 tid="t5" type="DATE" value="2015-05-26">26 mai 2015</TIMEX3> ( AFP )
+L' euro reculait face au dollar <TIMEX3 tid="t7" type="DATE" value="2015-05-26">mardi</TIMEX3> , sur fond d' inquiétudes sur la capacité de la Grèce à s' acquitter de sa dette auprès du Fonds monétaire international ( FMI ) <TIMEX3 tid="t10" type="DATE" value="2015-06" mod="END">fin juin</TIMEX3> .
+Vers <TIMEX3 tid="t12" type="TIME" value="2015-05-26T10:00">10H00 GMT</TIMEX3> ( <TIMEX3 tid="t14" type="TIME" value="2015-05-26T12:00">12H00</TIMEX3> à Paris ) , la monnaie unique européenne valait 1,0901 dollar contre 1,0980 dollar <TIMEX3 tid="t15" type="DATE" value="2015-05-25">lundi</TIMEX3> vers <TIMEX3 tid="t16" type="TIME" value="2015-05-25T21:00">21H00 GMT</TIMEX3> .
+L' euro est descendu <TIMEX3 tid="t18" type="DATE" value="2015-05-25">lundi</TIMEX3> à son plus bas niveau en <TIMEX3 tid="t21" type="DURATION" value="P1M">un mois</TIMEX3> vers <TIMEX3 tid="t19" type="TIME" value="2015-05-25T07:00">07H00 GMT</TIMEX3> à 1,0860 dollar .
+La devise européenne montait face à la monnaie nippone à 133,78 yens contre 133,43 yens <TIMEX3 tid="t22" type="DATE" value="2015-05-25">lundi</TIMEX3> , après être tombée vers <TIMEX3 tid="t23" type="TIME" value="2015-05-25T01:30">01H30 GMT</TIMEX3> à son plus bas niveau en <TIMEX3 tid="t25" type="DURATION" value="P1M">un mois</TIMEX3> à 133,10 yens .
+Le dollar aussi progressait face à la devise japonaise à 122,72 yens contre 121,50 yens la veille .
+Le billet vert a grimpé à 122,88 yens , son maximum en <TIMEX3 tid="t28" type="DURATION" value="P8Y">huit ans</TIMEX3> vers <TIMEX3 tid="t26" type="TIME" value="2015-05-25T09:00">09H00 GMT</TIMEX3> .
+" L' actualité s' est concentrée sur la Grèce alors que de nouvelles échéances approchent pour le remboursement de la dette du pays " , notait Angus Campbell , analyste chez Fx Pro .
+" Les investisseurs contemplent la montagne que la Grèce doit gravir <TIMEX3 tid="t29" type="DATE" value="2015-SU">cet été</TIMEX3> et commencent à être nerveux et vendent non seulement leurs euros mais aussi leurs actions grecques " , expliquait l' analyste .
+Le gouvernement grec a affiché <TIMEX3 tid="t31" type="DATE" value="2015-05-25">lundi</TIMEX3> sa volonté de rembourser tous ses créanciers , dont le FMI la semaine prochaine , sans toutefois confirmer pouvoir le faire si le déblocage d' une tranche de prêts n' intervenait pas à temps .
+Le ministre des Finances Yanis Varoufakis a assuré <TIMEX3 tid="t32" type="DATE" value="2015-05-25">lundi</TIMEX3> que le gouvernement grec était prêt à accepter toutes les réformes voulues par les créanciers , mais il a rejeté les exigences d' une nouvelle cure d' austérité " pire que le mal " .
+Les négociations au niveau technique entre Athènes et ses créanciers doivent reprendre <TIMEX3 tid="t33" type="DATE" value="2015-05-26">mardi</TIMEX3> à Bruxelles avec pour objectif un accord " <TIMEX3 tid="t35" type="DATE" value="2015-05" mod="END">fin mai</TIMEX3> , <TIMEX3 tid="t36" type="DATE" value="2014-06" mod="START">début juin</TIMEX3> " , a indiqué <TIMEX3 tid="t37" type="DATE" value="2015-05-25">lundi</TIMEX3>
+le porte-parole du gouvernement grec , sur le versement de tout ou partie de 7,2 milliards de prêts entrant dans le cadre du deuxième plan d' assistance internationale au pays en cours depuis <TIMEX3 tid="t34" type="DATE" value="2012">2012</TIMEX3> .
+De son côté , le dollar profitait toujours de l' effet des chiffres de l' inflation <TIMEX3 tid="t40" type="SET" value="P1M">mensuelle</TIMEX3> sous-jacente aux
+États
+- Unis publiés la semaine dernière des chiffres .
+" Le fait que l' inflation sous-jacente soit plus ferme que prévu est rassurant et le dollar s' est renforcé .
+Cela devrait mettre la Réserve fédérale américaine ( Fed ) à l' aise pour débuter le resserrement de sa politique monétaire " , expliquaient les analystes de Bank of Tokyo
+- Mitsubishi La présidente de la Fed , Janet Yellen , a d' ailleurs annoncé <TIMEX3 tid="t41" type="DATE" value="2015-05-22">vendredi</TIMEX3> que la banque centrale devra " à un moment <TIMEX3 tid="t42" type="DATE" value="2015">cette année</TIMEX3> " commencer à relever ses taux directeurs , maintenus proches de zéro depuis <TIMEX3 tid="t43" type="DATE" value="2008">2008</TIMEX3> , pour éviter une " surchauffe " de l' économie .
+Le dollar reste donc porté par la tendance au resserrement de la Fed qui contraste avec les politiques d' assouplissement prévalant en Europe et au Japon .
+Et pour les analystes de la banque Morgan Stanley , la correction à la baisse du dollar serait <TIMEX3 tid="t44" type="DATE" value="PRESENT_REF">désormais</TIMEX3> terminée .
+Vers <TIMEX3 tid="t45" type="TIME" value="2015-05-22T10:00">10H00 GMT</TIMEX3> , la livre britannique montait face à la monnaie unique européenne à 70,72 pence pour un euro ( après avoir atteint un plus haut en <TIMEX3 tid="t48" type="DURATION" value="P2M">deux mois</TIMEX3> et demi <TIMEX3 tid="t47" type="DATE" value="2015-05-25">lundi</TIMEX3> à 70,65 cents ) , mais baissait face au dollar à 1,5401 dollar pour une livre .
+La devise suisse progressait face à l' euro à 1,0346 franc suisse pour un euro , mais baissait face au billet vert à 0,9485 franc suisse pour un dollar .
+L' once d' or valait 1.1.94 dollars au fixing du <TIMEX3 tid="t51" type="TIME" value="2015-05-26TMO">matin</TIMEX3> , contre 1.204,10 dollars <TIMEX3 tid="t50" type="TIME" value="2015-05-22TEV">vendredi soir</TIMEX3> .
+A lire également Les plus consultés depuis <TIMEX3 tid="t53" type="TIME" value="2015-05-22T24:00">24h</TIMEX3>
+Les derniers articles de ParisMatch.be Facebook Cover
+- PM cover
+- ci Immobilier pour vous Recevez nos newsletters Copyright ©
+La Libre.be <TIMEX3 tid="t54" type="DATE" value="1996">1996</TIMEX3>
+- 2020 Ipm
+sa - IPM | Droit d' auteur |
+Charte de la vie privée |
+Police de Cookies
+</TimeML>
+

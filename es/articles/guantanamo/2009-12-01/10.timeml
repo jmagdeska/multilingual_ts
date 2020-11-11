@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+<TIMEX3 tid="t3" type="DATE" value="2009-11-25">Miércoles</TIMEX3> <TIMEX3 tid="t1" type="DATE" value="2009-12-02">02/12/2009</TIMEX3> .
+Actualizado 03:10h .
+Alto coste económico y humano de la contienda <TIMEX3 tid="t5" type="DURATION" value="P8Y">Los ocho años</TIMEX3> de contienda estadounidense en Afganistán Militares del cuerpo de Marines de EEUU en la base Dwyer en Afganistán .
+| Efe Efe | Washington
+El presidente estadounidense , Barack Obama , anunció <TIMEX3 tid="t7" type="DATE" value="2009-12-01">el martes</TIMEX3> el nuevo rumbo de la guerra en Afganistán , una contienda que dura <TIMEX3 tid="t8" type="DURATION" value="P8Y" mod="MORE_THAN">más de ocho años</TIMEX3> y que se ha vuelto cada vez más impopular por su alto coste económico y humano .
+Estos son los acontecimientos más relevantes desde que comenzó la ofensiva militar estadounidense en <TIMEX3 tid="t10" type="DATE" value="2001">2001</TIMEX3> , tras los ataques terroristas <TIMEX3 tid="t12" type="DATE" value="2009-09-11">del 11 de septiembre</TIMEX3> :
+</TimeML>
+

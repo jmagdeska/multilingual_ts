@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+Grèce : les banques respirent mais des problèmes de liquidités guettent l' Etat Publié <TIMEX3 tid="t1" type="DATE" value="2015-02-26">le 26
+- 02</TIMEX3> - 15 à <TIMEX3 tid="t3" type="TIME" value="2015-02-26T12:16">12h16</TIMEX3> à Athènes ( AFP ) " Le vent a tourné " pour la Grèce et les capitaux reviennent , selon le ministre des Finances , mais <TIMEX3 tid="t5" type="DURATION" value="P2D">deux jours</TIMEX3> après un accord avec les Européens , le pays s' inquiètait aussi <TIMEX3 tid="t4" type="DATE" value="2015-02-26">jeudi</TIMEX3> de ses prochaines échéances financières , corollaires de sa gigantesque dette .
+Le grand argentier grec Yanis Varoufakis a évoqué dans une interview à Bloomberg Television " un afflux vers le secteur bancaire grec " , qui a vu revenir 700 millions d' euros de dépôts auprès de celles - ci en une journée <TIMEX3 tid="t6" type="DATE" value="2015-02-24">mardi</TIMEX3> , jour du feu vert de la zone euro à l' extension du programme international d' aide au pays .
+" Et je n' ai pas vérifié les chiffres pour ( <TIMEX3 tid="t8" type="DATE" value="2015-02-25">mercredi</TIMEX3> ) , mais je suis sûr que cela a continué " , a ajouté le ministre .
+" C' est une question de direction , une fois que le vent a tourné , l' espoir revient " , a -t -il analysé .
+L' accord arraché <TIMEX3 tid="t9" type="DATE" value="2015-02-24">mardi</TIMEX3> par la Grèce à ses partenaires sur la prolongation jusqu' à <TIMEX3 tid="t10" type="DATE" value="2015-06" mod="END">fin juin</TIMEX3> du programme qui la maintient à flot , en échange de promesses de réforme , est effectivement source d' espoir pour le gouvernement d' Alexis Tsipras , qui veut mettre à profit les <TIMEX3 tid="t12" type="DURATION" value="P4M">quatre mois</TIMEX3> qui viennent pour formuler un " nouveau contrat " entre la Grèce et ses partenaires .
+Le spectre d' une sortie de la zone euro , un " Grexit " semble <TIMEX3 tid="t13" type="DATE" value="PRESENT_REF">pour le moment</TIMEX3> écarté .
+Mais pour autant cette extension ne règle pas les problèmes pressants de financement qui revenaient sur le devant de la scène <TIMEX3 tid="t14" type="DATE" value="2015-02-26">jeudi</TIMEX3> .
+La Bourse d' Athènes chutait de 1,88 % à <TIMEX3 tid="t15" type="TIME" value="2015-02-26T09:38">09H38 GMT</TIMEX3> .
+- Echéances pressantes
+- " On n' aura pas de problème en ce qui concerne les liquidités de l' Etat ( ? ) mais on aura des problèmes pour rembourser les tranches du FMI <TIMEX3 tid="t17" type="DATE" value="PRESENT_REF">maintenant</TIMEX3> et de la BCE en <TIMEX3 tid="t19" type="DATE" value="2015-07">juillet</TIMEX3> " , a reconnu <TIMEX3 tid="t20" type="TIME" value="2015-02-25TEV">mercredi soir</TIMEX3> dans un entretien à la radio M. Varoufakis .
+La Grèce croule sous 320 milliards d' euros de dette , pas loin de deux fois son Produit intérieur brut ( PIB ) , détenue en majorité par les créanciers internationaux : les pays de la zone euro
+- directement et via le Fonds européen de stabilité financière ( FESF )
+- , le Fonds monétaire international et la Banque centrale européenne qui a acheté depuis <TIMEX3 tid="t22" type="DATE" value="2010">2010</TIMEX3> des obligations d' Etat grecques .
+Sur l' ensemble de <TIMEX3 tid="t24" type="DATE" value="2015">2015</TIMEX3> , la Grèce a 19 milliards d' euros à rembourser .
+Notamment , 1,6 milliard d' euros de crédits du FMI arrivent à échéance en <TIMEX3 tid="t26" type="DATE" value="2015-03">mars</TIMEX3> , puis de gros remboursements d' obligations seront dus à la BCE en <TIMEX3 tid="t27" type="DATE" value="2015-07">juillet</TIMEX3> ( 3,5 milliards d' euros , puis 3,2 milliards d' euros en <TIMEX3 tid="t28" type="DATE" value="2015-08">août</TIMEX3> ) .
+" Le gouvernement grec va faire tout ce qu' il faut pour parer aux problèmes de liquidités " , a expliqué <TIMEX3 tid="t29" type="DATE" value="2015-02-26">jeudi</TIMEX3> le porte-parole du gouvernement Gabriel Sakellaridis , " nous discutons des mesures législatives pour faciliter l' afflux de l' argent à l' Etat ( ... ) mais cela est aussi un sujet qui concerne nos partenaires " .
+- Discuter de la dette ?
+- Mais les Européens n' ont pas prévu de verser d' argent à Athènes avant <TIMEX3 tid="t30" type="DATE" value="2015-04">avril</TIMEX3> , date à laquelle ils veulent juger des avancées grecques sur les réformes promises .
+Et les marges de manoeuvre du gouvernement pour lever des fonds sous forme d' obligations à court terme sont limitées , puisque le programme d' aide plafonne leur montant .
+Le retour des capitaux dans les banques , victimes d' une hémorragie estimée à 20 milliards d' euros depuis <TIMEX3 tid="t31" type="DATE" value="2014-12">décembre</TIMEX3> , est à cet égard une bonne nouvelle , puisque les instituts de crédit grecs sont les plus gros acheteurs de titres de dette émis par l' Etat .
+M. Varoufakis a également suggéré , comme il l' avait déjà fait par <TIMEX3 tid="t33" type="DATE" value="PAST_REF">le passé</TIMEX3> , que la BCE reverse directement au FMI les gains réalisés sur ses obligations grecques , qui reviennent selon lui de droit à la Grèce .
+" Pourquoi ces deux institutions ne se mettraient pas d' accord entre elles pour transférer ces fonds de l' une à l' autre " , a -t -il dit sur Bloomberg Television .
+La BCE conditionne un reversement de ces gains au respect par Athènes des engagements pris dans le cadre du programme .
+Mais le fond du problème , pour Athènes , reste le poids de la dette , et les Européens ont refusé <TIMEX3 tid="t34" type="DATE" value="PRESENT_REF">pour le moment</TIMEX3> de discuter d' un allègement .
+" On n' a plus de front uni contre la Grèce sur la discussion de la dette " , a estimé <TIMEX3 tid="t35" type="DATE" value="2015-02-25">mercredi</TIMEX3> à la radio M. Varoufakis , appelant à " commencer immédiatement " les discussions sur ce point avec les créanciers .
+Parler de restructuration de la dette ou de décote à ce stade est " déplacé et incompréhensible " , a asséné <TIMEX3 tid="t36" type="DATE" value="2015-02-25">mercredi</TIMEX3> le porte-parole du ministre allemand des Finances Wolfgang Schäuble .
+A lire également Les plus consultés depuis <TIMEX3 tid="t37" type="TIME" value="2015-02-25T24:00">24h</TIMEX3>
+Les derniers articles de ParisMatch.be Facebook Cover
+- PM cover
+- ci Immobilier pour vous Recevez nos newsletters Copyright ©
+La Libre.be <TIMEX3 tid="t38" type="DATE" value="1996">1996</TIMEX3>
+- 2020 Ipm
+sa - IPM | Droit d' auteur |
+Charte de la vie privée |
+Police de Cookies
+</TimeML>
+

@@ -1,0 +1,25 @@
+Beautiful, Ridge addio. Dopo 25 anni Ronn Moss lascia
+Ronn Moss dice addio a ‘Beautiful’. L’attore che interpreta da 25 anni Ridge Forrester non rinnova il contratto per motivi economici. Lo riporta il sito specializzato EW, sottolineando che la società che produce la famosa soap opera ha confermato l’uscita di Ronn Moss. «Ronn ha trascorso 25 anni in Beautiful. Lo considereremo sempre parte della nostra famiglia e gli auguriamo il meglio per le sue prossime esperienze» afferma Bell Phillip in una nota.
+Moss girerà la sua ultima scena il prossimo 14 agosto. la puntata andra poi in onda in una data ancora da precisarsi in settembre. Il nodo del compenso di Moss è legato alle difficoltà che le soap opera incontrano sulle reti televisive: sempre più telespettatori preferiscono altro genere di programmazione e le soap non sono più in grado di conquistare l’audience degli anni precedenti. In ogni caso Beautiful continua a essere una delle soap di maggior successo in assoluto, grazie alla sua popolarità a livello internazionale.
+Ti potrebbero interessare anche:
+Aggiunti di recente
+google_ad_client = "ca-pub-9748224022421759";
+/* online-news lat rett */
+google_ad_slot = "3403483025";
+google_ad_width = 300;
+google_ad_height = 250;
+google_ad_client = "ca-pub-9748224022421759";
+/* leaderboard */
+google_ad_slot = "2149978919";
+google_ad_width = 728;
+google_ad_height = 90;
+© 2020
+Online-News All Rights Reserved. Iscritto al Tribunale dal 18/12/2009 - autorizzazione numero: 437/2009. - P.IVA 11173611002
+<!--
+var sc_project=6535464;
+var sc_security="ad91fed6";
+var sc_invisible=1;
+var scJsHost = (("https:" == document.location.protocol) ?
+"https://secure." : "http://www.");
+//-->
+document.write("<sc"+"ript src='" +scJsHost +"statcounter.com/counter/counter.js'></"+"script>");
