@@ -148,7 +148,7 @@ def dated_sents():
     cPickle.dump(topic_dt_sents, open(DATED_PATH + 'tilse.filtered_sents', 'wb'))
 
 local = True if sys.argv[1] == "l" else False
-lang_topic = {"es": ["egypt-2", "libya-2", "yemen"], 
+lang_topic = {"es": ["iraq-2", "egypt-2", "libya-2", "yemen"], 
         "fr": ["iraq-2", "syria-2", "libya-2", "egypt"],
         "it": ["egypt-2", "libya", "syria-2"]}
 
