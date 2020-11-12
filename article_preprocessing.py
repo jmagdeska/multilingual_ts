@@ -9,37 +9,16 @@ import _pickle as cPickle
 from tilse.data import corpora
 
 if len(sys.argv) != 2:
-    print('Please provide the language {es, fr, it, ru}')
+    print('Please provide the runtime {l, r}')
     exit()
 
-lang = sys.argv[1]
-inputDocs_path = lang + '/articles/'
-path = lang + '/articles'
-target_path = lang + '/corpus/'
-path_raw = path + '/raw/'
-path_dumped = lang + '/dumped_corpus/'
-heideltime_directory = "/home/jana/heideltime/"
-
-lang_model = {'es':'es_core_news_sm', 'fr':'fr_core_news_sm', 'it':'it_core_news_sm', 'ru':'xx_ent_wiki_sm'}
-heidel_lang = {'es': 'Spanish', 'fr': 'French', 'it': 'Italian', 'ru' : 'Russian'}
-
-nlp = spacy.load(lang_model[lang]) 
-LANGUAGE = heidel_lang[lang]
-
-if lang == 'ru':
-    nlp.add_pipe(nlp.create_pipe('sentencizer'))
-
-if not os.path.exists(os.path.dirname(path_raw)):s
-    os.mkdir(path_raw)
-if not os.path.exists(os.path.dirname(path_dumped)):
-    os.mkdir(path_dumped)
-
 def clean_art():
-    for topic in os.listdir(path):
-        dir_top = path + topic + '/'
+    for topic in os.listdir(ART_PATH):
+        dir_top = ART_PATH + "/" + topic + "/"
         for d in os.listdir(dir_top):
-            dir_date = dir_top + d + '/'
+            dir_date = dir_top + d + "/"         
             for f in os.listdir(dir_date):
+                f = dir_date + f
                 f_out = ''
                 with codecs.open(f, "r", encoding="utf-8", errors="ignore") as fp:      
                     for line in fp:
@@ -47,16 +26,16 @@ def clean_art():
                         if line is not '\n' and len(content) > 2:
                             f_out += line.strip() + '\n'
 
-                with open(dir_date + f, 'w+') as fp2:
+                with open(f, 'w+') as fp2:
                     fp2.write(f_out)
 
-def tokenize(art_dir):
+def tokenize():
     print (" ---------- TOKENIZE ----------\n")
-    for topic in os.listdir(art_dir):
-        for date in os.listdir('/'.join([art_dir, topic])):
-            for filename in os.listdir('/'.join([art_dir, topic, date])):
+    for topic in os.listdir(ART_PATH):
+        for date in os.listdir('/'.join([ART_PATH, topic])):
+            for filename in os.listdir('/'.join([ART_PATH, topic, date])):
                 if '.tokenized' not in filename:
-                    f = '/'.join([art_dir, topic, date, filename])
+                    f = '/'.join([ART_PATH, topic, date, filename])
                     sentences = ""
                     with codecs.open(f, "r", encoding="utf-8", errors="ignore") as fp:
                         for line in fp.readlines():
@@ -64,30 +43,33 @@ def tokenize(art_dir):
                     
                     splitted_and_tokenized = ""
 
-                    doc = nlp(sentences) 
-                    for sent in doc.sents:
-                        splitted_and_tokenized += " ".join(
-                            [tok.text for tok in sent if not tok.text.isspace()]).strip() + '\n'
+                    if len(sentences) < 1000000:
+                        doc = nlp(sentences) 
+                        del sentences
+                        for sent in doc.sents:
+                            splitted_and_tokenized += " ".join(
+                                [tok.text for tok in sent if not tok.text.isspace()]).strip() + '\n'
+                        
+                        del doc
+                        splitted_and_tokenized = splitted_and_tokenized.strip()
+                        filename = filename.split(".txt")[0]
+                        tokenized_filename = '/'.join([ART_PATH, topic, date,
+                                                            filename]) + '.tokenized'
 
-                    splitted_and_tokenized = splitted_and_tokenized.strip()
-                    filename = filename.split(".txt")[0]
-                    tokenized_filename = '/'.join([path, topic, date,
-                                                        filename]) + '.tokenized'
+                        with open(tokenized_filename, 'w', encoding="utf-8") as file:
+                            file.write(splitted_and_tokenized)
 
-                    with open(tokenized_filename, 'w', encoding="utf-8") as file:
-                        file.write(splitted_and_tokenized)
-
-def tag_heideltime(art_dir):
-    apply_heideltime = heideltime_directory + "apply_heideltime.jar"
-    heideltime_config = heideltime_directory + "config.props"
+def tag_heideltime(topics):
+    apply_heideltime = HEIDEL_DIR + "/apply_heideltime.jar"
+    heideltime_config = HEIDEL_DIR + "/config.props"
 
     ending = "tokenized"
     counter = 0
     print (" ---------- HEIDELTIME ----------\n")
 
-    for topic in os.listdir(art_dir):
+    for topic in topics:
         print('Tagging topic:', topic)
-        topic_path = '/'.join([art_dir, topic]) + '/'
+        topic_path = '/'.join([ART_PATH, topic]) + '/'
         for date in os.listdir(topic_path):
             for filename in os.listdir(topic_path + date):
                 if ending in filename:
@@ -107,7 +89,7 @@ def tag_heideltime(art_dir):
     ]
 
     for pair in replace_pairs:
-        find_command = "find " + path_raw + " -name '*.timeml' -type f -print0"
+        find_command = "find " + RAW_PATH + " -name '*.timeml' -type f -print0"
 
         find_output = subprocess.Popen(
             shlex.split(find_command),
@@ -123,30 +105,28 @@ def tag_heideltime(art_dir):
 
         find_output.wait()
 
-def build_corpus(art_dir):
+def build_corpus(topics):
     print (" ---------- BUILD CORPUS ----------\n")
-    for topic in os.listdir(art_dir):
-        if topic != 'raw':
-            print('Building corpus for topic:', topic)
-            corpus = corpora.Corpus.from_folder(art_dir + '/' + topic, nlp)
+    for topic in topics:
+        print('Building corpus for topic:', topic)
+        corpus = corpora.Corpus.from_folder(ART_PATH + '/' + topic, nlp)
 
-            with open(path_dumped + topic + '.corpus.obj', 'wb') as my_file:
-                pickle.dump(corpus, my_file)
+        with open(DUMPED_PATH + topic + '.corpus.obj', 'wb') as my_file:
+            pickle.dump(corpus, my_file)
 
 def dated_sents():
-    path_dumped = lang + '/dumped_corpus/'
-    target_path = lang + '/dated_sents/'
-    if not os.path.exists(os.path.dirname(target_path)):
-        os.mkdir(target_path)
+    DATED_PATH = ROOT_PATH + "/" + lang + "/dated_sents/"
+    if not os.path.exists(os.path.dirname(DATED_PATH)):
+        os.mkdir(DATED_PATH)
     topic_dt_sents = {}
     dated_sentences = {}
     print (" ---------- DATED SENTS ----------\n")
 
-    for corp in os.listdir(path_dumped):
+    for corp in os.listdir(DUMPED_PATH):
         topic = corp.split('.')[0]
         print('Current topic:', topic)
         dated_sentences[topic] = []
-        corpus = pickle.load(open(path_dumped + topic + '.corpus.obj', 'rb'))
+        corpus = pickle.load(open(DUMPED_PATH + "/" + topic + ".corpus.obj", "rb"))
         # filtered_corpus = corpus.filter_by_keywords_contained(keyword_mapping[topic])
         dt_sents = {}
         cnt = 0
@@ -161,22 +141,51 @@ def dated_sents():
 
                 list_sent = [(str(doc.publication_date), sent, time_span),(dt, sent, time_span)]
                 dated_sentences[topic].append(list_sent)
-        
-        cPickle.dump(dated_sentences[topic], open(target_path + topic + '.dated_sents', 'wb'))
+                
+        cPickle.dump(dated_sentences[topic], open(DATED_PATH + topic + '.dated_sents', 'wb'))
+        del dated_sentences[topic]
         topic_dt_sents.setdefault(topic, dt_sents)
-    cPickle.dump(topic_dt_sents, open(target_path + 'tilse.filtered_sents', 'wb'))
+    cPickle.dump(topic_dt_sents, open(DATED_PATH + 'tilse.filtered_sents', 'wb'))
 
-# tokenize(path)
+local = True if sys.argv[1] == "l" else False
+lang_topic = {"es": ["egypt-2", "libya-2", "yemen"], 
+        "fr": ["iraq-2", "syria-2", "libya-2", "egypt"],
+        "it": ["egypt-2", "libya", "syria-2"]}
+
+ROOT_PATH = "/home/jana/Documents/PoliTo/Thesis/multilingual_ts" if local == True else "/home/jana_magdeska/multilingual_ts"
+HEIDEL_DIR = "/home/jana/heideltime" if local == True else "/home/jana_magdeska/heideltime"
+
+lang_model = {'es':'es_core_news_sm', 'fr':'fr_core_news_sm', 'it':'it_core_news_sm', 'ru':'xx_ent_wiki_sm'}
+heidel_lang = {'es': 'Spanish', 'fr': 'French', 'it': 'Italian', 'ru' : 'Russian'}
+
+for lang in lang_topic.keys():
+    ART_PATH = ROOT_PATH + "/" + lang + "/articles"
+    RAW_PATH = ART_PATH + "/raw/"
+    DUMPED_PATH = ROOT_PATH + "/" + lang + "/dumped_corpus/"
+
+    nlp = spacy.load(lang_model[lang]) 
+    LANGUAGE = heidel_lang[lang]
+    if not os.path.exists(os.path.dirname(RAW_PATH)):
+        os.mkdir(RAW_PATH)
+    if not os.path.exists(os.path.dirname(DUMPED_PATH)):
+        os.mkdir(DUMPED_PATH)
+
+    topics = lang_topic[lang] 
+    tag_heideltime(topics)
+    build_corpus(topics)
+    dated_sents()
+
+# if lang == 'ru':
+#     nlp.add_pipe(nlp.create_pipe('sentencizer'))
+
+# clean_art()
+# tokenize()
 
 # handle special tokens for xml
-pairs = [("&", "&amp;"), ("<", "\&lt;"), (">", "\&gt;")]
-for pair in pairs:
-    find_command = "find " + path_raw + " -name '*htm*' -type f -print0"
-    sed_command = "xargs -0 sed -i 's/" + pair[0] + "/" + pair[1] + "/g'"
-    find_output = subprocess.Popen(shlex.split(find_command), stdout=subprocess.PIPE)
-    subprocess.Popen( shlex.split(sed_command), stdin=find_output.stdout )
-    find_output.wait()
-
-tag_heideltime(path)
-build_corpus(path)
-dated_sents()
+# pairs = [("&", "&amp;"), ("<", "\&lt;"), (">", "\&gt;")]
+# for pair in pairs:
+#     find_command = "find " + RAW_PATH + " -name '*htm*' -type f -print0"
+#     sed_command = "xargs -0 sed -i 's/" + pair[0] + "/" + pair[1] + "/g'"
+#     find_output = subprocess.Popen(shlex.split(find_command), stdout=subprocess.PIPE)
+#     subprocess.Popen( shlex.split(sed_command), stdin=find_output.stdout )
+#     find_output.wait()
