@@ -1,10 +1,12 @@
-from os import listdir
 import sys
-import dateparser
 from datetime import datetime, timedelta
+from os import listdir
 from urllib.parse import quote
-from GoogleNews import GoogleNews
+
+import dateparser
 from dateutil.parser import parse
+from GoogleNews import GoogleNews
+
 
 def is_date(string, fuzzy=False):
     try: 
@@ -36,51 +38,54 @@ def get_keywords(d,topic):
     manual_kw = f2.readline().strip('\n').split(',')
   
     # kw = ','.join(list(set(top_kw).union(set(manual_kw))))
-    kw = ','.join(top_kw)
+    kw = ','.join(manual_kw)
     return kw
 
 def extract_links(dir_c, dir_k, lang):
     for t in topics:
-        print('Current topic: ', t + '\n')
+        if t == "syria":
+            print('Current topic: ', t + '\n')
 
-        kw = get_keywords(dir_k, t)
-        print('Keywords: ', kw + '\n')
+            kw = get_keywords(dir_k, t)
+            print('Keywords: ', kw + '\n')
 
-        f_clean = open(dir_c + t + '.txt', 'r')
-        fp = f_clean.readlines()
-        min_d, max_d, num_d = get_date_range(fp)
-        print('Date range: ', min_d, max_d + '\n')
+            f_clean = open(dir_c + t + '.txt', 'r')
+            fp = f_clean.readlines()
+            min_d, max_d, num_d = get_date_range(fp)
+            print('Date range: ', min_d, max_d + '\n')
 
-        f_out = open(lang + '/links/' + t + '_links.txt', 'w')
+            f_out = open(lang + '/links/' + t + '_links2.txt', 'w')
 
-        key_enc = quote(kw.encode('utf8'))
-        googlenews = GoogleNews()
-        googlenews.setlang(lang)
-        googlenews.setTimeRange(min_d, max_d)
-        googlenews.search(key_enc)
-        result = googlenews.result()
+            googlenews = GoogleNews()
+            googlenews.setlang(lang)
+            googlenews.setTimeRange(min_d, max_d)
+            googlenews.setencode('utf-8')
+            googlenews.search(kw)
+            result = googlenews.result(sort=False)
 
-        page = 1
-        num_art = len(result)
-        curr_art = num_art
-
-        while curr_art < 10*num_d:
-            page += 1
-            googlenews.getpage(page)
-            result = googlenews.result()
+            page = 1
             num_art = len(result)
-            if curr_art < num_art:
-                curr_art = num_art
-            else: break
-        
-        for i in range(curr_art):
-            date = str(dateparser.parse(result[i]['date']).date())
-            link = result[i]['link']
-            f_out.write(date + '\n' + link)
-            f_out.write('\n--------------------------------\n')
+            curr_art = num_art
 
-        print('--------------------------------\n')
-        f_out.close()
+            while curr_art < 10*num_d:
+                page += 1
+                googlenews.getpage(page)
+                result = googlenews.result()
+                num_art = len(result)
+                if curr_art < num_art:
+                    curr_art = num_art
+                else: break
+            
+            for i in range(curr_art):
+                if dateparser.parse(result[i]['date']) is not None:
+                    date = str(dateparser.parse(result[i]['date']).date())
+                    title = "Title:" + result[i]['title']
+                    link = result[i]['link']
+                    f_out.write(date + '\n' + title + '\n' + link)
+                    f_out.write('\n--------------------------------\n')
+
+            print('--------------------------------\n')
+            f_out.close()
 
 lang = sys.argv[1]
 topics = []
