@@ -1,0 +1,215 @@
+------------------------------------------------------------------------------------
+date_range = source_dates_range, compr_ratio = 5, source = es
+
+TOPIC: egypt-multi
+Summarizer            concat_R1    concat_R2    agree_R1    agree_R2    align+m:1_R1    align+m:1_R2
+------------------  -----------  -----------  ----------  ----------  --------------  --------------
+SummarizerTextrank     0.372519     0.102904   0.0305344  0.00829016       0.0384221      0.00981783
+Date selection f1:0.1142857142857143
+
+TOPIC: syria-multi
+Summarizer            concat_R1    concat_R2    agree_R1    agree_R2    align+m:1_R1    align+m:1_R2
+------------------  -----------  -----------  ----------  ----------  --------------  --------------
+SummarizerTextrank     0.461839     0.145176  0.00691106  0.00151814       0.0145221      0.00281889
+Date selection f1:0.028985507246376812
+
+TOPIC: yemen-multi
+Summarizer            concat_R1    concat_R2    agree_R1    agree_R2    align+m:1_R1    align+m:1_R2
+------------------  -----------  -----------  ----------  ----------  --------------  --------------
+SummarizerTextrank      0.24932    0.0911994   0.0525133  0.00528306       0.0866834      0.00845894
+Date selection f1:0.25196850393700787
+
+TOPIC: libya-multi
+Summarizer            concat_R1    concat_R2    agree_R1    agree_R2    align+m:1_R1    align+m:1_R2
+------------------  -----------  -----------  ----------  ----------  --------------  --------------
+SummarizerTextrank     0.259126    0.0733204   0.0206463    0.001812       0.0313901      0.00281824
+Date selection f1:0.1951219512195122
+
+------------------------------------------------------------------------------------
+date_range = source_dates_range, compr_ratio = 4, source = es
+
+TOPIC: libya-multi
+Summarizer            concat_R1    concat_R2    agree_R1    agree_R2    align+m:1_R1    align+m:1_R2
+------------------  -----------  -----------  ----------  ----------  --------------  --------------
+SummarizerTextrank     0.487679     0.124252   0.0234025   0.0022892       0.0351509       0.0033335
+Date selection f1:0.21999999999999997
+
+TOPIC: egypt-multi
+Summarizer            concat_R1    concat_R2    agree_R1    agree_R2    align+m:1_R1    align+m:1_R2
+------------------  -----------  -----------  ----------  ----------  --------------  --------------
+SummarizerTextrank     0.374361    0.0776022   0.0143985   0.0023596       0.0332071      0.00437334
+Date selection f1:0.056338028169014086
+
+TOPIC: syria-multi
+Summarizer            concat_R1    concat_R2    agree_R1    agree_R2    align+m:1_R1    align+m:1_R2
+------------------  -----------  -----------  ----------  ----------  --------------  --------------
+SummarizerTextrank     0.409523     0.163456   0.0256787     0.01559       0.0373076       0.0174465
+Date selection f1:0.11881188118811879
+
+TOPIC: yemen-multi
+Summarizer            concat_R1    concat_R2    agree_R1    agree_R2    align+m:1_R1    align+m:1_R2
+------------------  -----------  -----------  ----------  ----------  --------------  --------------
+SummarizerTextrank     0.424836     0.136128   0.0692699  0.00875338        0.100213       0.0107523
+Date selection f1:0.3274021352313167
+
+------------------------------------------------------------------------------------
+date_range = source_dates_range, compr_ratio = 3
+
+TOPIC: libya-multi-es
+Summarizer            concat_R1    concat_R2    agree_R1    agree_R2    align+m:1_R1    align+m:1_R2
+------------------  -----------  -----------  ----------  ----------  --------------  --------------
+SummarizerTextrank     0.519622     0.136018   0.0355691  0.00416254       0.0476632        0.005157
+Date selection f1:0.2978723404255319
+
+TOPIC: egypt-multi-es
+Summarizer            concat_R1    concat_R2    agree_R1    agree_R2    align+m:1_R1    align+m:1_R2
+------------------  -----------  -----------  ----------  ----------  --------------  --------------
+SummarizerTextrank     0.342346    0.0756559   0.0219557  0.00247627        0.039905      0.00420432
+Date selection f1:0.07894736842105263
+
+TOPIC: syria-multi-es
+Summarizer            concat_R1    concat_R2    agree_R1    agree_R2    align+m:1_R1    align+m:1_R2
+------------------  -----------  -----------  ----------  ----------  --------------  --------------
+SummarizerTextrank     0.293308     0.135071   0.0216268   0.0102717       0.0348969       0.0120304
+Date selection f1:0.11336032388663966
+
+TOPIC: yemen-multi-es
+Summarizer            concat_R1    concat_R2    agree_R1    agree_R2    align+m:1_R1    align+m:1_R2
+------------------  -----------  -----------  ----------  ----------  --------------  --------------
+SummarizerTextrank     0.480231     0.155006   0.0853945   0.0103404         0.11359       0.0121959
+Date selection f1:0.40531561461794025
+
+------------------------------------------------------------------------------------
+date_range = source_dates_range, compr_ratio = 3
+
+TOPIC: libya-multi-es
+Summarizer            concat_R1    concat_R2    agree_R1    agree_R2    align+m:1_R1    align+m:1_R2
+------------------  -----------  -----------  ----------  ----------  --------------  --------------
+SummarizerTextrank     0.519622     0.136214   0.0355691  0.00416254       0.0476632        0.005157
+Date selection f1:0.2978723404255319
+
+TOPIC: egypt-multi-es
+Summarizer            concat_R1    concat_R2    agree_R1    agree_R2    align+m:1_R1    align+m:1_R2
+------------------  -----------  -----------  ----------  ----------  --------------  --------------
+SummarizerTextrank     0.342346    0.0756559   0.0219557  0.00247627        0.039905      0.00420432
+Date selection f1:0.07894736842105263
+
+TOPIC: syria-multi-es
+Summarizer            concat_R1    concat_R2    agree_R1    agree_R2    align+m:1_R1    align+m:1_R2
+------------------  -----------  -----------  ----------  ----------  --------------  --------------
+SummarizerTextrank     0.293308     0.135244   0.0216268   0.0102717       0.0348969       0.0120305
+Date selection f1:0.11336032388663966
+
+TOPIC: yemen-multi-es
+Summarizer            concat_R1    concat_R2    agree_R1    agree_R2    align+m:1_R1    align+m:1_R2
+------------------  -----------  -----------  ----------  ----------  --------------  --------------
+SummarizerTextrank     0.480231     0.155006   0.0853945   0.0102489         0.11359       0.0121041
+Date selection f1:0.40531561461794025
+
+------------------------------------------------------------------------------------
+date_range = source_dates_range, compr_ratio = 4
+
+TOPIC: libya-multi-es
+Summarizer            concat_R1    concat_R2    agree_R1    agree_R2    align+m:1_R1    align+m:1_R2
+------------------  -----------  -----------  ----------  ----------  --------------  --------------
+SummarizerTextrank     0.501187     0.142455   0.0308066  0.00368057       0.0429506      0.00493209
+Date selection f1:0.2950819672131148
+
+TOPIC: egypt-multi-es
+Summarizer            concat_R1    concat_R2    agree_R1    agree_R2    align+m:1_R1    align+m:1_R2
+------------------  -----------  -----------  ----------  ----------  --------------  --------------
+SummarizerTextrank      0.39746     0.102118   0.0263405  0.00573751       0.0433063      0.00852361
+Date selection f1:0.11267605633802817
+
+TOPIC: syria-multi-es
+Summarizer            concat_R1    concat_R2    agree_R1    agree_R2    align+m:1_R1    align+m:1_R2
+------------------  -----------  -----------  ----------  ----------  --------------  --------------
+SummarizerTextrank     0.399207     0.178784   0.0132984   0.0024613       0.0213118      0.00373791
+Date selection f1:0.059405940594059396
+
+TOPIC: yemen-multi-es
+Summarizer            concat_R1    concat_R2    agree_R1    agree_R2    align+m:1_R1    align+m:1_R2
+------------------  -----------  -----------  ----------  ----------  --------------  --------------
+SummarizerTextrank     0.371237     0.130553   0.0761915  0.00764047        0.105205      0.00944567
+Date selection f1:0.39862542955326463
+
+------------------------------------------------------------------------------------
+date_range = source_dates_range, compr_ratio = 4
+
+TOPIC: libya-multi-es
+Summarizer            concat_R1    concat_R2    agree_R1    agree_R2    align+m:1_R1    align+m:1_R2
+------------------  -----------  -----------  ----------  ----------  --------------  --------------
+SummarizerTextrank     0.501187     0.142676   0.0308066  0.00368057       0.0423757      0.00492868
+Date selection f1:0.29850746268656714
+
+TOPIC: egypt-multi-es
+Summarizer            concat_R1    concat_R2    agree_R1    agree_R2    align+m:1_R1    align+m:1_R2
+------------------  -----------  -----------  ----------  ----------  --------------  --------------
+SummarizerTextrank      0.39746     0.102588   0.0263405  0.00573751       0.0431181       0.0085083
+Date selection f1:0.11320754716981132
+
+TOPIC: syria-multi-es
+Summarizer            concat_R1    concat_R2    agree_R1    agree_R2    align+m:1_R1    align+m:1_R2
+------------------  -----------  -----------  ----------  ----------  --------------  --------------
+SummarizerTextrank     0.399207     0.178784   0.0132984   0.0024613       0.0213118      0.00373795
+Date selection f1:0.059405940594059396
+
+TOPIC: yemen-multi-es
+Summarizer            concat_R1    concat_R2    agree_R1    agree_R2    align+m:1_R1    align+m:1_R2
+------------------  -----------  -----------  ----------  ----------  --------------  --------------
+SummarizerTextrank     0.371237     0.130553   0.0761915  0.00764047        0.105205      0.00944567
+Date selection f1:0.39862542955326463
+
+------------------------------------------------------------------------------------
+date_range = source_dates_range, compr_ratio = 4
+
+TOPIC: libya-multi-es
+Summarizer            concat_R1    concat_R2    agree_R1    agree_R2    align+m:1_R1    align+m:1_R2
+------------------  -----------  -----------  ----------  ----------  --------------  --------------
+SummarizerTextrank     0.299646     0.074922   0.0149823  0.00112147       0.0225554      0.00156205
+Date selection f1:0.29050279329608936
+
+TOPIC: egypt-multi-es
+Summarizer            concat_R1    concat_R2    agree_R1     agree_R2    align+m:1_R1    align+m:1_R2
+------------------  -----------  -----------  ----------  -----------  --------------  --------------
+SummarizerTextrank     0.387705    0.0680886   0.0155738  0.000835771       0.0288363      0.00325484
+Date selection f1:0.16666666666666669
+
+TOPIC: syria-multi-es
+Summarizer            concat_R1    concat_R2    agree_R1    agree_R2    align+m:1_R1    align+m:1_R2
+------------------  -----------  -----------  ----------  ----------  --------------  --------------
+SummarizerTextrank     0.558194     0.208608   0.0134023  0.00286123       0.0241795      0.00482767
+Date selection f1:0.041379310344827586
+
+TOPIC: yemen-multi-es
+Summarizer            concat_R1    concat_R2    agree_R1    agree_R2    align+m:1_R1    align+m:1_R2
+------------------  -----------  -----------  ----------  ----------  --------------  --------------
+SummarizerTextrank    0.0823686    0.0231568   0.0174318  0.00135117       0.0375461       0.0021491
+Date selection f1:0.2040816326530612
+
+------------------------------------------------------------------------------------
+date_range = source_dates_range, compr_ratio = 4
+
+TOPIC: libya-multi-es
+Summarizer            concat_R1    concat_R2    agree_R1    agree_R2    align+m:1_R1    align+m:1_R2
+------------------  -----------  -----------  ----------  ----------  --------------  --------------
+SummarizerTextrank     0.503203     0.142384   0.0312569   0.0036816       0.0434414      0.00497277
+Date selection f1:0.2950819672131148
+
+TOPIC: egypt-multi-es
+Summarizer            concat_R1    concat_R2    agree_R1    agree_R2    align+m:1_R1    align+m:1_R2
+------------------  -----------  -----------  ----------  ----------  --------------  --------------
+SummarizerTextrank     0.408106     0.101367   0.0282752  0.00526946       0.0456885      0.00809396
+Date selection f1:0.11267605633802817
+
+TOPIC: syria-multi-es
+Summarizer            concat_R1    concat_R2    agree_R1    agree_R2    align+m:1_R1    align+m:1_R2
+------------------  -----------  -----------  ----------  ----------  --------------  --------------
+SummarizerTextrank     0.400974     0.179231   0.0133316  0.00246753       0.0211019       0.0036817
+Date selection f1:0.059405940594059396
+
+TOPIC: yemen-multi-es
+Summarizer            concat_R1    concat_R2    agree_R1    agree_R2    align+m:1_R1    align+m:1_R2
+------------------  -----------  -----------  ----------  ----------  --------------  --------------
+SummarizerTextrank      0.37166     0.129896   0.0779085  0.00838819        0.106859       0.0100398
+Date selection f1:0.39862542955326463

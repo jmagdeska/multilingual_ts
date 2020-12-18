@@ -1,0 +1,108 @@
+
+------------------------------------------------------------------------------------
+date_range = source_dates_range, compr_ratio = 5
+
+TOPIC: libya
+Summarizer            concat_R1    concat_R2    agree_R1    agree_R2    align+m:1_R1    align+m:1_R2
+------------------  -----------  -----------  ----------  ----------  --------------  --------------
+SummarizerTextrank     0.299409    0.0742581   0.0124866  0.00108563        0.023621      0.00180475
+Date selection f1:0.1625
+
+TOPIC: egypt
+Summarizer            concat_R1    concat_R2    agree_R1    agree_R2    align+m:1_R1    align+m:1_R2
+------------------  -----------  -----------  ----------  ----------  --------------  --------------
+SummarizerTextrank     0.256216    0.0270563  0.00432432           0       0.0174208      0.00168853
+Date selection f1:0.05
+
+TOPIC: syria
+Summarizer            concat_R1    concat_R2    agree_R1    agree_R2    align+m:1_R1    align+m:1_R2
+------------------  -----------  -----------  ----------  ----------  --------------  --------------
+SummarizerTextrank     0.530303     0.166044   0.0171278    0.002895       0.0280849       0.0048243
+Date selection f1:0.06299212598425198
+
+TOPIC: yemen
+Summarizer            concat_R1    concat_R2    agree_R1    agree_R2    align+m:1_R1    align+m:1_R2
+------------------  -----------  -----------  ----------  ----------  --------------  --------------
+SummarizerTextrank     0.119313    0.0328249   0.0220091  0.00156842       0.0475657       0.0029285
+Date selection f1:0.15966386554621848
+
+------------------------------------------------------------------------------------
+date_range = source_dates_range, compr_ratio = 4
+
+TOPIC: libya
+Summarizer            concat_R1    concat_R2    agree_R1    agree_R2    align+m:1_R1    align+m:1_R2
+------------------  -----------  -----------  ----------  ----------  --------------  --------------
+SummarizerTextrank     0.350487    0.0868207   0.0127404  0.00101023       0.0236269      0.00176565
+Date selection f1:0.192090395480226
+
+TOPIC: egypt
+Summarizer            concat_R1    concat_R2    agree_R1    agree_R2    align+m:1_R1    align+m:1_R2
+------------------  -----------  -----------  ----------  ----------  --------------  --------------
+SummarizerTextrank     0.369932    0.0540997  0.00337838           0       0.0189702      0.00254197
+Date selection f1:0.043478260869565216
+
+TOPIC: syria
+Summarizer            concat_R1    concat_R2    agree_R1    agree_R2    align+m:1_R1    align+m:1_R2
+------------------  -----------  -----------  ----------  ----------  --------------  --------------
+SummarizerTextrank     0.523618     0.172311    0.016466  0.00271626       0.0267902      0.00455441
+Date selection f1:0.06896551724137931
+
+TOPIC: yemen
+Summarizer            concat_R1    concat_R2    agree_R1    agree_R2    align+m:1_R1    align+m:1_R2
+------------------  -----------  -----------  ----------  ----------  --------------  --------------
+SummarizerTextrank     0.144135    0.0386845   0.0246945  0.00179143       0.0540917       0.0031533
+Date selection f1:0.18775510204081633
+
+------------------------------------------------------------------------------------
+date_range = source_dates_range, compr_ratio = 3
+
+TOPIC: libya
+Summarizer            concat_R1    concat_R2    agree_R1    agree_R2    align+m:1_R1    align+m:1_R2
+------------------  -----------  -----------  ----------  ----------  --------------  --------------
+SummarizerTextrank     0.383783     0.091613   0.0154837  0.00107636       0.0263167      0.00177081
+Date selection f1:0.1990049751243781
+
+TOPIC: egypt
+Summarizer            concat_R1    concat_R2    agree_R1    agree_R2    align+m:1_R1    align+m:1_R2
+------------------  -----------  -----------  ----------  ----------  --------------  --------------
+SummarizerTextrank     0.395939    0.0640875  0.00312378           0        0.018859      0.00247402
+Date selection f1:0.04
+
+TOPIC: syria
+Summarizer            concat_R1    concat_R2    agree_R1    agree_R2    align+m:1_R1    align+m:1_R2
+------------------  -----------  -----------  ----------  ----------  --------------  --------------
+SummarizerTextrank     0.506298     0.170882    0.015153  0.00250361       0.0266688      0.00448297
+Date selection f1:0.05714285714285715
+
+TOPIC: yemen
+Summarizer            concat_R1    concat_R2    agree_R1    agree_R2    align+m:1_R1    align+m:1_R2
+------------------  -----------  -----------  ----------  ----------  --------------  --------------
+SummarizerTextrank     0.207706    0.0602704    0.036801  0.00229774       0.0674445       0.0041192
+Date selection f1:0.25000000000000006
+
+------------------------------------------------------------------------------------
+date_range = source_dates_range, compr_ratio = 4
+
+TOPIC: libya
+Summarizer            concat_R1    concat_R2    agree_R1    agree_R2    align+m:1_R1    align+m:1_R2
+------------------  -----------  -----------  ----------  ----------  --------------  --------------
+SummarizerTextrank     0.350487    0.0866958   0.0127404  0.00101023       0.0236269      0.00176565
+Date selection f1:0.18994413407821228
+
+TOPIC: egypt
+Summarizer            concat_R1    concat_R2    agree_R1    agree_R2    align+m:1_R1    align+m:1_R2
+------------------  -----------  -----------  ----------  ----------  --------------  --------------
+SummarizerTextrank     0.369932    0.0540997  0.00337838           0       0.0161313      0.00230969
+Date selection f1:0.08333333333333334
+
+TOPIC: syria
+Summarizer            concat_R1    concat_R2    agree_R1    agree_R2    align+m:1_R1    align+m:1_R2
+------------------  -----------  -----------  ----------  ----------  --------------  --------------
+SummarizerTextrank     0.523618     0.172311    0.016466  0.00271626       0.0267902      0.00455486
+Date selection f1:0.06896551724137931
+
+TOPIC: yemen
+Summarizer            concat_R1    concat_R2    agree_R1    agree_R2    align+m:1_R1    align+m:1_R2
+------------------  -----------  -----------  ----------  ----------  --------------  --------------
+SummarizerTextrank     0.144135    0.0386845   0.0246945  0.00179143       0.0540917       0.0031533
+Date selection f1:0.18775510204081633
