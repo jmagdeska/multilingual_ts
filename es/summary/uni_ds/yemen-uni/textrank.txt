@@ -30,8 +30,8 @@ Por favor , marca uno o varios temas que sean de tu interés .
 « No voy a trabajar para prolongar mi mandato » , aseguró Salah en un discurso ante el Parlamento , en el que señaló que « se van a congelar las reformas constitucionales de acuerdo con lo que exige el interés público » .
 --------------------------------
 2011-02-03
-« Día de la ira » La oposición yemení ha convocado para mañana una jornada de protestas , bautizada como " día de la ira " , que se desarrollará en la plaza Tahrir , en el centro de la capital .
 " Si la oposición lidera protestas mañana o cualquier otro día que lleven a la destrucción de la propiedad , cada ciudadano yemení , esté donde esté , tendrá el derecho de la defensa legítima de su dinero y de su honor " , aseguró durante su discurso .
+« Día de la ira » La oposición yemení ha convocado para mañana una jornada de protestas , bautizada como " día de la ira " , que se desarrollará en la plaza Tahrir , en el centro de la capital .
 --------------------------------
 2011-02-11
 El 11 de febrero de 2011 el presidente egipcio , Hosni Mubarak , renunció a la Presidencia tras dieciocho días de disturbios en el país .
@@ -39,13 +39,13 @@ Ahora , los egipcios protestan contra el poder militar , que dirige el país des
 Qué ha pasado Tras 18 días de históricas manifestaciones populares , centradas en la plaza Tahrir de El Cairo , Hosni Mubarak abandonó finalmente el poder el 11 de febrero .
 --------------------------------
 2011-02-12
-La violencia sectaria en el Irak post - Saddam se cobra víctimas a menudo , la última ocasión el pasado 12 de febrero .
 En Argelia , la oposición sigue decidida a salir de nuevo a la calle este sábado en la capital , a pesar de las promesas del poder de un levantamiento del estado de urgencia y medidas para responder a las peticiones de los argelinos .
+La violencia sectaria en el Irak post - Saddam se cobra víctimas a menudo , la última ocasión el pasado 12 de febrero .
 --------------------------------
 2011-02-14
-El rey bareiní , Hamad bin Isa al Jalifa , se mantiene al frente del país , pese a las protestas de miles de ciudadanos en demanda de reformas democráticas , que comenzaron el 14 de febrero y en las que han muerto más de una veintena de personas y miles más han resultado heridas o detenidas , según la oposición .
-En total , según fuentes oficiales , cinco personas han fallecido y al menos 200 han resultado heridas desde que el lunes comenzase la protesta bahreiní .
 El lunes , los enfrentamiento opusieron en SanÃ ¡ a miles de manifestantes y de partidarios del jefe de Estado , armados con palos y piedras .
+En total , según fuentes oficiales , cinco personas han fallecido y al menos 200 han resultado heridas desde que el lunes comenzase la protesta bahreiní .
+El rey bareiní , Hamad bin Isa al Jalifa , se mantiene al frente del país , pese a las protestas de miles de ciudadanos en demanda de reformas democráticas , que comenzaron el 14 de febrero y en las que han muerto más de una veintena de personas y miles más han resultado heridas o detenidas , según la oposición .
 --------------------------------
 2011-02-15
 Los estudiantes protestan por cuarto dÃ­a consecutivo contra el rÃ © gimen del presidente AlÃ­ AbdalÃ ¡ Saleh , en el poder desde hace 32 aÃ±os .
@@ -91,8 +91,8 @@ Las protestas de hoy se han desarrollado con tranquilidad a pesar de que en jorn
 Un acuerdo que se percibe lejano mientras Saleh reitere que no renunciará al poder , y los manifestantes , entre ellos las mujeres presentes en los alrededores de la universidad , exigen su salida sin condición .
 --------------------------------
 2011-02-25
-INDICADORES - Viernes PICO Y PLACA - Viernes Hoy no salen los vehÃ­culos con placa : ESTADO DEL TIEMPO - Viernes -15 cms - Hora : 04:26:00 DirecciÃ³n del viento Temp .
 Los manifestantes que se echaron a la calle el pasado día 21 exigían reformas que garantizasen un funcionamiento más democrático de las instituciones , mayores garantías sociales , económicas y políticas , y el fin de la presión a los medios de comunicación y de la censura .
+INDICADORES - Viernes PICO Y PLACA - Viernes Hoy no salen los vehÃ­culos con placa : ESTADO DEL TIEMPO - Viernes -15 cms - Hora : 04:26:00 DirecciÃ³n del viento Temp .
 --------------------------------
 2011-02-26
 Una buena parte de la fruta que exporta Túnez es propiedad de empresas españolas como Lolita o Agrolito , pero es en el aceite de oliva donde se centran los intereses españoles en el país norteafricano .
@@ -108,7 +108,7 @@ Gadafi afirmó también sentirse " traicionado " por las Naciones Unidas .
 Además , la periodista de ABC adelantó que durante el encuentro Gadafi culpó del levantamiento popular en Libia a Al - Qaeda .
 --------------------------------
 2011-03-01
-La actitud del régimen y la crudeza de la represión , que ha causado la muerte a cerca de 3.000 personas ( según cifras de la ONU ) desde que las protestas estallaran a mediados de marzo , ha ocasionado también deserciones militares .
+La actitud del régimen y la crudeza de las represión , que ha causado la muerte a cerca de 3.000 personas -según cifras de la ONU- desde que las protestas estallaran a mediados de marzo , ha ocasionado también deserciones militares .
 La incógnita está en saber qué lado va a elegir el general Ali Mohsen , que en marzo se pasó con sus fuerzas a la oposición , pero que se ha mantenido al margen de los combates .
 Qué ha pasado Desde que , a mediados de marzo , comenzaron las revueltas contra el régimen de Bashar al Assad , y según la ONU , han muerto en Siria unas 1.200 personas , víctimas de la represión gubernamental .
 --------------------------------
@@ -154,13 +154,13 @@ Brasil , con cifras alarmantes : hubo 1.129 muertos en 24 horas por coronavirus 
 El ejército ha tenido que lanzar disparos al aire para evitar los choques entre los manifestantes pro - democracia , que protestaban cerca de la Universidad de Saná en recuerdo del medio millar de personas fallecidas en las manifestaciones de hace una semana .
 --------------------------------
 2011-03-31
-Túnez , Egipto , Libia … Viva la Revolución » ( Barcelona , 31/03/11 ) disponible en video : http://www.revoltaglobal.cat/articl … ) .
 En relación con ello , así como con el deseable avance político y social de los yemeníes , cabe que reflexionemos a tiempo sobre la verosimilitud de algo dicho el pasado 31 de marzo por el mencionado Anwar al Awlaki : " ¿ No se da cuenta Occidente de que el trabajo yihadista dará comienzo tan pronto como los regímenes del Golfo se desmoronen ? " .
+Túnez , Egipto , Libia … Viva la Revolución » ( Barcelona , 31/03/11 ) disponible en video : http://www.revoltaglobal.cat/articl … ) .
 El 31 de marzo , la OTAN asume el mando de la operación .
 --------------------------------
 2011-04-01
 “ Informe de las manifestaciones de la oposición , pero acuda también a las de los partidarios del presidente ” , pidió Fares al Sanibani , asesor de prensa de Saleh , durante una visita el pasado abril .
-En abril fue hospitalizado por una « crisis cardiaca » y desde entonces aparece en público , en los juicios emprendidos contra él , en camilla .
+En abril fue hospitalizado por una " crisis cardiaca " y desde entonces aparece en público , en los juicios emprendidos contra él , en camilla .
 El pasado 28 abril Saleh acusó a Qatar de desestabilizar la región y de estar implicado en una conspiración contra su régimen .
 --------------------------------
 2011-04-03
@@ -200,8 +200,8 @@ Las heridas que sufrió el dirigente y sus dignatarios le obligaron a desplazars
 2011-04-30
 --------------------------------
 2011-05-01
-A principios de mayo pasado , el clérigo salió ileso de un ataque aéreo perpetrado también por EE.UU .
 Después de meses de protestas y represión , con un saldo de cerca de 200 muertos , a mediados de mayo el presidente parecía estar dispuesto a aceptar un acuerdo con la oposición , diseñado por el Consejo de Cooperación del Golfo y con el apoyo de EE UU y de la UE , según el cual abandonaría el poder a cambio de inmunidad judicial .
+A principios de mayo pasado , el clérigo salió ileso de un ataque aéreo perpetrado también por EE.UU .
 --------------------------------
 2011-05-07
 --------------------------------
@@ -272,8 +272,8 @@ La lentitud de la transición y la tensión que aún vive el país se han traduc
 La nueva Carta Magna se sometió a votación popular el 1 de julio , y obtuvo el respaldo del 98,49 % de los ciudadanos .
 --------------------------------
 2011-07-08
-Y este viernes , decenas de miles de personas volvieron a protagonizar una jornada de reivindicaciónen la plaza de Tahrir , donde exigieron al Ejército que acelere las reformas democráticas .
 Este mismo viernes , por ejemplo , una treintena de profesores de la universidad de Túnez crearon el primer " Observatorio Tunecino de la Transición Democrática " para intentar " paliar el déficit de instituciones de investigación y contribuir a la transición política " .
+Y este viernes , decenas de miles de personas volvieron a protagonizar una jornada de reivindicaciónen la plaza de Tahrir , donde exigieron al Ejército que acelere las reformas democráticas .
 --------------------------------
 2011-07-15
 --------------------------------
@@ -294,8 +294,8 @@ Qué está pasando Las elecciones inicialmente previstas para el 24 de julio fue
 El domingo en la ciudad de Hama , al menos 150 personas murieron después de una ofensiva militar de las tropas del gobierno contra la ciudad .
 --------------------------------
 2011-08-03
-Incluso con el juicio al expresidente Mubarak , que comenzó el miércoles , la gente comienza a desconfiar de los militares , antes respetados por la mayoría de los egipcios y temen que las reformas económicas y políticas sólo se lleven a cabo para satisfacer a las élites y mantener los privilegios de los militares .
 Su proceso judicial y el de sus dos hijos está previsto para el 3 de agosto .
+Incluso con el juicio al expresidente Mubarak , que comenzó el miércoles , la gente comienza a desconfiar de los militares , antes respetados por la mayoría de los egipcios y temen que las reformas económicas y políticas sólo se lleven a cabo para satisfacer a las élites y mantener los privilegios de los militares .
 --------------------------------
 2011-08-11
 Saleh , todavía convaleciente en Riad , ha indicado este jueves que seguirá el plan de las monarquías del Golfo para una transición pacífica en el país , donde varias protestas populares reclaman desde el pasado mes de enero su salida .

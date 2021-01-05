@@ -1,0 +1,35 @@
+
+------------------------------------------------------------------------------------
+date_range = source_dates_range, compr_ratio = 4
+
+TOPIC: libya
+Summarizer                concat_R1    concat_R2    agree_R1     agree_R2    align+m:1_R1    align+m:1_R2
+----------------------  -----------  -----------  ----------  -----------  --------------  --------------
+SummarizerSubmodular       0.296063    0.0639407   0.0187954  0.000971008       0.0307077      0.00156069
+SummarizerCentroidOpt      0.296063    0.0639407   0.0187954  0.000971008       0.0307077      0.00156069
+SummarizerCentroidRank     0.296063    0.0639407   0.0187954  0.000971008       0.0307077      0.00156069
+Date selection f1:0.27184466019417475
+
+TOPIC: egypt
+Summarizer                concat_R1    concat_R2    agree_R1    agree_R2    align+m:1_R1    align+m:1_R2
+----------------------  -----------  -----------  ----------  ----------  --------------  --------------
+SummarizerSubmodular       0.435405    0.0791557   0.0195857  0.00153905       0.0276586      0.00257266
+SummarizerCentroidOpt      0.435405    0.0791557   0.0195857  0.00153905       0.0276586      0.00257266
+SummarizerCentroidRank     0.435405    0.0791557   0.0195857  0.00153905       0.0276586      0.00257266
+Date selection f1:0.12500000000000003
+
+TOPIC: syria
+Summarizer                concat_R1    concat_R2    agree_R1    agree_R2    align+m:1_R1    align+m:1_R2
+----------------------  -----------  -----------  ----------  ----------  --------------  --------------
+SummarizerSubmodular       0.557606     0.234844   0.0120127  0.00244065       0.0187809      0.00343417
+SummarizerCentroidOpt      0.557606     0.234844   0.0120127  0.00244065       0.0187809      0.00343417
+SummarizerCentroidRank     0.557606     0.234844   0.0120127  0.00244065       0.0187809      0.00343417
+Date selection f1:0.03508771929824561
+
+TOPIC: yemen
+Summarizer                concat_R1    concat_R2    agree_R1    agree_R2    align+m:1_R1    align+m:1_R2
+----------------------  -----------  -----------  ----------  ----------  --------------  --------------
+SummarizerSubmodular      0.0829782     0.024244   0.0149174  0.00094697       0.0235863        0.001204
+SummarizerCentroidOpt     0.0829782     0.024244   0.0149174  0.00094697       0.0235863        0.001204
+SummarizerCentroidRank    0.0829782     0.024244   0.0149174  0.00094697       0.0235863        0.001204
+Date selection f1:0.45141065830721
